@@ -2,116 +2,132 @@
 [
   {
     "id": "1",
-    "name": "Google Pixel 6 Pro",
+    "name": "Pepperoni fresh",
+    "image: "https://ice43.github.io/pictures/pep_fresh.jpg",
     "data": {
-      "color": "Cloudy White",
-      "capacity": "128 GB",
-      "price": "999.99"
+      "size": "Small 25 cm, traditional dough, 380 g",
+      "description": "Spicy pepperoni, increased portion of mozzarella, tomatoes, signature tomato sauce",
+      "price": "289 RUB"
     }
   },
   {
     "id": "2",
-    "name": "Apple iPhone 12 Mini",
+    "name": "Cheese",
+    "image: "https://ice43.github.io/pictures/cheesy.jpg",
     "data": {
-      "color": "Blue",
-      "capacity": "256 GB",
-      "price": "999.99"
+      "size": "Small 25 cm, traditional dough, 310 g",
+      "description": "Mozzarella, cheddar cheese and parmesan cheese, Alfredo's signature sauce",
+      "price": "289 RUB"
     }
   },
   {
     "id": "3",
-    "name": "Apple iPhone 12 Pro Max",
+    "name": "Chorizo fresh",
+    "image: "https://ice43.github.io/pictures/chorizo.jpg",
     "data": {
-      "color": "Cloudy White",
-      "capacity": "512 GB",
-      "price": "999.99"
+      "size": "Small 25 cm, traditional dough, 330 g",
+      "description": "Spicy chorizo sausages, sweet peppers, mozzarella, signature tomato sauce",
+      "price": "289 RUB"
     }
   },
   {
     "id": "4",
-    "name": "Apple iPhone 11",
+    "name": "Ham and cheese",
+    "image: "https://ice43.github.io/pictures/ham_cheese.jpg",
     "data": {
-      "color": "Purple",
-      "capacity": "64 GB",
-      "price": "999.99"
+      "size": "Small 25 cm, traditional dough, 320 g",
+      "description": "Ham, mozzarella, alfredo's signature sauce",
+      "price": "369 RUB"
     }
   },
   {
     "id": "5",
-    "name": "Samsung Galaxy Z Fold 2",
+    "name": "Double chicken",
+    "image: "https://ice43.github.io/pictures/double_chicken.jpg",
     "data": {
-      "color": "Brown",
-      "capacity": "128 GB",
-      "price": "999.99"
+      "size": "Small 25 cm, traditional dough, 360 g",
+      "description": "Chicken, mozzarella, alfredo's signature sauce",
+      "price": "369 RUB"
     }
   },
   {
     "id": "6",
-    "name": "Apple AirPods",
+    "name": "Burger pizza",
+    "image: "https://ice43.github.io/pictures/burger.jpg",
     "data": {
-      "color": "White",
-      "price": "999.99"
+      "size": "Small 25 cm, traditional dough, 420 g",
+      "description": "Ham, pickles, tomatoes, red onion, garlic, burger sauce, mozzarella, signature tomato sauce",
+      "price": "419 RUB"
     }
   },
   {
     "id": "7",
-    "name": "Apple MacBook Pro 16",
+    "name": "Ham and mushrooms",
+    "image: "https://ice43.github.io/pictures/mushrooms.jpg",
     "data": {
-      "color": "Black",
-      "capacity": "2 TB",
-      "price": "999.99"
+      "size": "Small 25 cm, traditional dough, 370 g",
+      "description": "Ham, champignons, an increased portion of mozzarella, branded tomato sauce",
+      "price": "419 RUB"
     }
   },
   {
     "id": "8",
-    "name": "Apple Watch Series 8",
+    "name": "Hawaiian",
+    "image: "https://ice43.github.io/pictures/hawai.jpg",
     "data": {
-      "color": "Silver",
-      "price": "999.99"
+      "size": "Small 25 cm, traditional dough, 390 g",
+      "description": "Double portion of chicken, pineapples, mozzarella, alfredo sauce",
+      "price": "419 RUB"
     }
   },
   {
     "id": "9",
-    "name": "Beats Studio3 Wireless",
+    "name": "Sausages BBQ",
+    "image: "https://ice43.github.io/pictures/sausage_bbq.jpg",
     "data": {
-      "color": "Red and black",
-      "price": "999.99"
+      "size": "Small 25 cm, traditional dough, 370 g",
+      "description": "Spicy chorizo, barbecue sauce, tomatoes, red onion, mozzarella, signature tomato sauce",
+      "price": "419 RUB"
     }
   },
   {
     "id": "10",
-    "name": "Apple iPad Mini",
+    "name": "Margherita",
+    "image: "https://ice43.github.io/pictures/marg.jpg",
     "data": {
-      "color": "Space Gray",
-      "capacity": "512 GB",
-      "price": "999.99"
+      "size": "Small 25 cm, traditional dough, 400 g",
+      "description": "Increased portion of mozzarella, tomatoes, Italian herbs, branded tomato sauce",
+      "price": "419 RUB"
     }
   },
   {
     "id": "11",
-    "name": "Apple iPad Pro",
+    "name": "Pepperoni",
+    "image: "https://ice43.github.io/pictures/pepp.jpg",
     "data": {
-      "color": "Space Gray",
-      "capacity": "1 TB",
-      "price": "999.99"
+      "size": "Small 25 cm, traditional dough, 340 g",
+      "description": "Spicy pepperoni, an increased portion of mozzarella, signature tomato sauce",
+      "price": "419 RUB"
     }
   },
   {
     "id": "12",
-    "name": "Apple iPad Air",
+    "name": "Four seasons",
+    "image: "https://ice43.github.io/pictures/four_season.jpg",
     "data": {
-      "color": "Purple",
-      "capacity": "512 GB",
-      "price": "999.99"
+      "size": "Small 25 cm, traditional dough, 380 g",
+      "description": "An increased portion of mozzarella, ham, spicy pepperoni, cubes of cheese, tomatoes, mushrooms, Italian herbs, branded tomato sauce",
+      "price": "419 RUB"
     }
   },
   {
     "id": "13",
-    "name": "Apple iPad Air",
+    "name": "Arriva!",
+    "image: "https://ice43.github.io/pictures/arriva.jpg",
     "data": {
-      "color": "Red",
-      "capacity": "256 GB",
-      "price": "999.99"
+      "size": "Small 25 cm, traditional dough, 370 g",
+      "description": "Chicken, spicy chorizo, burger sauce, sweet pepper, red onion, tomatoes, mozzarella, ranch sauce, garlic",
+      "price": "469 RUB"
     }
   }
 ]
