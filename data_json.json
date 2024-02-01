@@ -4,7 +4,7 @@
     "id": "1",
     "name": "Pepperoni fresh",
     "data": {
-      "image": "https://ice43.github.io/pictures/pep_fresh.jpg",
+      "image": "https://ice43.github.io/pictures/pep_fresh.png",
       "size": "Small 25 cm, traditional dough, 380 g",
       "description": "Spicy pepperoni, increased portion of mozzarella, tomatoes, signature tomato sauce",
       "price": "289 RUB"
@@ -34,7 +34,7 @@
     "id": "4",
     "name": "Ham and cheese",
     "data": {
-      "image": "https://ice43.github.io/pictures/ham_cheese.jpg",
+      "image": "https://ice43.github.io/pictures/ham_cheese.png",
       "size": "Small 25 cm, traditional dough, 320 g",
       "description": "Ham, mozzarella, alfredo's signature sauce",
       "price": "369 RUB"
@@ -64,7 +64,7 @@
     "id": "7",
     "name": "Ham and mushrooms",
     "data": {
-      "image": "https://ice43.github.io/pictures/mushrooms.jpg",
+      "image": "https://ice43.github.io/pictures/mushrooms.png",
       "size": "Small 25 cm, traditional dough, 370 g",
       "description": "Ham, champignons, an increased portion of mozzarella, branded tomato sauce",
       "price": "419 RUB"
@@ -74,7 +74,7 @@
     "id": "8",
     "name": "Hawaiian",
     "data": {
-      "image": "https://ice43.github.io/pictures/hawai.jpg",
+      "image": "https://ice43.github.io/pictures/hawai.png",
       "size": "Small 25 cm, traditional dough, 390 g",
       "description": "Double portion of chicken, pineapples, mozzarella, alfredo sauce",
       "price": "419 RUB"
@@ -84,7 +84,7 @@
     "id": "9",
     "name": "Sausages BBQ",
     "data": {
-      "image": "https://ice43.github.io/pictures/sausage_bbq.jpg",
+      "image": "https://ice43.github.io/pictures/sausage_bbq.png",
       "size": "Small 25 cm, traditional dough, 370 g",
       "description": "Spicy chorizo, barbecue sauce, tomatoes, red onion, mozzarella, signature tomato sauce",
       "price": "419 RUB"
@@ -94,7 +94,7 @@
     "id": "10",
     "name": "Margherita",
     "data": {
-      "image": "https://ice43.github.io/pictures/marg.jpg",
+      "image": "https://ice43.github.io/pictures/marg.png",
       "size": "Small 25 cm, traditional dough, 400 g",
       "description": "Increased portion of mozzarella, tomatoes, Italian herbs, branded tomato sauce",
       "price": "419 RUB"
@@ -104,7 +104,7 @@
     "id": "11",
     "name": "Pepperoni",
     "data": {
-      "image": "https://ice43.github.io/pictures/pepp.jpg",
+      "image": "https://ice43.github.io/pictures/pepp.png",
       "size": "Small 25 cm, traditional dough, 340 g",
       "description": "Spicy pepperoni, an increased portion of mozzarella, signature tomato sauce",
       "price": "419 RUB"
@@ -114,7 +114,7 @@
     "id": "12",
     "name": "Four seasons",
     "data": {
-      "image": "https://ice43.github.io/pictures/four_season.jpg",
+      "image": "https://ice43.github.io/pictures/four_season.png",
       "size": "Small 25 cm, traditional dough, 380 g",
       "description": "An increased portion of mozzarella, ham, spicy pepperoni, cubes of cheese, tomatoes, mushrooms, Italian herbs, branded tomato sauce",
       "price": "419 RUB"
