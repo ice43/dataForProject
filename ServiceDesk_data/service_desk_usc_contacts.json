@@ -1,0 +1,1552 @@
+{
+  "union_sea_company_contacts": [
+    {
+      "id": 1,
+      "name": "Administration",
+      "members": [
+        {
+          "name": "Tommy Hudson",
+          "post": "CEO",
+          "phone": "(279) 544-1483",
+          "email": "tommy.hudson@usc.com"
+        },
+        {
+          "name": "Salvador Montgomery",
+          "post": "Assistant to the General Director",
+          "phone": "(910) 163-6587",
+          "email": "salvador.montgomery@usc.com"
+        },
+        {
+          "name": "Frederick Price",
+          "post": "Financial Director",
+          "phone": "(717) 752-4242",
+          "email": "frederick.price@usc.com"
+        },
+        {
+          "name": "Michael Anderson",
+          "post": "Director of Information Technology",
+          "phone": "(422) 998-2054",
+          "email": "michael.anderson@usc.com"
+        },
+        {
+          "name": "Margaret Pearson",
+          "post": "HR Director",
+          "phone": "(311) 561-8394",
+          "email": "margaret.pearson@usc.com"
+        },
+        {
+          "name": "William Murphy",
+          "post": "Deputy Director General for Security",
+          "phone": "(600) 528-5874",
+          "email": "william.murphy@usc.com"
+        },
+        {
+          "name": "John Reed",
+          "post": "Chief Engineer",
+          "phone": "(641) 619-7912",
+          "email": "john.reed@usc.com"
+        },
+        {
+          "name": "Melissa Hall",
+          "post": "Commercial Director",
+          "phone": "(956) 209-4236",
+          "email": "melissa.hall@usc.com"
+        },
+        {
+          "name": "Matthew Franklin",
+          "post": "Head of the Bakaritsa section",
+          "phone": "(925) 872-2646",
+          "email": "matthew.franklin@usc.com"
+        },
+        {
+          "name": "Cindy Reed",
+          "post": "Assistant to the General Director",
+          "phone": "(842) 296-4928",
+          "email": "cindy.reed@usc.com"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "The site of supervision of capital construction",
+      "members": [
+        {
+          "name": "Timothy Castillo",
+          "post": "Chief Technical Supervision Specialist",
+          "phone": "(965) 326-1533",
+          "email": "timothy.castillo@usc.com"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Commercial Service",
+      "members": [
+        {
+          "name": "Kevin Crawford",
+          "post": "Head of the Service",
+          "phone": "(459) 209-6517",
+          "email": "kevin.crawford@usc.com"
+        },
+        {
+          "name": "Gregory Davis",
+          "post": "Leading Specialist",
+          "phone": "(684) 410-7980",
+          "email": "gregory.davis@usc.com"
+        },
+        {
+          "name": "Nicole Garcia",
+          "post": "Main expert",
+          "phone": "(306) 857-7789",
+          "email": "nicole.garcia@usc.com"
+        },
+        {
+          "name": "Albert Martin",
+          "post": "Deputy Head of the Service",
+          "phone": "(420) 408-8170",
+          "email": "albert.martin@usc.com"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Logistics Service",
+      "members": [
+        {
+          "name": "Shirley Simpson",
+          "post": "Lead Manager",
+          "phone": "(735) 180-3600",
+          "email": "shirley.simpson@usc.com"
+        },
+        {
+          "name": "Elizabeth Davidson",
+          "post": "Storekeeper",
+          "phone": "(764) 563-1786",
+          "email": "elizabeth.davidson@usc.com"
+        },
+        {
+          "name": "Sandra Johnson",
+          "post": "Storekeeper",
+          "phone": "(997) 445-7951",
+          "email": "sandra.johnson@usc.com"
+        },
+        {
+          "name": "Carolyn Webb",
+          "post": "Purchasing Manager",
+          "phone": "(407) 152-4730",
+          "email": "carolyn.webb@usc.com"
+        },
+        {
+          "name": "Bertha Jimenez",
+          "post": "Purchasing Manager",
+          "phone": "(272) 262-3786",
+          "email": "bertha.jimenez@usc.com"
+        },
+        {
+          "name": "Alice Fuller",
+          "post": "Specialist in working with electronic platforms",
+          "phone": "(524) 228-4305",
+          "email": "alice.fuller@usc.com"
+        },
+        {
+          "name": "Rebecca Jones",
+          "post": "Storekeeper",
+          "phone": "(996) 863-2006",
+          "email": "rebecca.jones@usc.com"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Department of Logistics",
+      "members": [
+        {
+          "name": "Timothy Castillo",
+          "post": "Chief Technical Supervision Specialist",
+          "phone": "(965) 326-1533",
+          "email": "timothy.castillo@usc.com"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Legal and Corporate Affairs Service",
+      "members": [
+        {
+          "name": "Ann Hill",
+          "post": "Legal Adviser",
+          "phone": "(103) 763-2237",
+          "email": "ann.hill@usc.com"
+        },
+        {
+          "name": "Allen Dawson",
+          "post": "Head of the Legal and Corporate Affairs Service",
+          "phone": "(691) 369-8107",
+          "email": "allen.dawson@usc.com"
+        },
+        {
+          "name": "Nora Coleman",
+          "post": "Deputy Head of the Legal and Corporate Affairs Service",
+          "phone": "(218) 273-7237",
+          "email": "nora.coleman@usc.com"
+        },
+        {
+          "name": "Lisa Bowen",
+          "post": "Lead Legal Counsel",
+          "phone": "(309) 202-1926",
+          "email": "lisa.bowen@usc.com"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Security Service",
+      "members": [
+        {
+          "name": "Lewis Cook",
+          "post": "Head of the Service",
+          "phone": "(442) 593-8103",
+          "email": "lewis.cook@usc.com"
+        },
+        {
+          "name": "James Brown",
+          "post": "Chief Specialist in regime and security",
+          "phone": "(302) 142-5256",
+          "email": "james.brown@usc.com"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "The Pass Office",
+      "members": [
+        {
+          "name": "Patricia Patterson",
+          "post": "Access Control Specialist",
+          "phone": "(325) 225-2307",
+          "email": "patricia.patterson@usc.com"
+        },
+        {
+          "name": "Linda Blake",
+          "post": "Access Control Specialist",
+          "phone": "(884) 442-2309",
+          "email": "linda.blake@usc.com"
+        },
+        {
+          "name": "Marion Smith",
+          "post": "Access Control Specialist",
+          "phone": "(915) 510-8826",
+          "email": "marion.smith@usc.com"
+        },
+        {
+          "name": "Anna Flores",
+          "post": "Access Control Specialist",
+          "phone": "(736) 849-6797",
+          "email": "anna.flores@usc.com"
+        },
+        {
+          "name": "Kelly Miller",
+          "post": "Access Control Specialist",
+          "phone": "(937) 695-1324",
+          "email": "kelly.miller@usc.com"
+        },
+        {
+          "name": "Nora Holloway",
+          "post": "Senior Access Control Specialist",
+          "phone": "(366) 594-5104",
+          "email": "nora.holloway@usc.com"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Financial and Economic Service",
+      "members": [
+        {
+          "name": "Regina Roberts",
+          "post": "Head of the Service",
+          "phone": "(371) 518-1244",
+          "email": "regina.roberts@usc.com"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Household plot",
+      "members": [
+        {
+          "name": "John Smith",
+          "post": "The master of the household plot",
+          "phone": "(764) 112-6511",
+          "email": "john.smith@usc.com"
+        },
+        {
+          "name": "Brandon Wade",
+          "post": "The head of the site",
+          "phone": "(880) 213-3782",
+          "email": "brandon.wade@usc.com"
+        },
+        {
+          "name": "Bill Duncan",
+          "post": "The Commandant",
+          "phone": "(890) 913-9807",
+          "email": "bill.duncan@usc.com"
+        },
+        {
+          "name": "Francis Norton",
+          "post": "Master",
+          "phone": "(785) 669-6072",
+          "email": "francis.norton@usc.com"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Planning and Economic Department",
+      "members": [
+        {
+          "name": "Edna Thompson",
+          "post": "Chief Economist",
+          "phone": "(411) 154-6917",
+          "email": "edna.thompson@usc.com"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Energy Supply Service",
+      "members": [
+        {
+          "name": "James Jenkins",
+          "post": "Head of the Service",
+          "phone": "(109) 957-5403",
+          "email": "james.jenkins@usc.com"
+        },
+        {
+          "name": "Martha Wallace",
+          "post": "Main expert",
+          "phone": "(910) 276-1651",
+          "email": "martha.wallace@usc.com"
+        },
+        {
+          "name": "Bonnie Moody",
+          "post": "Main expert",
+          "phone": "(393) 593-2480",
+          "email": "bonnie.moody@usc.com"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Occupational Safety and Fire Safety Service",
+      "members": [
+        {
+          "name": "Pamela Miller",
+          "post": "A leading occupational safety specialist",
+          "phone": "(818) 270-7791",
+          "email": "pamela.miller@usc.com"
+        },
+        {
+          "name": "Catherine Bennett",
+          "post": "Group Leader",
+          "phone": "(403) 425-2572",
+          "email": "catherine.bennett@usc.com"
+        },
+        {
+          "name": "Paul Gardner",
+          "post": "Group Leader",
+          "phone": "(785) 286-3500",
+          "email": "paul.gardner@usc.com"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Accounting group",
+      "members": [
+        {
+          "name": "Bonnie Silva",
+          "post": "Main expert",
+          "phone": "(534) 351-1466",
+          "email": "bonnie.silva@usc.com"
+        },
+        {
+          "name": "Grace Underwood",
+          "post": "Accounting Technician",
+          "phone": "(422) 728-1339",
+          "email": "grace.underwood@usc.com"
+        },
+        {
+          "name": "Margaret Johnson",
+          "post": "Accounting Technician",
+          "phone": "(912) 245-1300",
+          "email": "margaret.johnson@usc.com"
+        },
+        {
+          "name": "Barbara Clark",
+          "post": "Accounting Technician",
+          "phone": "(758) 545-1614",
+          "email": "barbara.clark@usc.com"
+        },
+        {
+          "name": "Gladys Anderson",
+          "post": "Accounting Technician",
+          "phone": "(414) 812-3678",
+          "email": "gladys.anderson@usc.com"
+        },
+        {
+          "name": "Mary Green",
+          "post": "Accounting Technician",
+          "phone": "(360) 531-4514",
+          "email": "mary.green@usc.com"
+        },
+        {
+          "name": "Valerie Curry",
+          "post": "Accounting Technician",
+          "phone": "(661) 395-4285",
+          "email": "valerie.curry@usc.com"
+        },
+        {
+          "name": "Brandy Blair",
+          "post": "Accounting Technician",
+          "phone": "(246) 813-3328",
+          "email": "brandy.blair@usc.com"
+        },
+        {
+          "name": "Christina Moss",
+          "post": "Accounting Technician",
+          "phone": "(112) 873-7588",
+          "email": "christina.moss@usc.com"
+        },
+        {
+          "name": "Violet Jenkins",
+          "post": "Senior Accounting Technician",
+          "phone": "(665) 294-8126",
+          "email": "violet.jenkins@usc.com"
+        },
+        {
+          "name": "Susan Hamilton",
+          "post": "Accounting Technician",
+          "phone": "(711) 647-3317",
+          "email": "susan.hamilton@usc.com"
+        },
+        {
+          "name": "Virginia Lopez",
+          "post": "Accounting Technician",
+          "phone": "(439) 332-1501",
+          "email": "virginia.lopez@usc.com"
+        },
+        {
+          "name": "Mary Dixon",
+          "post": "Accounting Technician",
+          "phone": "(848) 598-2755",
+          "email": "mary.dixon@usc.com"
+        },
+        {
+          "name": "Mary Roberts",
+          "post": "Accounting Technician",
+          "phone": "(973) 117-2415",
+          "email": "mary.roberts@usc.com"
+        },
+        {
+          "name": "Sylvia Carr",
+          "post": "Accounting Technician",
+          "phone": "(663) 523-8818",
+          "email": "sylvia.carr@usc.com"
+        },
+        {
+          "name": "Cynthia Taylor",
+          "post": "Accounting Technician",
+          "phone": "(344) 453-6535",
+          "email": "cynthia.taylor@usc.com"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Document Management Department",
+      "members": [
+        {
+          "name": "Nancy Pearson",
+          "post": "Secretary",
+          "phone": "(511) 237-6103",
+          "email": "nancy.pearson@usc.com"
+        },
+        {
+          "name": "Diane Jones",
+          "post": "Assistant to the General Director",
+          "phone": "(964) 148-8865",
+          "email": "diane.jones@usc.com"
+        },
+        {
+          "name": "Nina Brown",
+          "post": "The secretary of the head is the referent",
+          "phone": "(237) 616-5444",
+          "email": "nina.brown@usc.com"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Mechanization Service",
+      "members": [
+        {
+          "name": "Justin Newman",
+          "post": "Chief Mechanic",
+          "phone": "(998) 166-5080",
+          "email": "justin.newman@usc.com"
+        },
+        {
+          "name": "Jacob Warner",
+          "post": "Deputy Chief Mechanic",
+          "phone": "(572) 586-1873",
+          "email": "jacob.warner@usc.com"
+        },
+        {
+          "name": "Lawrence Morgan",
+          "post": "Senior electromechanic of transshipment machines",
+          "phone": "(930) 316-2953",
+          "email": "lawrence.morgan@usc.com"
+        },
+        {
+          "name": "Jason Hill",
+          "post": "Senior Mechanic",
+          "phone": "(737) 984-5316",
+          "email": "jason.hill@usc.com"
+        },
+        {
+          "name": "Rodney Carpenter",
+          "post": "Group electrician",
+          "phone": "(858) 253-9637",
+          "email": "rodney.carpenter@usc.com"
+        },
+        {
+          "name": "Scott Adams",
+          "post": "Senior group mechanic of reloading machines",
+          "phone": "(953) 410-2127",
+          "email": "scott.adams@usc.com"
+        },
+        {
+          "name": "Gerald White",
+          "post": "Mechanic of reloading machines",
+          "phone": "(518) 181-6471",
+          "email": "gerald.white@usc.com"
+        },
+        {
+          "name": "Frank James",
+          "post": "mechanic of reloading machines (replaceable)-electronics",
+          "phone": "(964) 669-3885",
+          "email": "frank.james@usc.com"
+        },
+        {
+          "name": "Frank Wells",
+          "post": "Mechanic of reloading machines",
+          "phone": "(322) 650-3826",
+          "email": "frank.wells@usc.com"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Production and dispatch service",
+      "members": [
+        {
+          "name": "James Johnson",
+          "post": "Fleet Dispatcher",
+          "phone": "(929) 707-1907",
+          "email": "james.johnson@usc.com"
+        },
+        {
+          "name": "Gregory Newman",
+          "post": "Dispatcher",
+          "phone": "(785) 347-3607",
+          "email": "gregory.newman@usc.com"
+        },
+        {
+          "name": "Richard Horton",
+          "post": "Assistant to the Chief Dispatcher",
+          "phone": "(842) 347-4825",
+          "email": "richard.horton@usc.com"
+        },
+        {
+          "name": "Tony Nguyen",
+          "post": "Chief Dispatcher",
+          "phone": "(526) 410-5022",
+          "email": "tony.nguyen@usc.com"
+        },
+        {
+          "name": "George Wallace",
+          "post": "Stevedore",
+          "phone": "(871) 899-3462",
+          "email": "george.wallace@usc.com"
+        },
+        {
+          "name": "James Garcia",
+          "post": "Dispatcher",
+          "phone": "(465) 357-9024",
+          "email": "james.garcia@usc.com"
+        },
+        {
+          "name": "Nelson Hernandez",
+          "post": "Dispatcher",
+          "phone": "(167) 306-4169",
+          "email": "nelson.hernandez@usc.com"
+        },
+        {
+          "name": "Dennis Ward",
+          "post": "Stevedore",
+          "phone": "(288) 772-1809",
+          "email": "dennis.ward@usc.com"
+        },
+        {
+          "name": "Ivan Lynch",
+          "post": "Stevedore",
+          "phone": "(650) 894-1248",
+          "email": "ivan.lynch@usc.com"
+        },
+        {
+          "name": "Ken Rodriguez",
+          "post": "Dispatcher",
+          "phone": "(832) 530-9202",
+          "email": "ken.rodriguez@usc.com"
+        },
+        {
+          "name": "Steven Barnes",
+          "post": "Dispatcher",
+          "phone": "(565) 246-1100",
+          "email": "steven.barnes@usc.com"
+        },
+        {
+          "name": "Johnny Graves",
+          "post": "Stevedore",
+          "phone": "(903) 698-1603",
+          "email": "johnny.graves@usc.com"
+        },
+        {
+          "name": "Lester Chavez",
+          "post": "Dispatcher",
+          "phone": "(739) 739-3811",
+          "email": "lester.chavez@usc.com"
+        },
+        {
+          "name": "Willie Cruz",
+          "post": "Stevedore",
+          "phone": "(816) 789-5885",
+          "email": "willie.cruz@usc.com"
+        },
+        {
+          "name": "Edgar Brown",
+          "post": "Stevedore",
+          "phone": "(985) 215-4808",
+          "email": "edgar.brown@usc.com"
+        },
+        {
+          "name": "Charles Wilkerson",
+          "post": "Stevedore",
+          "phone": "(593) 337-8575",
+          "email": "charles.wilkerson@usc.com"
+        },
+        {
+          "name": "Jenny Boyd",
+          "post": "Stevedore",
+          "phone": "(398) 237-6925",
+          "email": "jenny.boyd@usc.com"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Freight Forwarding Department",
+      "members": [
+        {
+          "name": "Lois Phillips",
+          "post": "Chief Logistician",
+          "phone": "(658) 842-6013",
+          "email": "lois.phillips@usc.com"
+        },
+        {
+          "name": "Rose Robinson",
+          "post": "The leading logistician",
+          "phone": "(278) 659-5523",
+          "email": "rose.robinson@usc.com"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Income group",
+      "members": [
+        {
+          "name": "Angela Alvarez",
+          "post": "Chief Economist",
+          "phone": "(230) 273-7854",
+          "email": "angela.alvarez@usc.com"
+        },
+        {
+          "name": "Kathleen Alexander",
+          "post": "Leading Economist",
+          "phone": "(178) 122-1370",
+          "email": "kathleen.alexander@usc.com"
+        },
+        {
+          "name": "Pauline Townsend",
+          "post": "Head of Department",
+          "phone": "(721) 591-1165",
+          "email": "pauline.townsend@usc.com"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Warehouse Service",
+      "members": [
+        {
+          "name": "Edna Reyes",
+          "post": "Assistant to the head of warehouse complex No. 2",
+          "phone": "(847) 446-5431",
+          "email": "edna.reyes@usc.com"
+        },
+        {
+          "name": "Katie Brown",
+          "post": "Deputy Head of the warehouse complex",
+          "phone": "(981) 990-3064",
+          "email": "katie.brown@usc.com"
+        },
+        {
+          "name": "Lillian Hall",
+          "post": "Head of the warehouse complex",
+          "phone": "(557) 590-8937",
+          "email": "lillian.hall@usc.com"
+        },
+        {
+          "name": "Michelle Lopez",
+          "post": "Head of Cargo warehouses",
+          "phone": "(438) 760-2102",
+          "email": "michelle.lopez@usc.com"
+        },
+        {
+          "name": "Helen Nelson",
+          "post": "Senior tallman (cargo warehouse)",
+          "phone": "(113) 457-4943",
+          "email": "helen.nelson@usc.com"
+        },
+        {
+          "name": "Joy Lewis",
+          "post": "Operator for processing transportation documents",
+          "phone": "(745) 548-9790",
+          "email": "joy.lewis@usc.com"
+        },
+        {
+          "name": "Vera Young",
+          "post": "Talman",
+          "phone": "(848) 170-7347",
+          "email": "vera.young@usc.com"
+        },
+        {
+          "name": "Marie Thompson",
+          "post": "Senior tallman (cargo warehouse)",
+          "phone": "(352) 957-3487",
+          "email": "marie.thompson@usc.com"
+        },
+        {
+          "name": "Charlotte White",
+          "post": "Senior Talman (cargo warehouse)",
+          "phone": "(903) 427-8413",
+          "email": "charlotte.white@usc.com"
+        },
+        {
+          "name": "Brittany Cross",
+          "post": "Talman",
+          "phone": "(942) 761-9028",
+          "email": "brittany.cross@usc.com"
+        },
+        {
+          "name": "Amy Collins",
+          "post": "Talman",
+          "phone": "(503) 730-4487",
+          "email": "amy.collins@usc.com"
+        },
+        {
+          "name": "Olga Smith",
+          "post": "Talman",
+          "phone": "(753) 875-5631",
+          "email": "olga.smith@usc.com"
+        },
+        {
+          "name": "Glenda Hill",
+          "post": "Talman",
+          "phone": "(706) 424-4841",
+          "email": "glenda.hill@usc.com"
+        },
+        {
+          "name": "Ashley White",
+          "post": "Senior talman (cargo warehouse)",
+          "phone": "(567) 106-2055",
+          "email": "ashley.white@usc.com"
+        },
+        {
+          "name": "Donna Baker",
+          "post": "Assistant to the head of the warehouse complex",
+          "phone": "(836) 220-6767",
+          "email": "donna.baker@usc.com"
+        },
+        {
+          "name": "Kim Clark",
+          "post": "Talman",
+          "phone": "(466) 124-8697",
+          "email": "kim.clark@usc.com"
+        },
+        {
+          "name": "Ronnie Rodriguez",
+          "post": "Senior Talman (cargo warehouse)",
+          "phone": "(782) 490-6842",
+          "email": "ronnie.rodriguez@usc.com"
+        },
+        {
+          "name": "Jennifer Dean",
+          "post": "Talman",
+          "phone": "(453) 499-9654",
+          "email": "jennifer.dean@usc.com"
+        },
+        {
+          "name": "Donald James",
+          "post": "Senior tallman (cargo warehouse)",
+          "phone": "(486) 340-1762",
+          "email": "donald.james@usc.com"
+        },
+        {
+          "name": "Rodney Johnson",
+          "post": "Senior Talman (cargo warehouse)",
+          "phone": "(434) 345-9738",
+          "email": "rodney.johnson@usc.com"
+        },
+        {
+          "name": "Jennie Soto",
+          "post": "Talman",
+          "phone": "(623) 948-1586",
+          "email": "jennie.soto@usc.com"
+        },
+        {
+          "name": "Margaret Pierce",
+          "post": "Assistant to the head of the warehouse complex",
+          "phone": "(144) 377-3206",
+          "email": "margaret.pierce@usc.com"
+        },
+        {
+          "name": "Dorothy Brown",
+          "post": "assistant to the head of SK1",
+          "phone": "(896) 580-6031",
+          "email": "dorothy.brown@usc.com"
+        },
+        {
+          "name": "Sandra Dean",
+          "post": "Talman",
+          "phone": "(191) 332-9209",
+          "email": "sandra.dean@usc.com"
+        },
+        {
+          "name": "Janice Cunningham",
+          "post": "Talman",
+          "phone": "(975) 788-2128",
+          "email": "janice.cunningham@usc.com"
+        },
+        {
+          "name": "Esther Black",
+          "post": "Talman",
+          "phone": "(143) 160-3841",
+          "email": "esther.black@usc.com"
+        },
+        {
+          "name": "Valerie Leonard",
+          "post": "Talman",
+          "phone": "(893) 820-1847",
+          "email": "valerie.leonard@usc.com"
+        },
+        {
+          "name": "Lucille Welch",
+          "post": "Talman",
+          "phone": "(371) 368-5465",
+          "email": "lucille.welch@usc.com"
+        },
+        {
+          "name": "Lisa Dean",
+          "post": "Talman",
+          "phone": "(840) 181-9217",
+          "email": "lisa.dean@usc.com"
+        },
+        {
+          "name": "Sharon Ford",
+          "post": "Talman",
+          "phone": "(989) 429-9114",
+          "email": "sharon.ford@usc.com"
+        },
+        {
+          "name": "Mary Warren",
+          "post": "Talman",
+          "phone": "(284) 620-5502",
+          "email": "mary.warren@usc.com"
+        },
+        {
+          "name": "Helen Higgins",
+          "post": "Talman",
+          "phone": "(758) 105-8813",
+          "email": "helen.higgins@usc.com"
+        },
+        {
+          "name": "Jacqueline Cook",
+          "post": "The elder Talman",
+          "phone": "(691) 731-5402",
+          "email": "jacqueline.cook@usc.com"
+        },
+        {
+          "name": "Sandra Robinson",
+          "post": "The elder Talman",
+          "phone": "(175) 454-6420",
+          "email": "sandra.robinson@usc.com"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Analytical Department",
+      "members": [
+        {
+          "name": "Erica Rodriguez",
+          "post": "Senior Engineer",
+          "phone": "(268) 139-8204",
+          "email": "erica.rodriguez@usc.com"
+        },
+        {
+          "name": "Crystal Wright",
+          "post": "Lead Engineer",
+          "phone": "(581) 519-7683",
+          "email": "crystal.wright@usc.com"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Tugboat Superior",
+      "members": [
+        {
+          "name": "Tim Pittman",
+          "post": "The captain is a mechanic",
+          "phone": "(146) 686-5605",
+          "email": "tim.pittman@usc.com"
+        },
+        {
+          "name": "Peter Hopkins",
+          "post": "The chief mechanic is a replacement assistant to the captain",
+          "phone": "(493) 931-3914",
+          "email": "peter.hopkins@usc.com"
+        },
+        {
+          "name": "Paul Bell",
+          "post": "Replacement Assistant captain-replacement mechanic",
+          "phone": "(136) 967-6926",
+          "email": "paul.bell@usc.com"
+        },
+        {
+          "name": "Charles Jenkins",
+          "post": "The ship's electrician",
+          "phone": "(782) 602-6280",
+          "email": "charles.jenkins@usc.com"
+        },
+        {
+          "name": "Jessie Walsh",
+          "post": "is a replacement assistant to the captain",
+          "phone": "(922) 907-8695",
+          "email": "jessie.walsh@usc.com"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Tugboat Seal",
+      "members": [
+        {
+          "name": "Robert Fisher",
+          "post": "The captain is a mechanic",
+          "phone": "(196) 546-7457",
+          "email": "robert.fisher@usc.com"
+        },
+        {
+          "name": "John Miller",
+          "post": "Senior Mechanic",
+          "phone": "(620) 686-3156",
+          "email": "john.miller@usc.com"
+        },
+        {
+          "name": "Lawrence Walker",
+          "post": "Replacement Assistant Captain",
+          "phone": "(887) 599-6833",
+          "email": "lawrence.walker@usc.com"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Tugboat Alaska",
+      "members": [
+        {
+          "name": "Mark Shaw",
+          "post": "The captain is a mechanic",
+          "phone": "(121) 260-4439",
+          "email": "mark.shaw@usc.com"
+        },
+        {
+          "name": "Justin Berry",
+          "post": "The chief mechanic is a replacement assistant to the captain",
+          "phone": "(129) 376-6892",
+          "email": "justin.berry@usc.com"
+        },
+        {
+          "name": "Randall Willis",
+          "post": "Replacement Assistant captain - replacement mechanic",
+          "phone": "(527) 691-3874",
+          "email": "randall.willis@usc.com"
+        },
+        {
+          "name": "Richard Smith",
+          "post": "Ship's Electrician",
+          "phone": "(304) 512-1697",
+          "email": "richard.smith@usc.com"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Tugboat Alaska",
+      "members": [
+        {
+          "name": "Mark Shaw",
+          "post": "The captain is a mechanic",
+          "phone": "(121) 260-4439",
+          "email": "mark.shaw@usc.com"
+        },
+        {
+          "name": "Justin Berry",
+          "post": "The chief mechanic is a replacement assistant to the captain",
+          "phone": "(129) 376-6892",
+          "email": "justin.berry@usc.com"
+        },
+        {
+          "name": "Randall Willis",
+          "post": "Replacement Assistant captain - replacement mechanic",
+          "phone": "(527) 691-3874",
+          "email": "randall.willis@usc.com"
+        },
+        {
+          "name": "Richard Smith",
+          "post": "Ship's Electrician",
+          "phone": "(304) 512-1697",
+          "email": "richard.smith@usc.com"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Tugboat Winter",
+      "members": [
+        {
+          "name": "David Chavez",
+          "post": "Captain",
+          "phone": "(934) 965-6258",
+          "email": "david.chavez@usc.com"
+        },
+        {
+          "name": "Charles Cruz",
+          "post": "Senior Mechanic",
+          "phone": "(605) 717-6388",
+          "email": "charles.cruz@usc.com"
+        },
+        {
+          "name": "Paul Sanders",
+          "post": "Replacement Mechanic",
+          "phone": "(776) 275-7196",
+          "email": "paul.sanders@usc.com"
+        },
+        {
+          "name": "Dennis Osborne",
+          "post": "Replacement Mechanic",
+          "phone": "(622) 206-1484",
+          "email": "dennis.osborne@usc.com"
+        },
+        {
+          "name": "Peter King",
+          "post": "Replacement Assistant Captain",
+          "phone": "(841) 486-7385",
+          "email": "peter.king@usc.com"
+        },
+        {
+          "name": "Kirk Ortiz",
+          "post": "Senior Mechanic",
+          "phone": "(246) 110-3164",
+          "email": "kirk.ortiz@usc.com"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Port Fleet Management",
+      "members": [
+        {
+          "name": "David Chavez",
+          "post": "Group Mechanic",
+          "phone": "(218) 291-6788",
+          "email": "david.chavez@usc.com"
+        },
+        {
+          "name": "Charles Cruz",
+          "post": "Head of the Port Fleet",
+          "phone": "(969) 213-2114",
+          "email": "charles.cruz@usc.com"
+        },
+        {
+          "name": "Paul Sanders",
+          "post": "Replacement dispatcher",
+          "phone": "(377) 409-9207",
+          "email": "paul.sanders@usc.com"
+        },
+        {
+          "name": "Dennis Osborne",
+          "post": "Dispatcher",
+          "phone": "(689) 535-9792",
+          "email": "dennis.osborne@usc.com"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Railway Group",
+      "members": [
+        {
+          "name": "Sonia Jones",
+          "post": "Senior Assistant to the head of the group",
+          "phone": "(784) 495-6684",
+          "email": "sonia.jones@usc.com"
+        },
+        {
+          "name": "Justin Swanson",
+          "post": "Head of the group",
+          "phone": "(464) 104-3267",
+          "email": "justin.swanson@usc.com"
+        },
+        {
+          "name": "Lisa Brewer",
+          "post": "Assistant to the head of the group",
+          "phone": "(312) 445-2942",
+          "email": "lisa.brewer@usc.com"
+        },
+        {
+          "name": "Sarah Jensen",
+          "post": "Assistant to the head of the group",
+          "phone": "(269) 256-6799",
+          "email": "sarah.jensen@usc.com"
+        },
+        {
+          "name": "Virginia Ross",
+          "post": "Assistant to the head of the group",
+          "phone": "(334) 354-9528",
+          "email": "virginia.ross@usc.com"
+        },
+        {
+          "name": "Maureen Miller",
+          "post": "Assistant to the head of the group",
+          "phone": "(589) 643-4052",
+          "email": "maureen.miller@usc.com"
+        },
+        {
+          "name": "Christine Jackson",
+          "post": "Assistant to the head of the group",
+          "phone": "(974) 973-2071",
+          "email": "christine.jackson@usc.com"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Treasury",
+      "members": [
+        {
+          "name": "Diane Gordon",
+          "post": "Leading Economist",
+          "phone": "(580) 650-3446",
+          "email": "diane.gordon@usc.com"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Information Technology Department",
+      "members": [
+        {
+          "name": "Mark Ward",
+          "post": "Senior System Administrator",
+          "phone": "(616) 686-4728",
+          "email": "mark.ward@usc.com"
+        },
+        {
+          "name": "Joshua Lane",
+          "post": "Communications Engineer",
+          "phone": "(249) 156-8090",
+          "email": "joshua.lane@usc.com"
+        },
+        {
+          "name": "William Erickson",
+          "post": "Head of Department",
+          "phone": "(232) 662-4165",
+          "email": "william.erickson@usc.com"
+        },
+        {
+          "name": "Max Parks",
+          "post": "Engineer",
+          "phone": "(452) 478-5790",
+          "email": "max.parks@usc.com"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "HR and Documentation Department",
+      "members": [
+        {
+          "name": "Velma Sanders",
+          "post": "Archivist",
+          "phone": "(234) 756-8016",
+          "email": "velma.sanders@usc.com"
+        },
+        {
+          "name": "Sara Rivera",
+          "post": "Specialist",
+          "phone": "(464) 582-5397",
+          "email": "sara.rivera@usc.com"
+        },
+        {
+          "name": "Amy Roberts",
+          "post": "Specialist in working time accounting",
+          "phone": "(494) 163-8065",
+          "email": "amy.roberts@usc.com"
+        },
+        {
+          "name": "Bonnie Parker",
+          "post": "Main expert",
+          "phone": "(259) 329-8366",
+          "email": "bonnie.parker@usc.com"
+        },
+        {
+          "name": "Mary Ramos",
+          "post": "Main expert",
+          "phone": "(434) 393-6568",
+          "email": "mary.ramos@usc.com"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Capital Construction Department",
+      "members": [
+        {
+          "name": "Bonnie Greer",
+          "post": "Lead Engineer",
+          "phone": "(469) 443-1526",
+          "email": "bonnie.greer@usc.com"
+        },
+        {
+          "name": "Brad Garcia",
+          "post": "Head of Department",
+          "phone": "(294) 843-5836",
+          "email": "brad.garcia@usc.com"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Computer Software Development and Maintenance Department",
+      "members": [
+        {
+          "name": "Melvin King",
+          "post": "Chief Software Engineer",
+          "phone": "(786) 857-6796",
+          "email": "melvin.king@usc.com"
+        },
+        {
+          "name": "Gordon Cannon",
+          "post": "Software Engineer",
+          "phone": "(927) 209-4049",
+          "email": "gordon.cannon@usc.com"
+        },
+        {
+          "name": "Anthony Paul",
+          "post": "Chief Software Engineer",
+          "phone": "(398) 822-3947",
+          "email": "anthony.paul@usc.com"
+        },
+        {
+          "name": "Seth Smith",
+          "post": "Software Engineer",
+          "phone": "(791) 964-7416",
+          "email": "seth.smith@usc.com"
+        },
+        {
+          "name": "Sally Palmer",
+          "post": "Software Engineer",
+          "phone": "(913) 307-9780",
+          "email": "sally.palmer@usc.com"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Production and Economic Service",
+      "members": [
+        {
+          "name": "Aaron Wallace",
+          "post": "Main expert",
+          "phone": "(938) 220-1506",
+          "email": "aaron.wallace@usc.com"
+        },
+        {
+          "name": "Heidi Fernandez",
+          "post": "Specialist",
+          "phone": "(835) 607-4848",
+          "email": "heidi.fernandez@usc.com"
+        },
+        {
+          "name": "Patrick Schneider",
+          "post": "Deputy Chief Engineer",
+          "phone": "(649) 102-4558",
+          "email": "patrick.schneider@usc.com"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Accounting, Tax Accounting and Reporting Service",
+      "members": [
+        {
+          "name": "Ethel Jenkins",
+          "post": "Lead Accountant",
+          "phone": "(882) 592-5911",
+          "email": "ethel.jenkins@usc.com"
+        },
+        {
+          "name": "Pamela Terry",
+          "post": "Lead Accountant",
+          "phone": "(751) 309-8346",
+          "email": "pamela.terry@usc.com"
+        },
+        {
+          "name": "Dorothy Warren",
+          "post": "Senior Accountant",
+          "phone": "(253) 513-1131",
+          "email": "dorothy.warren@usc.com"
+        },
+        {
+          "name": "Cynthia Roberts",
+          "post": "The leading accountant for payroll",
+          "phone": "(683) 511-5420",
+          "email": "cynthia.roberts@usc.com"
+        },
+        {
+          "name": "Michele Kelley",
+          "post": "Payroll Accountant",
+          "phone": "(738) 971-5248",
+          "email": "michele.kelley@usc.com"
+        },
+        {
+          "name": "Edith Wright",
+          "post": "Lead accountant for settlements with contractors",
+          "phone": "(755) 810-8941",
+          "email": "edith.wright@usc.com"
+        },
+        {
+          "name": "Gwendolyn Gomez",
+          "post": "The leading accountant for payroll",
+          "phone": "(443) 972-9227",
+          "email": "gwendolyn.gomez@usc.com"
+        },
+        {
+          "name": "Patricia Smith",
+          "post": "Chief accountant",
+          "phone": "(662) 118-7125",
+          "email": "patricia.smith@usc.com"
+        },
+        {
+          "name": "Jamie Green",
+          "post": "Deputy Chief Accountant",
+          "phone": "(660) 374-8361",
+          "email": "jamie.green@usc.com"
+        },
+        {
+          "name": "Stephanie Davidson",
+          "post": "Deputy Chief Accountant",
+          "phone": "(996) 891-7943",
+          "email": "stephanie.davidson@usc.com"
+        },
+        {
+          "name": "Karen Casey",
+          "post": "Accountant",
+          "phone": "(911) 508-6710",
+          "email": "karen.casey@usc.com"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Internal Control and Audit Service",
+      "members": [
+        {
+          "name": "Larry Vasquez",
+          "post": "Head of the Service",
+          "phone": "(835) 969-9210",
+          "email": "larry.vasquez@usc.com"
+        },
+        {
+          "name": "Gladys Turner",
+          "post": "Internal Auditor",
+          "phone": "(800) 742-8859",
+          "email": "gladys.turner@usc.com"
+        },
+        {
+          "name": "Norman Sanders",
+          "post": "Internal Auditor",
+          "phone": "(370) 642-7837",
+          "email": "norman.sanders@usc.com"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Heat water and sewer section",
+      "members": [
+        {
+          "name": "Henry Martin",
+          "post": "Master",
+          "phone": "(833) 763-7880",
+          "email": "henry.martin@usc.com"
+        },
+        {
+          "name": "Glenn Walsh",
+          "post": "Senior Master",
+          "phone": "(573) 265-2558",
+          "email": "glenn.walsh@usc.com"
+        },
+        {
+          "name": "Richard Lee",
+          "post": "The locksmith of emergency recovery works",
+          "phone": "(830) 144-2819",
+          "email": "richard.lee@usc.com"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Technological section",
+      "members": [
+        {
+          "name": "Rick Brooks",
+          "post": "Chief Technologist",
+          "phone": "(200) 331-6220",
+          "email": "rick.brooks@usc.com"
+        },
+        {
+          "name": "Oscar Lee",
+          "post": "Deputy Chief Technologist",
+          "phone": "(305) 133-2629",
+          "email": "oscar.lee@usc.com"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Section of packing and packing of cargo",
+      "members": [
+        {
+          "name": "Angela Martinez",
+          "post": "Storekeeper",
+          "phone": "(745) 328-3531",
+          "email": "angela.martinez@usc.com"
+        },
+        {
+          "name": "Marie Sharp",
+          "post": "Senior Storekeeper",
+          "phone": "(420) 657-8049",
+          "email": "marie.sharp@usc.com"
+        },
+        {
+          "name": "Alice Gonzales",
+          "post": "Deputy head of the site",
+          "phone": "(318) 296-2619",
+          "email": "alice.gonzales@usc.com"
+        },
+        {
+          "name": "Rick Christensen",
+          "post": "Head of the cargo packing and packing section",
+          "phone": "(256) 921-6669",
+          "email": "rick.christensen@usc.com"
+        },
+        {
+          "name": "Louise Parker",
+          "post": "Storekeeper",
+          "phone": "(345) 640-4359",
+          "email": "louise.parker@usc.com"
+        },
+        {
+          "name": "Gertrude Brown",
+          "post": "Senior Storekeeper",
+          "phone": "(270) 206-2996",
+          "email": "gertrude.brown@usc.com"
+        },
+        {
+          "name": "Irene Brown",
+          "post": "Storekeeper",
+          "phone": "(539) 441-4844",
+          "email": "irene.brown@usc.com"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Service transport operation area",
+      "members": [
+        {
+          "name": "Bernard Robinson",
+          "post": "The head of the site",
+          "phone": "(972) 949-1456",
+          "email": "bernard.robinson@usc.com"
+        },
+        {
+          "name": "Willard Bennett",
+          "post": "Mechanic for the production of vehicles",
+          "phone": "(351) 426-2576",
+          "email": "willard.bennett@usc.com"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Electrical installation",
+      "members": [
+        {
+          "name": "Karl Robertson",
+          "post": "Master",
+          "phone": "(638) 566-7349",
+          "email": "karl.robertson@usc.com"
+        },
+        {
+          "name": "Joshua Williams",
+          "post": "Master",
+          "phone": "(597) 540-4379",
+          "email": "joshua.williams@usc.com"
+        },
+        {
+          "name": "Kevin Collins",
+          "post": "Senior Master",
+          "phone": "(357) 109-8095",
+          "email": "kevin.collins@usc.com"
+        }
+      ]
+    }
+  ]
+}
