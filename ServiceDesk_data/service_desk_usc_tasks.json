@@ -96,7 +96,7 @@
           ]
         },
         {
-          "name": "Video surveillance system",
+          "nameCategory": "Video surveillance system",
           "details": [
             "Video Recording Archive",
             "Equipment malfunction",
@@ -160,7 +160,7 @@
       "name": "Household Activities",
       "infoCreateTask": [
         {
-          "name": "Issuance of inventory items",
+          "nameCategory": "Issuance of inventory items",
           "details": [
             "Paper",
             "Chancellery",
@@ -168,7 +168,7 @@
           ]
         },
         {
-          "name": "Calling the auxiliary workers",
+          "nameCategory": "Calling the auxiliary workers",
           "details": [
             "Minor repairs in the office",
             "Organization of a new workplace",
@@ -179,20 +179,20 @@
           ]
         },
         {
-          "name": "Delivery",
+          "nameCategory": "Delivery",
           "details": [
             "Bottled water",
             "Other"
           ]
         },
         {
-          "name": "Other requests",
+          "nameCategory": "Other requests",
           "details": [
             "Other"
           ]
         },
         {
-          "name": "Washing work clothes",
+          "nameCategory": "Washing work clothes",
           "details": [
             "Northern Department",
             "Southern Department"
@@ -204,7 +204,7 @@
       "name": "Logistics Service",
       "infoCreateTask": [
         {
-          "name": "Purchase of inventory items",
+          "nameCategory": "Purchase of inventory items",
           "details": [
             "Inventory items"
           ]
@@ -215,7 +215,7 @@
       "name": "Energy Department",
       "infoCreateTask": [
         {
-          "name": "Calling a plumber",
+          "nameCategory": "Calling a plumber",
           "details": [
             "Other",
             "Elimination of blockages",
@@ -223,7 +223,7 @@
           ]
         },
         {
-          "name": "Calling an electrician",
+          "nameCategory": "Calling an electrician",
           "details": [
             "Replacement of lighting fixtures",
             "Switch replacement/repair",
@@ -239,7 +239,7 @@
       "name": "Auto Transport Department",
       "infoCreateTask": [
         {
-          "name": "Ordering official transport",
+          "nameCategory": "Ordering official transport",
           "details": [
             "Targeted trip",
             "Courier trip",
@@ -248,7 +248,7 @@
           ]
         },
         {
-          "name": "Ordering of special equipment",
+          "nameCategory": "Ordering of special equipment",
           "details": [
             "Cleaning of railway tracks",
             "Vacuum truck",
@@ -263,14 +263,14 @@
       "name": "Mechanization",
       "infoCreateTask": [
         {
-          "name": "Ordering a car crane",
+          "nameCategory": "Ordering a car crane",
           "details": [
             "Loading and unloading operations",
             "Household work"
           ]
         },
         {
-          "name": "Turning works",
+          "nameCategory": "Turning works",
           "details": [
             "Other",
             "Turning works on non-ferrous metal",
@@ -278,7 +278,7 @@
           ]
         },
         {
-          "name": "Electric and gas welding, gas cutting works",
+          "nameCategory": "Electric and gas welding, gas cutting works",
           "details": [
             "Other",
             "Cargo release",
@@ -293,7 +293,7 @@
       "name": "Carpenters",
       "infoCreateTask": [
         {
-          "name": "Manufacture of wooden products",
+          "nameCategory": "Manufacture of wooden products",
           "details": [
             "Manufacture of stairs",
             "Manufacture of formwork",
