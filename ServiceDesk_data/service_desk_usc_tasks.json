@@ -2,9 +2,9 @@
   "departments": [
     {
       "name": "Information Technology Department",
-      "infoCreateTask": [
+      "info_create_task": [
         {
-          "nameCategory": "SAP",
+          "name_category": "SAP",
           "details": [
             "Document management",
             "Salary and personnel management",
@@ -18,7 +18,7 @@
           ]
         },
         {
-          "nameCategory": "Videoconference",
+          "name_category": "Videoconference",
           "details": [
             "Provision of devices (camera, headset)",
             "Organization of video conferences",
@@ -27,7 +27,7 @@
           ]
         },
         {
-          "nameCategory": "Corporate website",
+          "name_category": "Corporate website",
           "details": [
             "Vacancies - content updates",
             "News - content update",
@@ -38,7 +38,7 @@
           ]
         },
         {
-          "nameCategory": "Office equipment (MFPs, printers, scanners)",
+          "name_category": "Office equipment (MFPs, printers, scanners)",
           "details": [
             "Replacing the cartridge",
             "Malfunction in operation",
@@ -48,7 +48,7 @@
           ]
         },
         {
-          "nameCategory": "Software",
+          "name_category": "Software",
           "details": [
             "Service Desk",
             "LexisNexis",
@@ -58,7 +58,7 @@
           ]
         },
         {
-          "nameCategory": "Other",
+          "name_category": "Other",
           "details": [
             "Consultation",
             "A problem that is not included in any of the proposed services",
@@ -66,7 +66,7 @@
           ]
         },
         {
-          "nameCategory": "Workplace",
+          "name_category": "Workplace",
           "details": [
             "Additional equipment",
             "Organization of a new workplace",
@@ -76,7 +76,7 @@
           ]
         },
         {
-          "nameCategory": "Development of new functionality",
+          "name_category": "Development of new functionality",
           "details": [
             "Document management",
             "Salary and personnel management",
@@ -89,14 +89,14 @@
           ]
         },
         {
-          "nameCategory": "Low-current communication systems",
+          "name_category": "Low-current communication systems",
           "details": [
             "Laying a low-current line",
             "Other"
           ]
         },
         {
-          "nameCategory": "Video surveillance system",
+          "name_category": "Video surveillance system",
           "details": [
             "Video Recording Archive",
             "Equipment malfunction",
@@ -106,7 +106,7 @@
           ]
         },
         {
-          "nameCategory": "Access control and management system",
+          "name_category": "Access control and management system",
           "details": [
             "The pass does not work",
             "Equipment malfunction",
@@ -114,7 +114,7 @@
           ]
         },
         {
-          "nameCategory": "Telephony",
+          "name_category": "Telephony",
           "details": [
             "Issuing a SIM card",
             "Setting up your phone",
@@ -125,7 +125,7 @@
           ]
         },
         {
-          "nameCategory": "Remote access",
+          "name_category": "Remote access",
           "details": [
             "Malfunction",
             "Connection",
@@ -133,7 +133,7 @@
           ]
         },
         {
-          "nameCategory": "File resources",
+          "name_category": "File resources",
           "details": [
             "Data recovery",
             "Granting/changing access rights",
@@ -142,7 +142,7 @@
           ]
         },
         {
-          "nameCategory": "Email",
+          "name_category": "Email",
           "details": [
             "Changing the mailbox quota",
             "Set up redirects",
@@ -158,9 +158,9 @@
     },
     {
       "name": "Household Activities",
-      "infoCreateTask": [
+      "info_create_task": [
         {
-          "nameCategory": "Issuance of inventory items",
+          "name_category": "Issuance of inventory items",
           "details": [
             "Paper",
             "Chancellery",
@@ -168,7 +168,7 @@
           ]
         },
         {
-          "nameCategory": "Calling the auxiliary workers",
+          "name_category": "Calling the auxiliary workers",
           "details": [
             "Minor repairs in the office",
             "Organization of a new workplace",
@@ -179,20 +179,20 @@
           ]
         },
         {
-          "nameCategory": "Delivery",
+          "name_category": "Delivery",
           "details": [
             "Bottled water",
             "Other"
           ]
         },
         {
-          "nameCategory": "Other requests",
+          "name_category": "Other requests",
           "details": [
             "Other"
           ]
         },
         {
-          "nameCategory": "Washing work clothes",
+          "name_category": "Washing work clothes",
           "details": [
             "Northern Department",
             "Southern Department"
@@ -202,9 +202,9 @@
     },
     {
       "name": "Logistics Service",
-      "infoCreateTask": [
+      "info_create_task": [
         {
-          "nameCategory": "Purchase of inventory items",
+          "name_category": "Purchase of inventory items",
           "details": [
             "Inventory items"
           ]
@@ -213,9 +213,9 @@
     },
     {
       "name": "Energy Department",
-      "infoCreateTask": [
+      "info_create_task": [
         {
-          "nameCategory": "Calling a plumber",
+          "name_category": "Calling a plumber",
           "details": [
             "Other",
             "Elimination of blockages",
@@ -223,7 +223,7 @@
           ]
         },
         {
-          "nameCategory": "Calling an electrician",
+          "name_category": "Calling an electrician",
           "details": [
             "Replacement of lighting fixtures",
             "Switch replacement/repair",
@@ -237,9 +237,9 @@
     },
     {
       "name": "Auto Transport Department",
-      "infoCreateTask": [
+      "info_create_task": [
         {
-          "nameCategory": "Ordering official transport",
+          "name_category": "Ordering official transport",
           "details": [
             "Targeted trip",
             "Courier trip",
@@ -248,7 +248,7 @@
           ]
         },
         {
-          "nameCategory": "Ordering of special equipment",
+          "name_category": "Ordering of special equipment",
           "details": [
             "Cleaning of railway tracks",
             "Vacuum truck",
@@ -261,16 +261,16 @@
     },
     {
       "name": "Mechanization",
-      "infoCreateTask": [
+      "info_create_task": [
         {
-          "nameCategory": "Ordering a car crane",
+          "name_category": "Ordering a car crane",
           "details": [
             "Loading and unloading operations",
             "Household work"
           ]
         },
         {
-          "nameCategory": "Turning works",
+          "name_category": "Turning works",
           "details": [
             "Other",
             "Turning works on non-ferrous metal",
@@ -278,7 +278,7 @@
           ]
         },
         {
-          "nameCategory": "Electric and gas welding, gas cutting works",
+          "name_category": "Electric and gas welding, gas cutting works",
           "details": [
             "Other",
             "Cargo release",
@@ -291,9 +291,9 @@
     },
     {
       "name": "Carpenters",
-      "infoCreateTask": [
+      "info_create_task": [
         {
-          "nameCategory": "Manufacture of wooden products",
+          "name_category": "Manufacture of wooden products",
           "details": [
             "Manufacture of stairs",
             "Manufacture of formwork",
