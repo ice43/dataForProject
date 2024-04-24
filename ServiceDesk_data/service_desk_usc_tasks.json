@@ -154,6 +154,148 @@
             "Creating a mailing list"
           ]
         }
+      ],
+      "tasks": [
+        {
+          "incomingTasks": [
+            {
+              "open": [
+                {
+                  "number": "1/39001",
+                  "author": "Tommy Hudson",
+                  "text": "I have problems accessing the company's network. I can't connect to the server.",
+                  "date": "15.04.2024",
+                  "priority": "Important",
+                  "status": "Open",
+                  "responsible_person": "Mark Ward"
+                },
+                {
+                  "number": "1/40002",
+                  "author": "Salvador Montgomery",
+                  "text": "My computer won't boot, a blue error screen appears.",
+                  "date": "20.05.2024",
+                  "priority": "Default",
+                  "status": "Open",
+                  "responsible_person": "Joshua Lane"
+                }
+              ]
+            },
+            {
+              "closed": [
+                {
+                  "number": "1/41003",
+                  "author": "Frederick Price",
+                  "text": "I can't send an email. The mail client issues an error when connecting to the server.",
+                  "date": "25.06.2024",
+                  "priority": "Default",
+                  "status": "Closed",
+                  "responsible_person": "William Erickson"
+                },
+                {
+                  "number": "1/42004",
+                  "author": "Michael Anderson",
+                  "text": "",
+                  "date": "30.07.2024",
+                  "priority": "Default",
+                  "status": "Closed",
+                  "responsible_person": "Max Parks"
+                }
+              ]
+            },
+            {
+              "motivatedRefusals": [
+                {
+                  "number": "1/39005",
+                  "author": "Margaret Pearson",
+                  "text": "My computer freezes when running a certain program. Help is needed to fix this problem.",
+                  "date": "05.01.2024",
+                  "priority": "Default",
+                  "status": "Refused",
+                  "responsible_person": "Mark Ward"
+                },
+                {
+                  "number": "1/40010",
+                  "author": "John Reed",
+                  "text": "I have problems connecting to Wi-Fi in the office. The signal is too weak and unstable.",
+                  "date": "10.02.2024",
+                  "priority": "Default",
+                  "status": "Refused",
+                  "responsible_person": "Joshua Lane"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "outgoingTasks": [
+            {
+              "open": [
+                {
+                  "number": "1/39001",
+                  "author": "Tommy Hudson",
+                  "text": "I have problems accessing the company's network. I can't connect to the server.",
+                  "date": "15.04.2024",
+                  "priority": "Important",
+                  "status": "Open",
+                  "responsible_person": "Mark Ward"
+                },
+                {
+                  "number": "1/40002",
+                  "author": "Salvador Montgomery",
+                  "text": "My computer won't boot, a blue error screen appears.",
+                  "date": "20.05.2024",
+                  "priority": "Default",
+                  "status": "Open",
+                  "responsible_person": "Joshua Lane"
+                }
+              ]
+            },
+            {
+              "closed": [
+                {
+                  "number": "1/41003",
+                  "author": "Frederick Price",
+                  "text": "I can't send an email. The mail client issues an error when connecting to the server.",
+                  "date": "25.06.2024",
+                  "priority": "Default",
+                  "status": "Closed",
+                  "responsible_person": "William Erickson"
+                },
+                {
+                  "number": "1/42004",
+                  "author": "Michael Anderson",
+                  "text": "",
+                  "date": "30.07.2024",
+                  "priority": "Default",
+                  "status": "Closed",
+                  "responsible_person": "Max Parks"
+                }
+              ]
+            },
+            {
+              "motivatedRefusals": [
+                {
+                  "number": "1/39005",
+                  "author": "Margaret Pearson",
+                  "text": "My computer freezes when running a certain program. Help is needed to fix this problem.",
+                  "date": "05.01.2024",
+                  "priority": "Default",
+                  "status": "Refused",
+                  "responsible_person": "Mark Ward"
+                },
+                {
+                  "number": "1/40010",
+                  "author": "John Reed",
+                  "text": "I have problems connecting to Wi-Fi in the office. The signal is too weak and unstable.",
+                  "date": "10.02.2024",
+                  "priority": "Default",
+                  "status": "Refused",
+                  "responsible_person": "Joshua Lane"
+                }
+              ]
+            }
+          ]
+        }
       ]
     },
     {
@@ -198,6 +340,148 @@
             "Southern Department"
           ]
         }
+      ],
+      "tasks": [
+        {
+          "incomingTasks": [
+            {
+              "open": [
+                {
+                  "number": "2/40578",
+                  "author": "Patricia Patterson",
+                  "text": "It is necessary to carry out maintenance of air conditioners in the office.",
+                  "date": "12.03.2024",
+                  "priority": "Default",
+                  "status": "Open",
+                  "responsible_person": "Bill Duncan"
+                },
+                {
+                  "number": "2/41123",
+                  "author": "David Chavez",
+                  "text": "It is required to install a new office desk for an employee.",
+                  "date": "05.04.2024",
+                  "priority": "Default",
+                  "status": "Open",
+                  "responsible_person": "Francis Norton"
+                }
+              ]
+            },
+            {
+              "closed": [
+                {
+                  "number": "2/41680",
+                  "author": "Lisa Dean",
+                  "text": "It is necessary to replace defective lamps in the corridor of the warehouse.",
+                  "date": "20.05.2024",
+                  "priority": "Default",
+                  "status": "Closed",
+                  "responsible_person": "John Smith"
+                },
+                {
+                  "number": "2/42235",
+                  "author": "Amy Roberts",
+                  "text": "It is required to install a new cooler system in warehouse No. 7.",
+                  "date": "10.06.2024",
+                  "priority": "Default",
+                  "status": "Closed",
+                  "responsible_person": "Brandon Wade"
+                }
+              ]
+            },
+            {
+              "motivatedRefusals": [
+                {
+                  "number": "2/40456",
+                  "author": "Margaret Pearson",
+                  "text": "We have run out of office supplies, we need to order new ones.",
+                  "date": "15.03.2024",
+                  "priority": "Default",
+                  "status": "Refused",
+                  "responsible_person": "John Smith"
+                },
+                {
+                  "number": "2/41560",
+                  "author": "John Reed",
+                  "text": "We need additional chairs for the meeting room. Please arrange the order.",
+                  "date": "25.04.2024",
+                  "priority": "Default",
+                  "status": "Refused",
+                  "responsible_person": "Brandon Wade"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "outgoingTasks": [
+            {
+              "open": [
+                {
+                  "number": "2/40578",
+                  "author": "Patricia Patterson",
+                  "text": "It is necessary to carry out maintenance of air conditioners in the office.",
+                  "date": "12.03.2024",
+                  "priority": "Default",
+                  "status": "Open",
+                  "responsible_person": "Bill Duncan"
+                },
+                {
+                  "number": "2/41123",
+                  "author": "David Chavez",
+                  "text": "It is required to install a new office desk for an employee.",
+                  "date": "05.04.2024",
+                  "priority": "Default",
+                  "status": "Open",
+                  "responsible_person": "Francis Norton"
+                }
+              ]
+            },
+            {
+              "closed": [
+                {
+                  "number": "2/41680",
+                  "author": "Lisa Dean",
+                  "text": "It is necessary to replace defective lamps in the corridor of the warehouse.",
+                  "date": "20.05.2024",
+                  "priority": "Default",
+                  "status": "Closed",
+                  "responsible_person": "John Smith"
+                },
+                {
+                  "number": "2/42235",
+                  "author": "Amy Roberts",
+                  "text": "It is required to install a new cooler system in warehouse No. 7.",
+                  "date": "10.06.2024",
+                  "priority": "Default",
+                  "status": "Closed",
+                  "responsible_person": "Brandon Wade"
+                }
+              ]
+            },
+            {
+              "motivatedRefusals": [
+                {
+                  "number": "2/40456",
+                  "author": "Margaret Pearson",
+                  "text": "We have run out of office supplies, we need to order new ones.",
+                  "date": "15.03.2024",
+                  "priority": "Default",
+                  "status": "Refused",
+                  "responsible_person": "John Smith"
+                },
+                {
+                  "number": "2/41560",
+                  "author": "John Reed",
+                  "text": "We need additional chairs for the meeting room. Please arrange the order.",
+                  "date": "25.04.2024",
+                  "priority": "Default",
+                  "status": "Refused",
+                  "responsible_person": "Brandon Wade"
+                }
+              ]
+            }
+          ]
+        }
       ]
     },
     {
@@ -207,6 +491,148 @@
           "name_category": "Purchase of inventory items",
           "details": [
             "Inventory items"
+          ]
+        }
+      ],
+      "tasks": [
+        {
+          "incomingTasks": [
+            {
+              "open": [
+                {
+                  "number": "3/39432",
+                  "author": "Edna Reyes",
+                  "text": "We need to purchase new pallets for the warehouse. Please arrange this purchase.",
+                  "date": "05.01.2024",
+                  "priority": "Default",
+                  "status": "Open",
+                  "responsible_person": "Shirley Simpson"
+                },
+                {
+                  "number": "3/40547",
+                  "author": "Angela Martinez",
+                  "text": "We're out of duct tape and packing tape. I ask you to arrange the order of new materials.",
+                  "date": "15.02.2024",
+                  "priority": "Default",
+                  "status": "Open",
+                  "responsible_person": "Carolyn Webb"
+                }
+              ]
+            },
+            {
+              "closed": [
+                {
+                  "number": "3/41662",
+                  "author": "Justin Newman",
+                  "text": "We need to purchase new loaders for the warehouse. Please arrange this purchase.",
+                  "date": "25.03.2024",
+                  "priority": "Default",
+                  "status": "Closed",
+                  "responsible_person": "Bertha Jimenez"
+                },
+                {
+                  "number": "3/42777",
+                  "author": "Rodney Johnson",
+                  "text": "We have a need to purchase new racks for the warehouse. Please help us arrange this purchase.",
+                  "date": "10.06.2024",
+                  "priority": "Default",
+                  "status": "Closed",
+                  "responsible_person": "Shirley Simpson"
+                }
+              ]
+            },
+            {
+              "motivatedRefusals": [
+                {
+                  "number": "3/43892",
+                  "author": "Justin Swanson",
+                  "text": "We need new scales for weighing goods. I ask you to arrange the purchase of them.",
+                  "date": "20.06.2024",
+                  "priority": "Default",
+                  "status": "Refused",
+                  "responsible_person": "Carolyn Webb"
+                },
+                {
+                  "number": "3/41007",
+                  "author": "Bernard Robinson",
+                  "text": "The purchase of new trucks is required to expand our fleet.",
+                  "date": "15.04.2024",
+                  "priority": "Default",
+                  "status": "Refused",
+                  "responsible_person": "Shirley Simpson"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "outgoingTasks": [
+            {
+              "open": [
+                {
+                  "number": "3/39432",
+                  "author": "Edna Reyes",
+                  "text": "We need to purchase new pallets for the warehouse. Please arrange this purchase.",
+                  "date": "05.01.2024",
+                  "priority": "Default",
+                  "status": "Open",
+                  "responsible_person": "Shirley Simpson"
+                },
+                {
+                  "number": "3/40547",
+                  "author": "Angela Martinez",
+                  "text": "We're out of duct tape and packing tape. I ask you to arrange the order of new materials.",
+                  "date": "15.02.2024",
+                  "priority": "Default",
+                  "status": "Open",
+                  "responsible_person": "Carolyn Webb"
+                }
+              ]
+            },
+            {
+              "closed": [
+                {
+                  "number": "3/41662",
+                  "author": "Justin Newman",
+                  "text": "We need to purchase new loaders for the warehouse. Please arrange this purchase.",
+                  "date": "25.03.2024",
+                  "priority": "Default",
+                  "status": "Closed",
+                  "responsible_person": "Bertha Jimenez"
+                },
+                {
+                  "number": "3/42777",
+                  "author": "Rodney Johnson",
+                  "text": "We have a need to purchase new racks for the warehouse. Please help us arrange this purchase.",
+                  "date": "10.06.2024",
+                  "priority": "Default",
+                  "status": "Closed",
+                  "responsible_person": "Shirley Simpson"
+                }
+              ]
+            },
+            {
+              "motivatedRefusals": [
+                {
+                  "number": "3/43892",
+                  "author": "Justin Swanson",
+                  "text": "We need new scales for weighing goods. I ask you to arrange the purchase of them.",
+                  "date": "20.06.2024",
+                  "priority": "Default",
+                  "status": "Refused",
+                  "responsible_person": "Carolyn Webb"
+                },
+                {
+                  "number": "3/41007",
+                  "author": "Bernard Robinson",
+                  "text": "The purchase of new trucks is required to expand our fleet.",
+                  "date": "15.04.2024",
+                  "priority": "Default",
+                  "status": "Refused",
+                  "responsible_person": "Shirley Simpson"
+                }
+              ]
+            }
           ]
         }
       ]
@@ -233,6 +659,148 @@
             "Other"
           ]
         }
+      ],
+      "tasks": [
+        {
+          "incomingTasks": [
+            {
+              "open": [
+                {
+                  "number": "4/39737",
+                  "author": "Marie Thompson",
+                  "text": "There are problems with electricity in the warehouse. Please check and fix the problems.",
+                  "date": "23.03.2024",
+                  "priority": "Default",
+                  "status": "Open",
+                  "responsible_person": "Karl Robertson"
+                },
+                {
+                  "number": "4/40567",
+                  "author": "Kim Clark",
+                  "text": "The generator needs to be repaired in the warehouse. It turns off periodically and does not provide reliable power.",
+                  "date": "28.02.2024",
+                  "priority": "Default",
+                  "status": "Open",
+                  "responsible_person": "Joshua Williams"
+                }
+              ]
+            },
+            {
+              "closed": [
+                {
+                  "number": "4/41789",
+                  "author": "Donna Baker",
+                  "text": "There are periodic failures in the operation of the electrical network in the warehouse. This leads to delays in cargo handling. Please take action.",
+                  "date": "10.04.2024",
+                  "priority": "Default",
+                  "status": "Closed",
+                  "responsible_person": "Kevin Collins"
+                },
+                {
+                  "number": "4/42901",
+                  "author": "Janice Cunningham",
+                  "text": "It is necessary to check and fix the lighting problem in the warehouse. Some of the lights are not working.",
+                  "date": "06.06.2024",
+                  "priority": "Default",
+                  "status": "Closed",
+                  "responsible_person": "Karl Robertson"
+                }
+              ]
+            },
+            {
+              "motivatedRefusals": [
+                {
+                  "number": "4/42901",
+                  "author": "Ashley White",
+                  "text": "Please check and fix the air conditioning problems in one of the warehouses. It is too hot there, which may affect the safety of goods.",
+                  "date": "25.05.2024",
+                  "priority": "Default",
+                  "status": "Refused",
+                  "responsible_person": "Joshua Williams"
+                },
+                {
+                  "number": "4/40876",
+                  "author": "Jennifer Dean",
+                  "text": "There was a need to install additional sockets in the warehouse to connect additional equipment. Please take action.",
+                  "date": "12.07.2024",
+                  "priority": "Default",
+                  "status": "Refused",
+                  "responsible_person": "Kevin Collins"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "outgoingTasks": [
+            {
+              "open": [
+                {
+                  "number": "4/39737",
+                  "author": "Marie Thompson",
+                  "text": "There are problems with electricity in the warehouse. Please check and fix the problems.",
+                  "date": "23.03.2024",
+                  "priority": "Default",
+                  "status": "Open",
+                  "responsible_person": "Karl Robertson"
+                },
+                {
+                  "number": "4/40567",
+                  "author": "Kim Clark",
+                  "text": "The generator needs to be repaired in the warehouse. It turns off periodically and does not provide reliable power.",
+                  "date": "28.02.2024",
+                  "priority": "Default",
+                  "status": "Open",
+                  "responsible_person": "Joshua Williams"
+                }
+              ]
+            },
+            {
+              "closed": [
+                {
+                  "number": "4/41789",
+                  "author": "Donna Baker",
+                  "text": "There are periodic failures in the operation of the electrical network in the warehouse. This leads to delays in cargo handling. Please take action.",
+                  "date": "10.04.2024",
+                  "priority": "Default",
+                  "status": "Closed",
+                  "responsible_person": "Kevin Collins"
+                },
+                {
+                  "number": "4/42901",
+                  "author": "Janice Cunningham",
+                  "text": "It is necessary to check and fix the lighting problem in the warehouse. Some of the lights are not working.",
+                  "date": "06.06.2024",
+                  "priority": "Default",
+                  "status": "Closed",
+                  "responsible_person": "Karl Robertson"
+                }
+              ]
+            },
+            {
+              "motivatedRefusals": [
+                {
+                  "number": "4/42901",
+                  "author": "Ashley White",
+                  "text": "Please check and fix the air conditioning problems in one of the warehouses. It is too hot there, which may affect the safety of goods.",
+                  "date": "25.05.2024",
+                  "priority": "Default",
+                  "status": "Refused",
+                  "responsible_person": "Joshua Williams"
+                },
+                {
+                  "number": "4/40876",
+                  "author": "Jennifer Dean",
+                  "text": "There was a need to install additional sockets in the warehouse to connect additional equipment. Please take action.",
+                  "date": "12.07.2024",
+                  "priority": "Default",
+                  "status": "Refused",
+                  "responsible_person": "Kevin Collins"
+                }
+              ]
+            }
+          ]
+        }
       ]
     },
     {
@@ -255,6 +823,148 @@
             "Other",
             "Snow removal",
             "Cleaning of the territory and warehouses"
+          ]
+        }
+      ],
+      "tasks": [
+        {
+          "incomingTasks": [
+            {
+              "open": [
+                {
+                  "number": "5/39432",
+                  "author": "Oscar Lee",
+                  "text": "I ask you to arrange transportation of employees from the company's office to the depot by motor transport.",
+                  "date": "Not set",
+                  "priority": "Default",
+                  "status": "Open",
+                  "responsible_person": "Bernard Robinson"
+                },
+                {
+                  "number": "5/43636",
+                  "author": "Salvador Montgomery",
+                  "text": "I ask you to arrange the transportation of correspondence and documents to the territory of the company.",
+                  "date": "20.01.2024",
+                  "priority": "Default",
+                  "status": "Open",
+                  "responsible_person": "Willard Bennett"
+                }
+              ]
+            },
+            {
+              "closed": [
+                {
+                  "number": "5/39486",
+                  "author": "Tommy Hudson",
+                  "text": "I ask you to arrange transportation of employees to meet clients in another city.",
+                  "date": "10.04.2024",
+                  "priority": "Default",
+                  "status": "Closed",
+                  "responsible_person": "Bernard Robinson"
+                },
+                {
+                  "number": "5/41789",
+                  "author": "Lois Phillips",
+                  "text": "It is required to export special equipment from our warehouse to the client's territory. We ask you to arrange transportation.",
+                  "date": "05.03.2024",
+                  "priority": "Default",
+                  "status": "Closed",
+                  "responsible_person": "Bernard Robinson"
+                }
+              ]
+            },
+            {
+              "motivatedRefusals": [
+                {
+                  "number": "5/43491",
+                  "author": "Sandra Johnson",
+                  "text": "Good afternoon! We need to arrange transportation of employees to a corporate event in another city. Please provide a comfortable bus for a certain date. Thanks!",
+                  "date": "10.05.2024",
+                  "priority": "Default",
+                  "status": "Refused",
+                  "responsible_person": "Willard Bennett"
+                },
+                {
+                  "number": "5/43538",
+                  "author": "Marie Thompson",
+                  "text": "Good afternoon! Please arrange transportation of employees from the airport to our head office building. We ask you to provide comfortable cars. Thanks!",
+                  "date": "01.06.2024",
+                  "priority": "Default",
+                  "status": "Refused",
+                  "responsible_person": "Willard Bennett"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "outgoingTasks": [
+            {
+              "open": [
+                {
+                  "number": "5/39432",
+                  "author": "Oscar Lee",
+                  "text": "I ask you to arrange transportation of employees from the company's office to the depot by motor transport.",
+                  "date": "Not set",
+                  "priority": "Default",
+                  "status": "Open",
+                  "responsible_person": "Bernard Robinson"
+                },
+                {
+                  "number": "5/43636",
+                  "author": "Salvador Montgomery",
+                  "text": "I ask you to arrange the transportation of correspondence and documents to the territory of the company.",
+                  "date": "20.01.2024",
+                  "priority": "Default",
+                  "status": "Open",
+                  "responsible_person": "Willard Bennett"
+                }
+              ]
+            },
+            {
+              "closed": [
+                {
+                  "number": "5/39486",
+                  "author": "Tommy Hudson",
+                  "text": "I ask you to arrange transportation of employees to meet clients in another city.",
+                  "date": "10.04.2024",
+                  "priority": "Default",
+                  "status": "Closed",
+                  "responsible_person": "Bernard Robinson"
+                },
+                {
+                  "number": "5/41789",
+                  "author": "Lois Phillips",
+                  "text": "It is required to export special equipment from our warehouse to the client's territory. We ask you to arrange transportation.",
+                  "date": "05.03.2024",
+                  "priority": "Default",
+                  "status": "Closed",
+                  "responsible_person": "Bernard Robinson"
+                }
+              ]
+            },
+            {
+              "motivatedRefusals": [
+                {
+                  "number": "5/43491",
+                  "author": "Sandra Johnson",
+                  "text": "Good afternoon! We need to arrange transportation of employees to a corporate event in another city. Please provide a comfortable bus for a certain date. Thanks!",
+                  "date": "10.05.2024",
+                  "priority": "Default",
+                  "status": "Refused",
+                  "responsible_person": "Willard Bennett"
+                },
+                {
+                  "number": "5/43538",
+                  "author": "Marie Thompson",
+                  "text": "Good afternoon! Please arrange transportation of employees from the airport to our head office building. We ask you to provide comfortable cars. Thanks!",
+                  "date": "01.06.2024",
+                  "priority": "Default",
+                  "status": "Refused",
+                  "responsible_person": "Willard Bennett"
+                }
+              ]
+            }
           ]
         }
       ]
@@ -287,6 +997,148 @@
             "Repair of rigging devices"
           ]
         }
+      ],
+      "tasks": [
+        {
+          "incomingTasks": [
+            {
+              "open": [
+                {
+                  "number": "6/39352",
+                  "author": "Esther Black",
+                  "text": "Hello! Our shipping belt in the warehouse was damaged. We ask you to arrange its repair and restoration of work. Thanks!",
+                  "date": "05.12.2023",
+                  "priority": "Default",
+                  "status": "Open",
+                  "responsible_person": "Justin Newman"
+                },
+                {
+                  "number": "6/41089",
+                  "author": "Willard Bennett",
+                  "text": "Good afternoon! We need to carry out maintenance of our fleet. Please arrange for the inspection and repair of all vehicles. Thanks!",
+                  "date": "15.01.2024",
+                  "priority": "Default",
+                  "status": "Open",
+                  "responsible_person": "Jacob Warner"
+                }
+              ]
+            },
+            {
+              "closed": [
+                {
+                  "number": "6/42773",
+                  "author": "Bernard Robinson",
+                  "text": "Hello! We are having problems with the operation of the conveyor in the warehouse. I ask you to appoint a specialist for its examination and repair. Thanks!",
+                  "date": "28.02.2024",
+                  "priority": "Default",
+                  "status": "Closed",
+                  "responsible_person": "Lawrence Morgan"
+                },
+                {
+                  "number": "6/43842",
+                  "author": "Dorothy Brown",
+                  "text": "Good afternoon! We need to set up and maintain our fleet of loaders. We ask you to arrange the work of a specialist on the specified date. Thanks!",
+                  "date": "10.03.2024",
+                  "priority": "Default",
+                  "status": "Closed",
+                  "responsible_person": "Jason Hill"
+                }
+              ]
+            },
+            {
+              "motivatedRefusals": [
+                {
+                  "number": "6/44694",
+                  "author": "Angela Alvarez",
+                  "text": "Good afternoon! We need to carry out maintenance and configuration of our freight elevator in the warehouse. We ask you to appoint a specialist to perform the work. Thanks!",
+                  "date": "27.04.2024",
+                  "priority": "Default",
+                  "status": "Refused",
+                  "responsible_person": "Frank James"
+                },
+                {
+                  "number": "6/39467",
+                  "author": "Joy Lewis",
+                  "text": "Hello! We have a problem with the operation of the lifting crane in the warehouse. Please send a specialist for inspection and repair. It is urgently necessary to restore the operation of the crane. Thanks!",
+                  "date": "15.12.2023",
+                  "priority": "Default",
+                  "status": "Refused",
+                  "responsible_person": "Jason Hill"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "outgoingTasks": [
+            {
+              "open": [
+                {
+                  "number": "6/39352",
+                  "author": "Esther Black",
+                  "text": "Hello! Our shipping belt in the warehouse was damaged. We ask you to arrange its repair and restoration of work. Thanks!",
+                  "date": "05.12.2023",
+                  "priority": "Default",
+                  "status": "Open",
+                  "responsible_person": "Justin Newman"
+                },
+                {
+                  "number": "6/41089",
+                  "author": "Willard Bennett",
+                  "text": "Good afternoon! We need to carry out maintenance of our fleet. Please arrange for the inspection and repair of all vehicles. Thanks!",
+                  "date": "15.01.2024",
+                  "priority": "Default",
+                  "status": "Open",
+                  "responsible_person": "Jacob Warner"
+                }
+              ]
+            },
+            {
+              "closed": [
+                {
+                  "number": "6/42773",
+                  "author": "Bernard Robinson",
+                  "text": "Hello! We are having problems with the operation of the conveyor in the warehouse. I ask you to appoint a specialist for its examination and repair. Thanks!",
+                  "date": "28.02.2024",
+                  "priority": "Default",
+                  "status": "Closed",
+                  "responsible_person": "Lawrence Morgan"
+                },
+                {
+                  "number": "6/43842",
+                  "author": "Dorothy Brown",
+                  "text": "Good afternoon! We need to set up and maintain our fleet of loaders. We ask you to arrange the work of a specialist on the specified date. Thanks!",
+                  "date": "10.03.2024",
+                  "priority": "Default",
+                  "status": "Closed",
+                  "responsible_person": "Jason Hill"
+                }
+              ]
+            },
+            {
+              "motivatedRefusals": [
+                {
+                  "number": "6/44694",
+                  "author": "Angela Alvarez",
+                  "text": "Good afternoon! We need to carry out maintenance and configuration of our freight elevator in the warehouse. We ask you to appoint a specialist to perform the work. Thanks!",
+                  "date": "27.04.2024",
+                  "priority": "Default",
+                  "status": "Refused",
+                  "responsible_person": "Frank James"
+                },
+                {
+                  "number": "6/39467",
+                  "author": "Joy Lewis",
+                  "text": "Hello! We have a problem with the operation of the lifting crane in the warehouse. Please send a specialist for inspection and repair. It is urgently necessary to restore the operation of the crane. Thanks!",
+                  "date": "15.12.2023",
+                  "priority": "Default",
+                  "status": "Refused",
+                  "responsible_person": "Jason Hill"
+                }
+              ]
+            }
+          ]
+        }
       ]
     },
     {
@@ -300,6 +1152,148 @@
             "Manufacture of containers for transporting lamps",
             "Manufacture of ladders",
             "Other"
+          ]
+        }
+      ],
+      "tasks": [
+        {
+          "incomingTasks": [
+            {
+              "open": [
+                {
+                  "number": "7/39493",
+                  "author": "Lisa Dean",
+                  "text": "Hello! We require the services of a carpenter for the manufacture of wooden structures in the warehouse. Please appoint a responsible specialist. Thanks!",
+                  "date": "15.01.2024",
+                  "priority": "Default",
+                  "status": "Open",
+                  "responsible_person": "Jacob Warner"
+                },
+                {
+                  "number": "7/39436",
+                  "author": "Amy Roberts",
+                  "text": "Good afternoon! We need the services of a carpenter to repair wooden furniture in the office. I ask you to appoint a specialist to perform the work. Thanks!",
+                  "date": "05.02.2024",
+                  "priority": "Default",
+                  "status": "Open",
+                  "responsible_person": "Justin Newman"
+                }
+              ]
+            },
+            {
+              "closed": [
+                {
+                  "number": "7/39970",
+                  "author": "Bonnie Greer",
+                  "text": "Hello! We need the help of a carpenter to install wooden partitions in the warehouse. Please appoint a responsible specialist. Thanks!",
+                  "date": "25.02.2024",
+                  "priority": "Default",
+                  "status": "Closed",
+                  "responsible_person": "Jason Hill"
+                },
+                {
+                  "number": "7/39084",
+                  "author": "Helen Higgins",
+                  "text": "Greetings! We need the services of a carpenter to build wooden shelves in the warehouse. Please appoint a specialist for this task. Thanks!",
+                  "date": "10.04.2024",
+                  "priority": "Default",
+                  "status": "Closed",
+                  "responsible_person": "Lawrence Morgan"
+                }
+              ]
+            },
+            {
+              "motivatedRefusals": [
+                {
+                  "number": "7/39052",
+                  "author": "Erica Rodriguez",
+                  "text": "Hello! We require the services of a carpenter to replace wooden doors in the office. Please appoint a responsible specialist. Thanks!",
+                  "date": "05.05.2024",
+                  "priority": "Default",
+                  "status": "Refused",
+                  "responsible_person": "Gerald White"
+                },
+                {
+                  "number": "7/39439",
+                  "author": "Sharon Ford",
+                  "text": "Hi! We need to fix the wooden floors in the warehouse. Please assign a carpenter to do this job. Thanks!",
+                  "date": "15.12.2023",
+                  "priority": "Default",
+                  "status": "Refused",
+                  "responsible_person": "Frank James"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "outgoingTasks": [
+            {
+              "open": [
+                {
+                  "number": "7/39493",
+                  "author": "Lisa Dean",
+                  "text": "Hello! We require the services of a carpenter for the manufacture of wooden structures in the warehouse. Please appoint a responsible specialist. Thanks!",
+                  "date": "15.01.2024",
+                  "priority": "Default",
+                  "status": "Open",
+                  "responsible_person": "Jacob Warner"
+                },
+                {
+                  "number": "7/39436",
+                  "author": "Amy Roberts",
+                  "text": "Good afternoon! We need the services of a carpenter to repair wooden furniture in the office. I ask you to appoint a specialist to perform the work. Thanks!",
+                  "date": "05.02.2024",
+                  "priority": "Default",
+                  "status": "Open",
+                  "responsible_person": "Justin Newman"
+                }
+              ]
+            },
+            {
+              "closed": [
+                {
+                  "number": "7/39970",
+                  "author": "Bonnie Greer",
+                  "text": "Hello! We need the help of a carpenter to install wooden partitions in the warehouse. Please appoint a responsible specialist. Thanks!",
+                  "date": "25.02.2024",
+                  "priority": "Default",
+                  "status": "Closed",
+                  "responsible_person": "Jason Hill"
+                },
+                {
+                  "number": "7/39084",
+                  "author": "Helen Higgins",
+                  "text": "Greetings! We need the services of a carpenter to build wooden shelves in the warehouse. Please appoint a specialist for this task. Thanks!",
+                  "date": "10.04.2024",
+                  "priority": "Default",
+                  "status": "Closed",
+                  "responsible_person": "Lawrence Morgan"
+                }
+              ]
+            },
+            {
+              "motivatedRefusals": [
+                {
+                  "number": "7/39052",
+                  "author": "Erica Rodriguez",
+                  "text": "Hello! We require the services of a carpenter to replace wooden doors in the office. Please appoint a responsible specialist. Thanks!",
+                  "date": "05.05.2024",
+                  "priority": "Default",
+                  "status": "Refused",
+                  "responsible_person": "Gerald White"
+                },
+                {
+                  "number": "7/39439",
+                  "author": "Sharon Ford",
+                  "text": "Hi! We need to fix the wooden floors in the warehouse. Please assign a carpenter to do this job. Thanks!",
+                  "date": "15.12.2023",
+                  "priority": "Default",
+                  "status": "Refused",
+                  "responsible_person": "Frank James"
+                }
+              ]
+            }
           ]
         }
       ]
