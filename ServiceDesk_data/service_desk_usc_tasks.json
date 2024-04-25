@@ -155,34 +155,30 @@
           ]
         }
       ],
-      "tasks": [
-        {
-          "incomingTasks": {
-            "open": [
-              "1"
-            ],
-            "closed": [
-              "1"
-            ],
-            "motivatedRefusals": [
-              "1"
-            ]
-          }
+      "tasks": {
+        "incomingTasks": {
+          "open": [
+            "1"
+          ],
+          "closed": [
+            "1"
+          ],
+          "motivatedRefusals": [
+            "1"
+          ]
         },
-        {
-          "outgoingTasks": {
-            "open": [
-              "1"
-            ],
-            "closed": [
-              "1"
-            ],
-            "motivatedRefusals": [
-              "1"
-            ]
-          }
+        "outgoingTasks": {
+          "open": [
+            "1"
+          ],
+          "closed": [
+            "1"
+          ],
+          "motivatedRefusals": [
+            "1"
+          ]
         }
-      ]
+      }
     },
     {
       "name": "Household Activities",
@@ -227,34 +223,30 @@
           ]
         }
       ],
-      "tasks": [
-        {
-          "incomingTasks": {
-            "open": [
-              "1"
-            ],
-            "closed": [
-              "1"
-            ],
-            "motivatedRefusals": [
-              "1"
-            ]
-          }
+      "tasks": {
+        "incomingTasks": {
+          "open": [
+            "1"
+          ],
+          "closed": [
+            "1"
+          ],
+          "motivatedRefusals": [
+            "1"
+          ]
         },
-        {
-          "outgoingTasks": {
-            "open": [
-              "1"
-            ],
-            "closed": [
-              "1"
-            ],
-            "motivatedRefusals": [
-              "1"
-            ]
-          }
+        "outgoingTasks": {
+          "open": [
+            "1"
+          ],
+          "closed": [
+            "1"
+          ],
+          "motivatedRefusals": [
+            "1"
+          ]
         }
-      ]
+      }
     },
     {
       "name": "Logistics Service",
@@ -266,34 +258,30 @@
           ]
         }
       ],
-      "tasks": [
-        {
-          "incomingTasks": {
-            "open": [
-              "1"
-            ],
-            "closed": [
-              "1"
-            ],
-            "motivatedRefusals": [
-              "1"
-            ]
-          }
+      "tasks": {
+        "incomingTasks": {
+          "open": [
+            "1"
+          ],
+          "closed": [
+            "1"
+          ],
+          "motivatedRefusals": [
+            "1"
+          ]
         },
-        {
-          "outgoingTasks": {
-            "open": [
-              "1"
-            ],
-            "closed": [
-              "1"
-            ],
-            "motivatedRefusals": [
-              "1"
-            ]
-          }
+        "outgoingTasks": {
+          "open": [
+            "1"
+          ],
+          "closed": [
+            "1"
+          ],
+          "motivatedRefusals": [
+            "1"
+          ]
         }
-      ]
+      }
     },
     {
       "name": "Energy Department",
@@ -318,34 +306,30 @@
           ]
         }
       ],
-      "tasks": [
-        {
-          "incomingTasks": {
-            "open": [
-              "1"
-            ],
-            "closed": [
-              "1"
-            ],
-            "motivatedRefusals": [
-              "1"
-            ]
-          }
+      "tasks": {
+        "incomingTasks": {
+          "open": [
+            "1"
+          ],
+          "closed": [
+            "1"
+          ],
+          "motivatedRefusals": [
+            "1"
+          ]
         },
-        {
-          "outgoingTasks": {
-            "open": [
-              "1"
-            ],
-            "closed": [
-              "1"
-            ],
-            "motivatedRefusals": [
-              "1"
-            ]
-          }
+        "outgoingTasks": {
+          "open": [
+            "1"
+          ],
+          "closed": [
+            "1"
+          ],
+          "motivatedRefusals": [
+            "1"
+          ]
         }
-      ]
+      }
     },
     {
       "name": "Auto Transport Department",
@@ -370,34 +354,30 @@
           ]
         }
       ],
-      "tasks": [
-        {
-          "incomingTasks": {
-            "open": [
-              "1"
-            ],
-            "closed": [
-              "1"
-            ],
-            "motivatedRefusals": [
-              "1"
-            ]
-          }
+      "tasks": {
+        "incomingTasks": {
+          "open": [
+            "1"
+          ],
+          "closed": [
+            "1"
+          ],
+          "motivatedRefusals": [
+            "1"
+          ]
         },
-        {
-          "outgoingTasks": {
-            "open": [
-              "1"
-            ],
-            "closed": [
-              "1"
-            ],
-            "motivatedRefusals": [
-              "1"
-            ]
-          }
+        "outgoingTasks": {
+          "open": [
+            "1"
+          ],
+          "closed": [
+            "1"
+          ],
+          "motivatedRefusals": [
+            "1"
+          ]
         }
-      ]
+      }
     },
     {
       "name": "Mechanization",
@@ -428,34 +408,30 @@
           ]
         }
       ],
-      "tasks": [
-        {
-          "incomingTasks": {
-            "open": [
-              "1"
-            ],
-            "closed": [
-              "1"
-            ],
-            "motivatedRefusals": [
-              "1"
-            ]
-          }
+      "tasks": {
+        "incomingTasks": {
+          "open": [
+            "1"
+          ],
+          "closed": [
+            "1"
+          ],
+          "motivatedRefusals": [
+            "1"
+          ]
         },
-        {
-          "outgoingTasks": {
-            "open": [
-              "1"
-            ],
-            "closed": [
-              "1"
-            ],
-            "motivatedRefusals": [
-              "1"
-            ]
-          }
+        "outgoingTasks": {
+          "open": [
+            "1"
+          ],
+          "closed": [
+            "1"
+          ],
+          "motivatedRefusals": [
+            "1"
+          ]
         }
-      ]
+      }
     },
     {
       "name": "Carpenters",
@@ -471,34 +447,30 @@
           ]
         }
       ],
-      "tasks": [
-        {
-          "incomingTasks": {
-            "open": [
-              "1"
-            ],
-            "closed": [
-              "1"
-            ],
-            "motivatedRefusals": [
-              "1"
-            ]
-          }
+      "tasks": {
+        "incomingTasks": {
+          "open": [
+            "1"
+          ],
+          "closed": [
+            "1"
+          ],
+          "motivatedRefusals": [
+            "1"
+          ]
         },
-        {
-          "outgoingTasks": {
-            "open": [
-              "1"
-            ],
-            "closed": [
-              "1"
-            ],
-            "motivatedRefusals": [
-              "1"
-            ]
-          }
+        "outgoingTasks": {
+          "open": [
+            "1"
+          ],
+          "closed": [
+            "1"
+          ],
+          "motivatedRefusals": [
+            "1"
+          ]
         }
-      ]
+      }
     }
   ]
 }
