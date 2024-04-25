@@ -157,30 +157,30 @@
       ],
       "tasks": [
         {
-          "incomingTasks": [
-            {
-              "open": ["1"]
-            },
-            {
-              "closed": ["1"]
-            },
-            {
-              "motivatedRefusals": ["1"]
-            }
-          ]
+          "incomingTasks": {
+            "open": [
+              "1"
+            ],
+            "closed": [
+              "1"
+            ],
+            "motivatedRefusals": [
+              "1"
+            ]
+          }
         },
         {
-          "outgoingTasks": [
-            {
-              "open": ["1"]
-            },
-            {
-              "closed": ["1"]
-            },
-            {
-              "motivatedRefusals": ["1"]
-            }
-          ]
+          "outgoingTasks": {
+            "open": [
+              "1"
+            ],
+            "closed": [
+              "1"
+            ],
+            "motivatedRefusals": [
+              "1"
+            ]
+          }
         }
       ]
     },
@@ -229,30 +229,30 @@
       ],
       "tasks": [
         {
-          "incomingTasks": [
-            {
-              "open": ["1"]
-            },
-            {
-              "closed": ["1"]
-            },
-            {
-              "motivatedRefusals": ["1"]
-            }
-          ]
+          "incomingTasks": {
+            "open": [
+              "1"
+            ],
+            "closed": [
+              "1"
+            ],
+            "motivatedRefusals": [
+              "1"
+            ]
+          }
         },
         {
-          "outgoingTasks": [
-            {
-              "open": ["1"]
-            },
-            {
-              "closed": ["1"]
-            },
-            {
-              "motivatedRefusals": ["1"]
-            }
-          ]
+          "outgoingTasks": {
+            "open": [
+              "1"
+            ],
+            "closed": [
+              "1"
+            ],
+            "motivatedRefusals": [
+              "1"
+            ]
+          }
         }
       ]
     },
@@ -268,30 +268,30 @@
       ],
       "tasks": [
         {
-          "incomingTasks": [
-            {
-              "open": ["1"]
-            },
-            {
-              "closed": ["1"]
-            },
-            {
-              "motivatedRefusals": ["1"]
-            }
-          ]
+          "incomingTasks": {
+            "open": [
+              "1"
+            ],
+            "closed": [
+              "1"
+            ],
+            "motivatedRefusals": [
+              "1"
+            ]
+          }
         },
         {
-          "outgoingTasks": [
-            {
-              "open": ["1"]
-            },
-            {
-              "closed": ["1"]
-            },
-            {
-              "motivatedRefusals": ["1"]
-            }
-          ]
+          "outgoingTasks": {
+            "open": [
+              "1"
+            ],
+            "closed": [
+              "1"
+            ],
+            "motivatedRefusals": [
+              "1"
+            ]
+          }
         }
       ]
     },
@@ -320,30 +320,30 @@
       ],
       "tasks": [
         {
-          "incomingTasks": [
-            {
-              "open": ["1"]
-            },
-            {
-              "closed": ["1"]
-            },
-            {
-              "motivatedRefusals": ["1"]
-            }
-          ]
+          "incomingTasks": {
+            "open": [
+              "1"
+            ],
+            "closed": [
+              "1"
+            ],
+            "motivatedRefusals": [
+              "1"
+            ]
+          }
         },
         {
-          "outgoingTasks": [
-            {
-              "open": ["1"]
-            },
-            {
-              "closed": ["1"]
-            },
-            {
-              "motivatedRefusals": ["1"]
-            }
-          ]
+          "outgoingTasks": {
+            "open": [
+              "1"
+            ],
+            "closed": [
+              "1"
+            ],
+            "motivatedRefusals": [
+              "1"
+            ]
+          }
         }
       ]
     },
@@ -372,30 +372,30 @@
       ],
       "tasks": [
         {
-          "incomingTasks": [
-            {
-              "open": ["1"]
-            },
-            {
-              "closed": ["1"]
-            },
-            {
-              "motivatedRefusals": ["1"]
-            }
-          ]
+          "incomingTasks": {
+            "open": [
+              "1"
+            ],
+            "closed": [
+              "1"
+            ],
+            "motivatedRefusals": [
+              "1"
+            ]
+          }
         },
         {
-          "outgoingTasks": [
-            {
-              "open": ["1"]
-            },
-            {
-              "closed": ["1"]
-            },
-            {
-              "motivatedRefusals": ["1"]
-            }
-          ]
+          "outgoingTasks": {
+            "open": [
+              "1"
+            ],
+            "closed": [
+              "1"
+            ],
+            "motivatedRefusals": [
+              "1"
+            ]
+          }
         }
       ]
     },
@@ -430,30 +430,30 @@
       ],
       "tasks": [
         {
-          "incomingTasks": [
-            {
-              "open": ["1"]
-            },
-            {
-              "closed": ["1"]
-            },
-            {
-              "motivatedRefusals": ["1"]
-            }
-          ]
+          "incomingTasks": {
+            "open": [
+              "1"
+            ],
+            "closed": [
+              "1"
+            ],
+            "motivatedRefusals": [
+              "1"
+            ]
+          }
         },
         {
-          "outgoingTasks": [
-            {
-              "open": ["1"]
-            },
-            {
-              "closed": ["1"]
-            },
-            {
-              "motivatedRefusals": ["1"]
-            }
-          ]
+          "outgoingTasks": {
+            "open": [
+              "1"
+            ],
+            "closed": [
+              "1"
+            ],
+            "motivatedRefusals": [
+              "1"
+            ]
+          }
         }
       ]
     },
@@ -473,30 +473,30 @@
       ],
       "tasks": [
         {
-          "incomingTasks": [
-            {
-              "open": ["1"]
-            },
-            {
-              "closed": ["1"]
-            },
-            {
-              "motivatedRefusals": ["1"]
-            }
-          ]
+          "incomingTasks": {
+            "open": [
+              "1"
+            ],
+            "closed": [
+              "1"
+            ],
+            "motivatedRefusals": [
+              "1"
+            ]
+          }
         },
         {
-          "outgoingTasks": [
-            {
-              "open": ["1"]
-            },
-            {
-              "closed": ["1"]
-            },
-            {
-              "motivatedRefusals": ["1"]
-            }
-          ]
+          "outgoingTasks": {
+            "open": [
+              "1"
+            ],
+            "closed": [
+              "1"
+            ],
+            "motivatedRefusals": [
+              "1"
+            ]
+          }
         }
       ]
     }
