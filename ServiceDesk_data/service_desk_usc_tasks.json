@@ -159,30 +159,129 @@
         "incoming_tasks": {
           "open": [
             {
-              "number": "1/39001",
+              "number": "1/42686",
               "author": "Tommy Hudson",
               "text": "I have problems accessing the company's network. I can't connect to the server.",
-              "date": "15.04.2024",
+              "date": "25.04.2024",
               "priority": "Important",
               "status": "Open",
               "responsible_person": "Mark Ward"
             },
             {
-              "number": "1/40002",
+              "number": "1/42655",
               "author": "Salvador Montgomery",
               "text": "My computer won't boot, a blue error screen appears.",
-              "date": "20.05.2024",
+              "date": "25.04.2024",
               "priority": "Default",
               "status": "Open",
               "responsible_person": "Joshua Lane"
+            },
+            {
+              "number": "1/42643",
+              "author": "Bonnie Moody",
+              "text": "I can't connect to the Wi-Fi network in the office. I ask for help",
+              "date": "25.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Joshua Lane"
+            },
+            {
+              "number": "1/42632",
+              "author": "Sarah Jensen",
+              "text": "I can't access network folders. I'm asking for help.",
+              "date": "24.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "William Erickson"
+            },
+            {
+              "number": "1/42613",
+              "author": "Marie Thompson",
+              "text": "I have problems with the printer. He's not typing. Please help me.",
+              "date": "24.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Max Parks"
+            },
+            {
+              "number": "1/42602",
+              "author": "Jessie Walsh",
+              "text": "My computer freezes after startup. What should I do?",
+              "date": "24.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Mark Ward"
+            },
+            {
+              "number": "1/42599",
+              "author": "Alice Gonzales",
+              "text": "I can't connect to the VPN. I'm asking for help.",
+              "date": "24.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Joshua Lane"
+            },
+            {
+              "number": "1/42587",
+              "author": "Karl Robertson",
+              "text": "My email inbox is full. We need to increase its volume.",
+              "date": "23.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Mark Ward"
+            },
+            {
+              "number": "1/42556",
+              "author": "Edith Wright",
+              "text": "I cannot install new software on my computer. Please help me.",
+              "date": "23.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "William Erickson"
+            },
+            {
+              "number": "1/42521",
+              "author": "Kevin Crawford",
+              "text": "I can't access the shared folder on the server. Please check the access settings.",
+              "date": "22.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Mark Ward"
+            },
+            {
+              "number": "1/42465",
+              "author": "Crystal Wright",
+              "text": "My computer does not boot after updating the operating system. Please help me.",
+              "date": "21.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Max Parks"
+            },
+            {
+              "number": "1/42424",
+              "author": "Richard Smith",
+              "text": "Video conferencing does not work on the work computer.",
+              "date": "21.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Mark Ward"
+            },
+            {
+              "number": "1/42378",
+              "author": "David Chavez",
+              "text": "The printer does not work in the office.",
+              "date": "20.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "William Erickson"
             }
           ],
           "closed": [
             {
-              "number": "1/41003",
+              "number": "1/42234",
               "author": "Frederick Price",
               "text": "I can't send an email. The mail client issues an error when connecting to the server.",
-              "date": "25.06.2024",
+              "date": "18.04.2024",
               "priority": "Default",
               "status": "Closed",
               "responsible_person": "William Erickson"
@@ -190,61 +289,286 @@
             {
               "number": "1/42004",
               "author": "Michael Anderson",
-              "text": "",
-              "date": "30.07.2024",
+              "text": "I'm having problems with my network connection. I often lose my connection, which leads to interruptions in my work and slows down my productivity.",
+              "date": "12.04.2024",
               "priority": "Default",
               "status": "Closed",
               "responsible_person": "Max Parks"
+            },
+            {
+              "number": "1/41723",
+              "author": "Nicole Garcia",
+              "text": "There is a problem with the internet speed on my work computer. The page loading speed is very slow, which makes it difficult to complete tasks. Please check the connection and take measures to improve the speed.",
+              "date": "04.04.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Mark Ward"
+            },
+            {
+              "number": "1/41645",
+              "author": "Alice Fuller",
+              "text": "On the last update of the operating system, there were problems with the operation of the time tracking application. The application crashes some time after launch. It is necessary to correct this error.",
+              "date": "30.03.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Joshua Lane"
+            },
+            {
+              "number": "1/41532",
+              "author": "Dennis Ward",
+              "text": "Please install new database software on my computer. It is necessary to have access to the latest updates and functionality of the program.",
+              "date": "23.03.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "William Erickson"
+            },
+            {
+              "number": "1/41457",
+              "author": "Marie Thompson",
+              "text": "I have a problem with the printer. When printing documents, an error message appears on the screen and printing is not performed. Please check the printer status and fix this problem.",
+              "date": "16.03.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Max Parks"
+            },
+            {
+              "number": "1/41247",
+              "author": "Charles Cruz",
+              "text": "The sound is not working on my computer. There is no sound signal when trying to play audio files or videos. Please check the sound settings and restore the audio system to working order.",
+              "date": "02.03.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Mark Ward"
+            },
+            {
+              "number": "1/41124",
+              "author": "James Jenkins",
+              "text": "I'm having trouble with my email settings. Errors occur when sending and receiving emails and it is impossible to establish a connection to the mail server. Please help me set up the email client.",
+              "date": "20.02.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Joshua Lane"
+            },
+            {
+              "number": "1/40934",
+              "author": "Lisa Brewer",
+              "text": "I ask for help with installing and configuring a new network printer. You need to connect it to the network and configure it to print from my workplace.",
+              "date": "18.02.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "William Erickson"
+            },
+            {
+              "number": "1/40876",
+              "author": "Richard Smith",
+              "text": "I'm having trouble connecting to a Wi-Fi network. Although the network signal is displayed, the connection cannot be established. Please check your network settings and help you connect to Wi-Fi.",
+              "date": "12.02.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Max Parks"
+            },
+            {
+              "number": "1/40199",
+              "author": "Barbara Clark",
+              "text": "I have a problem with displaying images in my email. When opening emails with pictures, they are not displayed, instead only empty frames are visible. Please help us solve this problem.",
+              "date": "25.01.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Mark Ward"
+            },
+            {
+              "number": "1/39926",
+              "author": "Edna Reyes",
+              "text": "Difficulties arise when trying to connect to the Internet on a workstation. The connection is not established, despite the correct data entered. Please check the connection and help to fix this problem.",
+              "date": "13.01.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Joshua Lane"
+            },
+            {
+              "number": "1/39645",
+              "author": "Emily Rodriguez",
+              "text": "I have problems with the monitor. The image on the screen flickers and sometimes disappears for a few seconds. Please check the connection of the monitor and help in solving this problem.",
+              "date": "11.01.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "William Erickson"
             }
           ],
           "motivated_refusals": [
             {
-              "number": "1/39005",
+              "number": "1/41765",
               "author": "Margaret Pearson",
               "text": "My computer freezes when running a certain program. Help is needed to fix this problem.",
-              "date": "05.01.2024",
+              "date": "05.04.2024",
               "priority": "Default",
               "status": "Refused",
               "responsible_person": "Mark Ward"
             },
             {
-              "number": "1/40010",
+              "number": "1/41310",
               "author": "John Reed",
               "text": "I have problems connecting to Wi-Fi in the office. The signal is too weak and unstable.",
-              "date": "10.02.2024",
+              "date": "08.03.2024",
               "priority": "Default",
               "status": "Refused",
               "responsible_person": "Joshua Lane"
+            },
+            {
+              "number": "1/41125",
+              "author": "Michael Turner",
+              "text": "The USB ports are not working on my work computer. When I connect the devices, they are not recognized and are not displayed in the system. Please check the ports and help with their recovery.",
+              "date": "20.02.2024",
+              "priority": "Default",
+              "status": "Refused",
+              "responsible_person": "Max Parks"
+            },
+            {
+              "number": "1/40234",
+              "author": "Sophia Campbell",
+              "text": "I have a problem accessing cloud storage. When I try to upload files, the process takes a very long time and is often interrupted. Please check your connection to the cloud and help solve this problem.",
+              "date": "28.01.2024",
+              "priority": "Default",
+              "status": "Refused",
+              "responsible_person": "Joshua Lane"
+            },
+            {
+              "number": "1/39756",
+              "author": "James Richardson",
+              "text": "I have a problem with the laptop charger working. When I plug it in, the laptop does not charge and only runs on battery power. Please check the performance of the charger and help in its restoration.",
+              "date": "14.01.2024",
+              "priority": "Default",
+              "status": "Refused",
+              "responsible_person": "Max Parks"
             }
           ]
         },
         "outgoing_tasks": {
           "open": [
             {
-              "number": "1/39001",
+              "number": "1/42686",
               "author": "Tommy Hudson",
               "text": "I have problems accessing the company's network. I can't connect to the server.",
-              "date": "15.04.2024",
+              "date": "25.04.2024",
               "priority": "Important",
               "status": "Open",
               "responsible_person": "Mark Ward"
             },
             {
-              "number": "1/40002",
+              "number": "1/42655",
               "author": "Salvador Montgomery",
               "text": "My computer won't boot, a blue error screen appears.",
-              "date": "20.05.2024",
+              "date": "25.04.2024",
               "priority": "Default",
               "status": "Open",
               "responsible_person": "Joshua Lane"
+            },
+            {
+              "number": "1/42643",
+              "author": "Bonnie Moody",
+              "text": "I can't connect to the Wi-Fi network in the office. I ask for help",
+              "date": "25.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Joshua Lane"
+            },
+            {
+              "number": "1/42632",
+              "author": "Sarah Jensen",
+              "text": "I can't access network folders. I'm asking for help.",
+              "date": "24.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "William Erickson"
+            },
+            {
+              "number": "1/42613",
+              "author": "Marie Thompson",
+              "text": "I have problems with the printer. He's not typing. Please help me.",
+              "date": "24.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Max Parks"
+            },
+            {
+              "number": "1/42602",
+              "author": "Jessie Walsh",
+              "text": "My computer freezes after startup. What should I do?",
+              "date": "24.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Mark Ward"
+            },
+            {
+              "number": "1/42599",
+              "author": "Alice Gonzales",
+              "text": "I can't connect to the VPN. I'm asking for help.",
+              "date": "24.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Joshua Lane"
+            },
+            {
+              "number": "1/42587",
+              "author": "Karl Robertson",
+              "text": "My email inbox is full. We need to increase its volume.",
+              "date": "23.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Mark Ward"
+            },
+            {
+              "number": "1/42556",
+              "author": "Edith Wright",
+              "text": "I cannot install new software on my computer. Please help me.",
+              "date": "23.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "William Erickson"
+            },
+            {
+              "number": "1/42521",
+              "author": "Kevin Crawford",
+              "text": "I can't access the shared folder on the server. Please check the access settings.",
+              "date": "22.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Mark Ward"
+            },
+            {
+              "number": "1/42465",
+              "author": "Crystal Wright",
+              "text": "My computer does not boot after updating the operating system. Please help me.",
+              "date": "21.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Max Parks"
+            },
+            {
+              "number": "1/42424",
+              "author": "Richard Smith",
+              "text": "Video conferencing does not work on the work computer.",
+              "date": "21.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Mark Ward"
+            },
+            {
+              "number": "1/42378",
+              "author": "David Chavez",
+              "text": "The printer does not work in the office.",
+              "date": "20.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "William Erickson"
             }
           ],
           "closed": [
             {
-              "number": "1/41003",
+              "number": "1/42234",
               "author": "Frederick Price",
               "text": "I can't send an email. The mail client issues an error when connecting to the server.",
-              "date": "25.06.2024",
+              "date": "18.04.2024",
               "priority": "Default",
               "status": "Closed",
               "responsible_person": "William Erickson"
@@ -252,31 +576,157 @@
             {
               "number": "1/42004",
               "author": "Michael Anderson",
-              "text": "",
-              "date": "30.07.2024",
+              "text": "I'm having problems with my network connection. I often lose my connection, which leads to interruptions in my work and slows down my productivity.",
+              "date": "12.04.2024",
               "priority": "Default",
               "status": "Closed",
               "responsible_person": "Max Parks"
+            },
+            {
+              "number": "1/41723",
+              "author": "Nicole Garcia",
+              "text": "There is a problem with the internet speed on my work computer. The page loading speed is very slow, which makes it difficult to complete tasks. Please check the connection and take measures to improve the speed.",
+              "date": "04.04.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Mark Ward"
+            },
+            {
+              "number": "1/41645",
+              "author": "Alice Fuller",
+              "text": "On the last update of the operating system, there were problems with the operation of the time tracking application. The application crashes some time after launch. It is necessary to correct this error.",
+              "date": "30.03.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Joshua Lane"
+            },
+            {
+              "number": "1/41532",
+              "author": "Dennis Ward",
+              "text": "Please install new database software on my computer. It is necessary to have access to the latest updates and functionality of the program.",
+              "date": "23.03.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "William Erickson"
+            },
+            {
+              "number": "1/41457",
+              "author": "Marie Thompson",
+              "text": "I have a problem with the printer. When printing documents, an error message appears on the screen and printing is not performed. Please check the printer status and fix this problem.",
+              "date": "16.03.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Max Parks"
+            },
+            {
+              "number": "1/41247",
+              "author": "Charles Cruz",
+              "text": "The sound is not working on my computer. There is no sound signal when trying to play audio files or videos. Please check the sound settings and restore the audio system to working order.",
+              "date": "02.03.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Mark Ward"
+            },
+            {
+              "number": "1/41124",
+              "author": "James Jenkins",
+              "text": "I'm having trouble with my email settings. Errors occur when sending and receiving emails and it is impossible to establish a connection to the mail server. Please help me set up the email client.",
+              "date": "20.02.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Joshua Lane"
+            },
+            {
+              "number": "1/40934",
+              "author": "Lisa Brewer",
+              "text": "I ask for help with installing and configuring a new network printer. You need to connect it to the network and configure it to print from my workplace.",
+              "date": "18.02.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "William Erickson"
+            },
+            {
+              "number": "1/40876",
+              "author": "Richard Smith",
+              "text": "I'm having trouble connecting to a Wi-Fi network. Although the network signal is displayed, the connection cannot be established. Please check your network settings and help you connect to Wi-Fi.",
+              "date": "12.02.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Max Parks"
+            },
+            {
+              "number": "1/40199",
+              "author": "Barbara Clark",
+              "text": "I have a problem with displaying images in my email. When opening emails with pictures, they are not displayed, instead only empty frames are visible. Please help us solve this problem.",
+              "date": "25.01.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Mark Ward"
+            },
+            {
+              "number": "1/39926",
+              "author": "Edna Reyes",
+              "text": "Difficulties arise when trying to connect to the Internet on a workstation. The connection is not established, despite the correct data entered. Please check the connection and help to fix this problem.",
+              "date": "13.01.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Joshua Lane"
+            },
+            {
+              "number": "1/39645",
+              "author": "Emily Rodriguez",
+              "text": "I have problems with the monitor. The image on the screen flickers and sometimes disappears for a few seconds. Please check the connection of the monitor and help in solving this problem.",
+              "date": "11.01.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "William Erickson"
             }
           ],
           "motivated_refusals": [
             {
-              "number": "1/39005",
+              "number": "1/41765",
               "author": "Margaret Pearson",
               "text": "My computer freezes when running a certain program. Help is needed to fix this problem.",
-              "date": "05.01.2024",
+              "date": "05.04.2024",
               "priority": "Default",
               "status": "Refused",
               "responsible_person": "Mark Ward"
             },
             {
-              "number": "1/40010",
+              "number": "1/41310",
               "author": "John Reed",
               "text": "I have problems connecting to Wi-Fi in the office. The signal is too weak and unstable.",
-              "date": "10.02.2024",
+              "date": "08.03.2024",
               "priority": "Default",
               "status": "Refused",
               "responsible_person": "Joshua Lane"
+            },
+            {
+              "number": "1/41125",
+              "author": "Michael Turner",
+              "text": "The USB ports are not working on my work computer. When I connect the devices, they are not recognized and are not displayed in the system. Please check the ports and help with their recovery.",
+              "date": "20.02.2024",
+              "priority": "Default",
+              "status": "Refused",
+              "responsible_person": "Max Parks"
+            },
+            {
+              "number": "1/40234",
+              "author": "Sophia Campbell",
+              "text": "I have a problem accessing cloud storage. When I try to upload files, the process takes a very long time and is often interrupted. Please check your connection to the cloud and help solve this problem.",
+              "date": "28.01.2024",
+              "priority": "Default",
+              "status": "Refused",
+              "responsible_person": "Joshua Lane"
+            },
+            {
+              "number": "1/39756",
+              "author": "James Richardson",
+              "text": "I have a problem with the laptop charger working. When I plug it in, the laptop does not charge and only runs on battery power. Please check the performance of the charger and help in its restoration.",
+              "date": "14.01.2024",
+              "priority": "Default",
+              "status": "Refused",
+              "responsible_person": "Max Parks"
             }
           ]
         }
