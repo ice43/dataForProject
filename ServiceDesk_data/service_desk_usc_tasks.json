@@ -779,124 +779,574 @@
         "incoming_tasks": {
           "open": [
             {
-              "number": "2/40578",
+              "number": "2/42057",
               "author": "Patricia Patterson",
-              "text": "It is necessary to carry out maintenance of air conditioners in the office.",
-              "date": "12.03.2024",
+              "text": "There is a problem with the light in the office - one of the bulbs has burned out and needs to be replaced. It is quite difficult to work without proper lighting, so I ask you to solve this problem promptly.",
+              "date": "25.04.2024",
               "priority": "Default",
               "status": "Open",
               "responsible_person": "Bill Duncan"
             },
             {
-              "number": "2/41123",
+              "number": "2/41659",
               "author": "David Chavez",
-              "text": "It is required to install a new office desk for an employee.",
-              "date": "05.04.2024",
+              "text": "There was a problem with the coffee machine in the dining room. The old coffee machine no longer provides high-quality coffee preparation and needs to be replaced. Please install a new coffee machine so that our employees can enjoy fresh and delicious coffee during breaks.",
+              "date": "20.04.2024",
               "priority": "Default",
               "status": "Open",
               "responsible_person": "Francis Norton"
+            },
+            {
+              "number": "2/41166",
+              "author": "Bonnie Greer",
+              "text": "It is necessary to carry out maintenance of air conditioners in the office.",
+              "date": "20.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "John Smith"
+            },
+            {
+              "number": "2/41034",
+              "author": "Lawrence Walker",
+              "text": "It is required to install a new office desk for an employee.",
+              "date": "20.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Bill Duncan"
+            },
+            {
+              "number": "2/40935",
+              "author": "Karl Robertson",
+              "text": "The office became unbearably hot due to a faulty air conditioner. The room temperature rises to unbearable values, which seriously interferes with work. Please replace the faulty air conditioner with a new one so that we can work in comfortable conditions.",
+              "date": "12.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Francis Norton"
+            },
+            {
+              "number": "2/40818",
+              "author": "Marie Sharp",
+              "text": "A breakdown was found in the meeting room - one of the chairs broke. Now it is impossible to sit on it, which makes it difficult to hold important meetings. I ask you to repair the chair so that we can hold effective and comfortable meetings again.",
+              "date": "12.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "John Smith"
+            },
+            {
+              "number": "2/40697",
+              "author": "Sally Palmer",
+              "text": "There is a problem with the faucet in the toilet on the 3rd floor. It constantly drips, which creates inconvenience for employees and leads to unnecessary waste of water. Please replace the faulty faucet so that we can avoid additional costs and improve the conditions for using the toilet.",
+              "date": "09.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Brandon Wade"
+            },
+            {
+              "number": "2/40639",
+              "author": "Richard Lee",
+              "text": "Furniture needs to be updated in the office. Old tables and chairs have long lost their original appearance and are inconvenient for work. I ask you to replace the old furniture with new, modern and ergonomic ones in order to improve working conditions and increase the comfort of employees.",
+              "date": "09.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Bill Duncan"
+            },
+            {
+              "number": "2/40340",
+              "author": "Michael Thompson",
+              "text": "Better lighting is needed in the office. Some workplaces are in the shade and do not have sufficient lighting, which can negatively affect the eyesight and performance of employees. I ask you to install additional lamps and check the operation of existing ones to ensure uniform and bright lighting throughout the office.",
+              "date": "06.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Francis Norton"
+            },
+            {
+              "number": "2/40280",
+              "author": "Olivia Parker",
+              "text": "New filing cabinets are required in the office. The existing cabinets are full, and we don't have enough space to store important documents and materials. I ask you to install several new cabinets to ensure sufficient space and the safety of documents.",
+              "date": "04.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "John Smith"
+            },
+            {
+              "number": "2/39934",
+              "author": "Sophia Baker",
+              "text": "New alarms need to be installed in the office. The existing alarm system is outdated and unreliable. Please install new alarms to ensure the security of the office and prevent possible incidents.",
+              "date": "04.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Brandon Wade"
+            },
+            {
+              "number": "2/39717",
+              "author": "Ethan Harris",
+              "text": "Wall painting is required in the office. The existing paint has peeled off and looks untidy. I ask you to paint all the walls in the office to create a fresh and pleasant look of the workspace.",
+              "date": "04.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "John Smith"
+            },
+            {
+              "number": "2/39452",
+              "author": "Isabella Martinez",
+              "text": "In the office, the flooring in the conference room needs to be replaced. The existing carpet is old, worn and has many stains. Please replace it with a new, stylish and easy-to-clean coating to create a pleasant atmosphere for meetings and presentations.",
+              "date": "03.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Bill Duncan"
             }
           ],
           "closed": [
             {
-              "number": "2/41680",
+              "number": "2/42355",
               "author": "Lisa Dean",
-              "text": "It is necessary to replace defective lamps in the corridor of the warehouse.",
-              "date": "20.05.2024",
+              "text": "The office requires the installation of new curtains on the windows. The existing curtains are old, worn and unaesthetic. I ask you to install new curtains that will match the interior of the office and provide the necessary privacy and protection from sunlight.",
+              "date": "25.04.2024",
               "priority": "Default",
               "status": "Closed",
               "responsible_person": "John Smith"
             },
             {
-              "number": "2/42235",
+              "number": "2/42150",
               "author": "Amy Roberts",
               "text": "It is required to install a new cooler system in warehouse No. 7.",
-              "date": "10.06.2024",
+              "date": "03.04.2024",
               "priority": "Default",
               "status": "Closed",
               "responsible_person": "Brandon Wade"
+            },
+            {
+              "number": "2/41852",
+              "author": "Benjamin Wright",
+              "text": "It is necessary to replace defective lamps in the corridor of the warehouse.",
+              "date": "19.03.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Francis Norton"
+            },
+            {
+              "number": "2/41673",
+              "author": "Harper Foster",
+              "text": "The office requires the installation of new motion sensors in the corridors. Some sections of the corridors remain poorly lit, which creates a danger when employees move. I ask you to install motion sensors to automatically turn on the lighting when motion is detected in the corridor.",
+              "date": "12.03.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "John Smith"
+            },
+            {
+              "number": "2/41417",
+              "author": "Oliver Cooper",
+              "text": "New smoke and fire sensors need to be installed in the office. The existing system is outdated and does not provide reliable protection against possible fires. Please install new smoke and fire sensors to ensure the safety of employees and property.",
+              "date": "06.03.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "John Smith"
+            },
+            {
+              "number": "2/40879",
+              "author": "Emily Wilson",
+              "text": "The office requires the installation of new tables and chairs in the dining room. The existing furniture is old, worn out and uncomfortable to use. I ask you to replace the old furniture with new, comfortable and functional furniture to ensure a comfortable stay of employees in the dining room.",
+              "date": "20.02.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Bill Duncan"
+            },
+            {
+              "number": "2/40597",
+              "author": "Mia Roberts",
+              "text": "The heating system needs to be updated in the office. The existing system does not work efficiently, and in some rooms a comfortable temperature is not reached. I ask you to update the heating system to ensure uniform and comfortable heating of the entire office.",
+              "date": "14.02.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Brandon Wade"
+            },
+            {
+              "number": "2/40532",
+              "author": "Charlotte Murphy",
+              "text": "New sanitary rooms are required in the office. The existing offices are old, inconvenient and non-compliant with sanitary standards. I ask you to install new sanitary rooms to ensure comfortable and hygienic conditions for employees.",
+              "date": "03.02.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Francis Norton"
+            },
+            {
+              "number": "2/40088",
+              "author": "James Thompson",
+              "text": "New radiators need to be installed in the office. The existing radiators are old and inefficient, which leads to uneven heating of the premises. Please install new radiators to ensure uniform and efficient heating throughout the office.",
+              "date": "21.01.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Francis Norton"
+            },
+            {
+              "number": "2/39720",
+              "author": "Evelyn Clark",
+              "text": "New ventilation systems need to be installed in the office. The existing system does not provide sufficient air circulation and is inconvenient to use. Please install new ventilation systems to ensure fresh and comfortable air in the office.",
+              "date": "16.01.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Bill Duncan"
+            },
+            {
+              "number": "2/39708",
+              "author": "Samuel Rodriguez",
+              "text": "The office requires the installation of new entrance doors. The existing doors are old and have a lot of wear, which poses a security risk. I ask you to install new modern doors that ensure reliable protection and security of the office.",
+              "date": "08.01.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "John Smith"
+            },
+            {
+              "number": "2/39611",
+              "author": "Victoria Davis",
+              "text": "New suspended ceilings are required in the office. The existing ceilings are old, damaged and unaesthetic. Please install new suspended ceilings to create a modern and pleasant visual image of the office.",
+              "date": "06.01.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Brandon Wade"
+            },
+            {
+              "number": "2/39383",
+              "author": "Oliver Brown",
+              "text": "A new acoustic insulation system needs to be installed in the office. The existing system does not provide sufficient noise absorption, which leads to distracting background sounds and a decrease in employee concentration.I ask you to install a new acoustic insulation system to ensure silence and a comfortable working environment in the office.",
+              "date": "01.01.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Bill Duncan"
             }
           ],
           "motivated_refusals": [
             {
-              "number": "2/40456",
+              "number": "2/42246",
               "author": "Margaret Pearson",
               "text": "We have run out of office supplies, we need to order new ones.",
-              "date": "15.03.2024",
+              "date": "17.04.2024",
               "priority": "Default",
               "status": "Refused",
               "responsible_person": "John Smith"
             },
             {
-              "number": "2/41560",
+              "number": "2/41961",
               "author": "John Reed",
               "text": "We need additional chairs for the meeting room. Please arrange the order.",
-              "date": "25.04.2024",
+              "date": "10.03.2024",
               "priority": "Default",
               "status": "Refused",
               "responsible_person": "Brandon Wade"
+            },
+            {
+              "number": "2/41387",
+              "author": "Ava Turner",
+              "text": "New glass partitions need to be installed in the office. The existing partitions are old and unaesthetic. Please install new glass partitions to create a modern and spacious visual image of the office.",
+              "date": "05.03.2024",
+              "priority": "Default",
+              "status": "Refused",
+              "responsible_person": "Bill Duncan"
+            },
+            {
+              "number": "2/41360",
+              "author": "Charlotte Adams",
+              "text": "A new access control system needs to be installed in the office. The existing system does not provide sufficient security and access control to office premises. Please install a new access control system to ensure security and limited access for employees and visitors.",
+              "date": "17.02.2024",
+              "priority": "Default",
+              "status": "Refused",
+              "responsible_person": "Brandon Wade"
+            },
+            {
+              "number": "2/39723",
+              "author": "Isabella Martinez",
+              "text": "Installation of new biodegradable waste containers is required on site. Existing containers are unecological and lead to environmental pollution. Please install new biodegradable waste containers to reduce our environmental footprint and keep the office clean.",
+              "date": "12.01.2024",
+              "priority": "Default",
+              "status": "Refused",
+              "responsible_person": "Francis Norton"
             }
           ]
         },
         "outgoing_tasks": {
           "open": [
             {
-              "number": "2/40578",
+              "number": "2/42057",
               "author": "Patricia Patterson",
-              "text": "It is necessary to carry out maintenance of air conditioners in the office.",
-              "date": "12.03.2024",
+              "text": "There is a problem with the light in the office - one of the bulbs has burned out and needs to be replaced. It is quite difficult to work without proper lighting, so I ask you to solve this problem promptly.",
+              "date": "25.04.2024",
               "priority": "Default",
               "status": "Open",
               "responsible_person": "Bill Duncan"
             },
             {
-              "number": "2/41123",
+              "number": "2/41659",
               "author": "David Chavez",
-              "text": "It is required to install a new office desk for an employee.",
-              "date": "05.04.2024",
+              "text": "There was a problem with the coffee machine in the dining room. The old coffee machine no longer provides high-quality coffee preparation and needs to be replaced. Please install a new coffee machine so that our employees can enjoy fresh and delicious coffee during breaks.",
+              "date": "20.04.2024",
               "priority": "Default",
               "status": "Open",
               "responsible_person": "Francis Norton"
+            },
+            {
+              "number": "2/41166",
+              "author": "Bonnie Greer",
+              "text": "It is necessary to carry out maintenance of air conditioners in the office.",
+              "date": "20.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "John Smith"
+            },
+            {
+              "number": "2/41034",
+              "author": "Lawrence Walker",
+              "text": "It is required to install a new office desk for an employee.",
+              "date": "20.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Bill Duncan"
+            },
+            {
+              "number": "2/40935",
+              "author": "Karl Robertson",
+              "text": "The office became unbearably hot due to a faulty air conditioner. The room temperature rises to unbearable values, which seriously interferes with work. Please replace the faulty air conditioner with a new one so that we can work in comfortable conditions.",
+              "date": "12.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Francis Norton"
+            },
+            {
+              "number": "2/40818",
+              "author": "Marie Sharp",
+              "text": "A breakdown was found in the meeting room - one of the chairs broke. Now it is impossible to sit on it, which makes it difficult to hold important meetings. I ask you to repair the chair so that we can hold effective and comfortable meetings again.",
+              "date": "12.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "John Smith"
+            },
+            {
+              "number": "2/40697",
+              "author": "Sally Palmer",
+              "text": "There is a problem with the faucet in the toilet on the 3rd floor. It constantly drips, which creates inconvenience for employees and leads to unnecessary waste of water. Please replace the faulty faucet so that we can avoid additional costs and improve the conditions for using the toilet.",
+              "date": "09.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Brandon Wade"
+            },
+            {
+              "number": "2/40639",
+              "author": "Richard Lee",
+              "text": "Furniture needs to be updated in the office. Old tables and chairs have long lost their original appearance and are inconvenient for work. I ask you to replace the old furniture with new, modern and ergonomic ones in order to improve working conditions and increase the comfort of employees.",
+              "date": "09.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Bill Duncan"
+            },
+            {
+              "number": "2/40340",
+              "author": "Michael Thompson",
+              "text": "Better lighting is needed in the office. Some workplaces are in the shade and do not have sufficient lighting, which can negatively affect the eyesight and performance of employees. I ask you to install additional lamps and check the operation of existing ones to ensure uniform and bright lighting throughout the office.",
+              "date": "06.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Francis Norton"
+            },
+            {
+              "number": "2/40280",
+              "author": "Olivia Parker",
+              "text": "New filing cabinets are required in the office. The existing cabinets are full, and we don't have enough space to store important documents and materials. I ask you to install several new cabinets to ensure sufficient space and the safety of documents.",
+              "date": "04.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "John Smith"
+            },
+            {
+              "number": "2/39934",
+              "author": "Sophia Baker",
+              "text": "New alarms need to be installed in the office. The existing alarm system is outdated and unreliable. Please install new alarms to ensure the security of the office and prevent possible incidents.",
+              "date": "04.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Brandon Wade"
+            },
+            {
+              "number": "2/39717",
+              "author": "Ethan Harris",
+              "text": "Wall painting is required in the office. The existing paint has peeled off and looks untidy. I ask you to paint all the walls in the office to create a fresh and pleasant look of the workspace.",
+              "date": "04.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "John Smith"
+            },
+            {
+              "number": "2/39452",
+              "author": "Isabella Martinez",
+              "text": "In the office, the flooring in the conference room needs to be replaced. The existing carpet is old, worn and has many stains. Please replace it with a new, stylish and easy-to-clean coating to create a pleasant atmosphere for meetings and presentations.",
+              "date": "03.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Bill Duncan"
             }
           ],
           "closed": [
             {
-              "number": "2/41680",
+              "number": "2/42355",
               "author": "Lisa Dean",
-              "text": "It is necessary to replace defective lamps in the corridor of the warehouse.",
-              "date": "20.05.2024",
+              "text": "The office requires the installation of new curtains on the windows. The existing curtains are old, worn and unaesthetic. I ask you to install new curtains that will match the interior of the office and provide the necessary privacy and protection from sunlight.",
+              "date": "25.04.2024",
               "priority": "Default",
               "status": "Closed",
               "responsible_person": "John Smith"
             },
             {
-              "number": "2/42235",
+              "number": "2/42150",
               "author": "Amy Roberts",
               "text": "It is required to install a new cooler system in warehouse No. 7.",
-              "date": "10.06.2024",
+              "date": "03.04.2024",
               "priority": "Default",
               "status": "Closed",
               "responsible_person": "Brandon Wade"
+            },
+            {
+              "number": "2/41852",
+              "author": "Benjamin Wright",
+              "text": "It is necessary to replace defective lamps in the corridor of the warehouse.",
+              "date": "19.03.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Francis Norton"
+            },
+            {
+              "number": "2/41673",
+              "author": "Harper Foster",
+              "text": "The office requires the installation of new motion sensors in the corridors. Some sections of the corridors remain poorly lit, which creates a danger when employees move. I ask you to install motion sensors to automatically turn on the lighting when motion is detected in the corridor.",
+              "date": "12.03.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "John Smith"
+            },
+            {
+              "number": "2/41417",
+              "author": "Oliver Cooper",
+              "text": "New smoke and fire sensors need to be installed in the office. The existing system is outdated and does not provide reliable protection against possible fires. Please install new smoke and fire sensors to ensure the safety of employees and property.",
+              "date": "06.03.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "John Smith"
+            },
+            {
+              "number": "2/40879",
+              "author": "Emily Wilson",
+              "text": "The office requires the installation of new tables and chairs in the dining room. The existing furniture is old, worn out and uncomfortable to use. I ask you to replace the old furniture with new, comfortable and functional furniture to ensure a comfortable stay of employees in the dining room.",
+              "date": "20.02.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Bill Duncan"
+            },
+            {
+              "number": "2/40597",
+              "author": "Mia Roberts",
+              "text": "The heating system needs to be updated in the office. The existing system does not work efficiently, and in some rooms a comfortable temperature is not reached. I ask you to update the heating system to ensure uniform and comfortable heating of the entire office.",
+              "date": "14.02.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Brandon Wade"
+            },
+            {
+              "number": "2/40532",
+              "author": "Charlotte Murphy",
+              "text": "New sanitary rooms are required in the office. The existing offices are old, inconvenient and non-compliant with sanitary standards. I ask you to install new sanitary rooms to ensure comfortable and hygienic conditions for employees.",
+              "date": "03.02.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Francis Norton"
+            },
+            {
+              "number": "2/40088",
+              "author": "James Thompson",
+              "text": "New radiators need to be installed in the office. The existing radiators are old and inefficient, which leads to uneven heating of the premises. Please install new radiators to ensure uniform and efficient heating throughout the office.",
+              "date": "21.01.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Francis Norton"
+            },
+            {
+              "number": "2/39720",
+              "author": "Evelyn Clark",
+              "text": "New ventilation systems need to be installed in the office. The existing system does not provide sufficient air circulation and is inconvenient to use. Please install new ventilation systems to ensure fresh and comfortable air in the office.",
+              "date": "16.01.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Bill Duncan"
+            },
+            {
+              "number": "2/39708",
+              "author": "Samuel Rodriguez",
+              "text": "The office requires the installation of new entrance doors. The existing doors are old and have a lot of wear, which poses a security risk. I ask you to install new modern doors that ensure reliable protection and security of the office.",
+              "date": "08.01.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "John Smith"
+            },
+            {
+              "number": "2/39611",
+              "author": "Victoria Davis",
+              "text": "New suspended ceilings are required in the office. The existing ceilings are old, damaged and unaesthetic. Please install new suspended ceilings to create a modern and pleasant visual image of the office.",
+              "date": "06.01.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Brandon Wade"
+            },
+            {
+              "number": "2/39383",
+              "author": "Oliver Brown",
+              "text": "A new acoustic insulation system needs to be installed in the office. The existing system does not provide sufficient noise absorption, which leads to distracting background sounds and a decrease in employee concentration.I ask you to install a new acoustic insulation system to ensure silence and a comfortable working environment in the office.",
+              "date": "01.01.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Bill Duncan"
             }
           ],
           "motivated_refusals": [
             {
-              "number": "2/40456",
+              "number": "2/42246",
               "author": "Margaret Pearson",
               "text": "We have run out of office supplies, we need to order new ones.",
-              "date": "15.03.2024",
+              "date": "17.04.2024",
               "priority": "Default",
               "status": "Refused",
               "responsible_person": "John Smith"
             },
             {
-              "number": "2/41560",
+              "number": "2/41961",
               "author": "John Reed",
               "text": "We need additional chairs for the meeting room. Please arrange the order.",
-              "date": "25.04.2024",
+              "date": "10.03.2024",
               "priority": "Default",
               "status": "Refused",
               "responsible_person": "Brandon Wade"
+            },
+            {
+              "number": "2/41387",
+              "author": "Ava Turner",
+              "text": "New glass partitions need to be installed in the office. The existing partitions are old and unaesthetic. Please install new glass partitions to create a modern and spacious visual image of the office.",
+              "date": "05.03.2024",
+              "priority": "Default",
+              "status": "Refused",
+              "responsible_person": "Bill Duncan"
+            },
+            {
+              "number": "2/41360",
+              "author": "Charlotte Adams",
+              "text": "A new access control system needs to be installed in the office. The existing system does not provide sufficient security and access control to office premises. Please install a new access control system to ensure security and limited access for employees and visitors.",
+              "date": "17.02.2024",
+              "priority": "Default",
+              "status": "Refused",
+              "responsible_person": "Brandon Wade"
+            },
+            {
+              "number": "2/39723",
+              "author": "Isabella Martinez",
+              "text": "Installation of new biodegradable waste containers is required on site. Existing containers are unecological and lead to environmental pollution. Please install new biodegradable waste containers to reduce our environmental footprint and keep the office clean.",
+              "date": "12.01.2024",
+              "priority": "Default",
+              "status": "Refused",
+              "responsible_person": "Francis Norton"
             }
           ]
         }
