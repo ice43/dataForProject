@@ -2992,59 +2992,212 @@
         "incoming_tasks": {
           "open": [
             {
-              "number": "6/39352",
+              "number": "6/42260",
               "author": "Esther Black",
               "text": "Hello! Our shipping belt in the warehouse was damaged. We ask you to arrange its repair and restoration of work. Thanks!",
-              "date": "05.12.2023",
+              "date": "25.04.2024",
               "priority": "Default",
               "status": "Open",
               "responsible_person": "Justin Newman"
             },
             {
-              "number": "6/41089",
+              "number": "6/42157",
               "author": "Willard Bennett",
               "text": "Good afternoon! We need to carry out maintenance of our fleet. Please arrange for the inspection and repair of all vehicles. Thanks!",
-              "date": "15.01.2024",
+              "date": "25.04.2024",
               "priority": "Default",
               "status": "Open",
               "responsible_person": "Jacob Warner"
+            },
+            {
+              "number": "6/42126",
+              "author": "Gertrude Brown",
+              "text": "For the manufacture of nylon inserts for pipe grips, I ask you to allocate a turner. We will provide the material. The sketch is attached.",
+              "date": "25.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Scott Adams"
+            },
+            {
+              "number": "6/42115",
+              "author": "Rick Christensen",
+              "text": "For the repair of the flute platform, please allocate a welder on April 18 from lunch",
+              "date": "25.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Gerald White"
+            },
+            {
+              "number": "6/42105",
+              "author": "Marie Sharp",
+              "text": "I ask you to cut the scrap metal at berth 7 for further delivery.",
+              "date": "25.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Frank James"
             }
           ],
           "closed": [
             {
-              "number": "6/42773",
+              "number": "6/42278",
               "author": "Bernard Robinson",
               "text": "Hello! We are having problems with the operation of the conveyor in the warehouse. I ask you to appoint a specialist for its examination and repair. Thanks!",
+              "date": "21.04.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Lawrence Morgan"
+            },
+            {
+              "number": "6/41845",
+              "author": "Dorothy Brown",
+              "text": "Good afternoon! We need to set up and maintain our fleet of loaders. We ask you to arrange the work of a specialist on the specified date. Thanks!",
+              "date": "02.04.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Jason Hill"
+            },
+            {
+              "number": "6/41765",
+              "author": "Carolyn Webb",
+              "text": "I ask you to make an extension cord for the tugboat. Material steel, quantity 1 pc.",
+              "date": "23.03.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Jason Hill"
+            },
+            {
+              "number": "6/41604",
+              "author": "Nora Coleman",
+              "text": "Good morning!!! I ask you to release 4 platforms with equipment on 2 paths to the area of N/A 90",
+              "date": "18.03.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Scott Adams"
+            },
+            {
+              "number": "6/41384",
+              "author": "Nora Holloway",
+              "text": "Good morning!!! I ask you to organize welding work on t/h in the morning on 04/11/2024.",
+              "date": "11.03.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Frank Wells"
+            },
+            {
+              "number": "6/40933",
+              "author": "John Smith",
+              "text": "To repair the extension cords for the fork lift truck, please provide a welder in the morning.",
+              "date": "01.03.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Frank James"
+            },
+            {
+              "number": "6/40684",
+              "author": "James Jenkins",
+              "text": "I ask you to make parts for the tugboat",
               "date": "28.02.2024",
               "priority": "Default",
               "status": "Closed",
               "responsible_person": "Lawrence Morgan"
             },
             {
-              "number": "6/43842",
-              "author": "Dorothy Brown",
-              "text": "Good afternoon! We need to set up and maintain our fleet of loaders. We ask you to arrange the work of a specialist on the specified date. Thanks!",
-              "date": "10.03.2024",
+              "number": "6/40454",
+              "author": "Martha Wallace",
+              "text": "Good afternoon! I ask you to allocate a welder to carry out work on installing racks on the SGG.",
+              "date": "24.02.2024",
               "priority": "Default",
               "status": "Closed",
-              "responsible_person": "Jason Hill"
+              "responsible_person": "Jacob Warner"
+            },
+            {
+              "number": "6/40268",
+              "author": "Bonnie Silva",
+              "text": "welding works on the 4th floor of the BBP repair of water supply lines installation of shut-off valves. working together with a TVKU locksmith.",
+              "date": "09.02.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Justin Newman"
+            },
+            {
+              "number": "6/40144",
+              "author": "Brandy Blair",
+              "text": "It is necessary to quickly waste the inner diameter by 5 mm from the existing washers for linear beams.",
+              "date": "02.02.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Scott Adams"
+            },
+            {
+              "number": "6/39841",
+              "author": "Mary Roberts",
+              "text": "I ask you to waste the flanges to the specified size for assembling the nozzle to the pump in the KNS, the material and dimensions are provided by the TVKU locksmith.",
+              "date": "19.01.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Gerald White"
+            },
+            {
+              "number": "6/39704",
+              "author": "Cynthia Taylor",
+              "text": "Please provide a welder in the morning for the repair of wagon attachments.",
+              "date": "12.01.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Frank James"
+            },
+            {
+              "number": "6/39610",
+              "author": "Nina Brown",
+              "text": "We ask you to release platform No. 42436188, along the C3 path with the equipment.",
+              "date": "06.01.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Justin Newman"
             }
           ],
           "motivated_refusals": [
             {
-              "number": "6/44694",
+              "number": "6/41804",
               "author": "Angela Alvarez",
               "text": "Good afternoon! We need to carry out maintenance and configuration of our freight elevator in the warehouse. We ask you to appoint a specialist to perform the work. Thanks!",
-              "date": "27.04.2024",
+              "date": "20.04.2024",
               "priority": "Default",
               "status": "Refused",
               "responsible_person": "Frank James"
             },
             {
-              "number": "6/39467",
+              "number": "6/40770",
               "author": "Joy Lewis",
               "text": "Hello! We have a problem with the operation of the lifting crane in the warehouse. Please send a specialist for inspection and repair. It is urgently necessary to restore the operation of the crane. Thanks!",
-              "date": "15.12.2023",
+              "date": "12.04.2024",
+              "priority": "Default",
+              "status": "Refused",
+              "responsible_person": "Jason Hill"
+            },
+            {
+              "number": "6/40454",
+              "author": "Willie Cruz",
+              "text": "Cut into a template and install galvanized steel sheets on the inner surface of the hopper funnel.",
+              "date": "02.03.2024",
+              "priority": "Default",
+              "status": "Refused",
+              "responsible_person": "Scott Adams"
+            },
+            {
+              "number": "6/39972",
+              "author": "Nelson Hernandez",
+              "text": "I ask you to perform electric and gas welding work on the tow in the tiller compartment (steering room)",
+              "date": "25.02.2024",
+              "priority": "Default",
+              "status": "Refused",
+              "responsible_person": "Rodney Carpenter"
+            },
+            {
+              "number": "6/39603",
+              "author": "Ken Rodriguez",
+              "text": "I ask you to allocate an AK-25 truck crane for the repair of PK-87 ALBATROS (berth No. 7)",
+              "date": "13.01.2024",
               "priority": "Default",
               "status": "Refused",
               "responsible_person": "Jason Hill"
@@ -3054,59 +3207,212 @@
         "outgoing_tasks": {
           "open": [
             {
-              "number": "6/39352",
+              "number": "6/42260",
               "author": "Esther Black",
               "text": "Hello! Our shipping belt in the warehouse was damaged. We ask you to arrange its repair and restoration of work. Thanks!",
-              "date": "05.12.2023",
+              "date": "25.04.2024",
               "priority": "Default",
               "status": "Open",
               "responsible_person": "Justin Newman"
             },
             {
-              "number": "6/41089",
+              "number": "6/42157",
               "author": "Willard Bennett",
               "text": "Good afternoon! We need to carry out maintenance of our fleet. Please arrange for the inspection and repair of all vehicles. Thanks!",
-              "date": "15.01.2024",
+              "date": "25.04.2024",
               "priority": "Default",
               "status": "Open",
               "responsible_person": "Jacob Warner"
+            },
+            {
+              "number": "6/42126",
+              "author": "Gertrude Brown",
+              "text": "For the manufacture of nylon inserts for pipe grips, I ask you to allocate a turner. We will provide the material. The sketch is attached.",
+              "date": "25.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Scott Adams"
+            },
+            {
+              "number": "6/42115",
+              "author": "Rick Christensen",
+              "text": "For the repair of the flute platform, please allocate a welder on April 18 from lunch",
+              "date": "25.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Gerald White"
+            },
+            {
+              "number": "6/42105",
+              "author": "Marie Sharp",
+              "text": "I ask you to cut the scrap metal at berth 7 for further delivery.",
+              "date": "25.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Frank James"
             }
           ],
           "closed": [
             {
-              "number": "6/42773",
+              "number": "6/42278",
               "author": "Bernard Robinson",
               "text": "Hello! We are having problems with the operation of the conveyor in the warehouse. I ask you to appoint a specialist for its examination and repair. Thanks!",
+              "date": "21.04.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Lawrence Morgan"
+            },
+            {
+              "number": "6/41845",
+              "author": "Dorothy Brown",
+              "text": "Good afternoon! We need to set up and maintain our fleet of loaders. We ask you to arrange the work of a specialist on the specified date. Thanks!",
+              "date": "02.04.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Jason Hill"
+            },
+            {
+              "number": "6/41765",
+              "author": "Carolyn Webb",
+              "text": "I ask you to make an extension cord for the tugboat. Material steel, quantity 1 pc.",
+              "date": "23.03.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Jason Hill"
+            },
+            {
+              "number": "6/41604",
+              "author": "Nora Coleman",
+              "text": "Good morning!!! I ask you to release 4 platforms with equipment on 2 paths to the area of N/A 90",
+              "date": "18.03.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Scott Adams"
+            },
+            {
+              "number": "6/41384",
+              "author": "Nora Holloway",
+              "text": "Good morning!!! I ask you to organize welding work on t/h in the morning on 04/11/2024.",
+              "date": "11.03.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Frank Wells"
+            },
+            {
+              "number": "6/40933",
+              "author": "John Smith",
+              "text": "To repair the extension cords for the fork lift truck, please provide a welder in the morning.",
+              "date": "01.03.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Frank James"
+            },
+            {
+              "number": "6/40684",
+              "author": "James Jenkins",
+              "text": "I ask you to make parts for the tugboat",
               "date": "28.02.2024",
               "priority": "Default",
               "status": "Closed",
               "responsible_person": "Lawrence Morgan"
             },
             {
-              "number": "6/43842",
-              "author": "Dorothy Brown",
-              "text": "Good afternoon! We need to set up and maintain our fleet of loaders. We ask you to arrange the work of a specialist on the specified date. Thanks!",
-              "date": "10.03.2024",
+              "number": "6/40454",
+              "author": "Martha Wallace",
+              "text": "Good afternoon! I ask you to allocate a welder to carry out work on installing racks on the SGG.",
+              "date": "24.02.2024",
               "priority": "Default",
               "status": "Closed",
-              "responsible_person": "Jason Hill"
+              "responsible_person": "Jacob Warner"
+            },
+            {
+              "number": "6/40268",
+              "author": "Bonnie Silva",
+              "text": "welding works on the 4th floor of the BBP repair of water supply lines installation of shut-off valves. working together with a TVKU locksmith.",
+              "date": "09.02.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Justin Newman"
+            },
+            {
+              "number": "6/40144",
+              "author": "Brandy Blair",
+              "text": "It is necessary to quickly waste the inner diameter by 5 mm from the existing washers for linear beams.",
+              "date": "02.02.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Scott Adams"
+            },
+            {
+              "number": "6/39841",
+              "author": "Mary Roberts",
+              "text": "I ask you to waste the flanges to the specified size for assembling the nozzle to the pump in the KNS, the material and dimensions are provided by the TVKU locksmith.",
+              "date": "19.01.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Gerald White"
+            },
+            {
+              "number": "6/39704",
+              "author": "Cynthia Taylor",
+              "text": "Please provide a welder in the morning for the repair of wagon attachments.",
+              "date": "12.01.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Frank James"
+            },
+            {
+              "number": "6/39610",
+              "author": "Nina Brown",
+              "text": "We ask you to release platform No. 42436188, along the C3 path with the equipment.",
+              "date": "06.01.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Justin Newman"
             }
           ],
           "motivated_refusals": [
             {
-              "number": "6/44694",
+              "number": "6/41804",
               "author": "Angela Alvarez",
               "text": "Good afternoon! We need to carry out maintenance and configuration of our freight elevator in the warehouse. We ask you to appoint a specialist to perform the work. Thanks!",
-              "date": "27.04.2024",
+              "date": "20.04.2024",
               "priority": "Default",
               "status": "Refused",
               "responsible_person": "Frank James"
             },
             {
-              "number": "6/39467",
+              "number": "6/40770",
               "author": "Joy Lewis",
               "text": "Hello! We have a problem with the operation of the lifting crane in the warehouse. Please send a specialist for inspection and repair. It is urgently necessary to restore the operation of the crane. Thanks!",
-              "date": "15.12.2023",
+              "date": "12.04.2024",
+              "priority": "Default",
+              "status": "Refused",
+              "responsible_person": "Jason Hill"
+            },
+            {
+              "number": "6/40454",
+              "author": "Willie Cruz",
+              "text": "Cut into a template and install galvanized steel sheets on the inner surface of the hopper funnel.",
+              "date": "02.03.2024",
+              "priority": "Default",
+              "status": "Refused",
+              "responsible_person": "Scott Adams"
+            },
+            {
+              "number": "6/39972",
+              "author": "Nelson Hernandez",
+              "text": "I ask you to perform electric and gas welding work on the tow in the tiller compartment (steering room)",
+              "date": "25.02.2024",
+              "priority": "Default",
+              "status": "Refused",
+              "responsible_person": "Rodney Carpenter"
+            },
+            {
+              "number": "6/39603",
+              "author": "Ken Rodriguez",
+              "text": "I ask you to allocate an AK-25 truck crane for the repair of PK-87 ALBATROS (berth No. 7)",
+              "date": "13.01.2024",
               "priority": "Default",
               "status": "Refused",
               "responsible_person": "Jason Hill"
