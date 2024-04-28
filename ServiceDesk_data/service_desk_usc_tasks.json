@@ -156,6 +156,26 @@
         }
       ],
       "tasks": {
+        "awaiting_approval": [
+          {
+            "number": "1/42686",
+            "author": "Tommy Hudson",
+            "text": "Test",
+            "date": "25.04.2024",
+            "priority": "Important",
+            "status": "Open",
+            "responsible_person": "Mark Ward"
+          },
+          {
+            "number": "1/42655",
+            "author": "Salvador Montgomery",
+            "text": "Test",
+            "date": "25.04.2024",
+            "priority": "Default",
+            "status": "Open",
+            "responsible_person": "Joshua Lane"
+          }
+        ],
         "incoming_tasks": {
           "open": [
             {
