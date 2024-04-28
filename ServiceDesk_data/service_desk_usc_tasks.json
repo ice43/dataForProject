@@ -1520,6 +1520,62 @@
         }
       ],
       "tasks": {
+        "awaiting_approval": [
+          {
+            "number": "3/42327",
+            "author": "Seth Smith",
+            "text": "We need tables, chairs, cabinets and other furniture to update our office space",
+            "date": "20.04.2024",
+            "priority": "Default",
+            "status": "Open",
+            "responsible_person": "Shirley Simpson"
+          },
+          {
+            "number": "3/42307",
+            "author": "Sally Palmer",
+            "text": "We need to purchase a new crane to perform lifting operations in our warehouse.",
+            "date": "15.04.2024",
+            "priority": "Default",
+            "status": "Open",
+            "responsible_person": "Carolyn Webb"
+          },
+          {
+            "number": "3/42302",
+            "author": "Patrick Schneider",
+            "text": "We would like to order scanners",
+            "date": "12.04.2024",
+            "priority": "Default",
+            "status": "Open",
+            "responsible_person": "Carolyn Webb"
+          },
+          {
+            "number": "3/42266",
+            "author": "Gwendolyn Gomez",
+            "text": "Need to order new trucks to expand our fleet",
+            "date": "08.04.2024",
+            "priority": "Default",
+            "status": "Open",
+            "responsible_person": "Bertha Jimenez"
+          },
+          {
+            "number": "3/42194",
+            "author": "Stephanie Davidson",
+            "text": "Hello, we need to purchase new forklifts for warehouse work.",
+            "date": "05.04.2024",
+            "priority": "Default",
+            "status": "Open",
+            "responsible_person": "Shirley Simpson"
+          },
+          {
+            "number": "3/42147",
+            "author": "Alice Gonzales",
+            "text": "We would like to order a new printer for our department.",
+            "date": "02.04.2024",
+            "priority": "Default",
+            "status": "Open",
+            "responsible_person": "Bertha Jimenez"
+          }
+        ],
         "incoming_tasks": {
           "open": [
             {
