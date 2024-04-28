@@ -158,22 +158,103 @@
       "tasks": {
         "awaiting_approval": [
           {
-            "number": "1/42686",
-            "author": "Tommy Hudson",
-            "text": "Test",
-            "date": "25.04.2024",
-            "priority": "Important",
+            "number": "1/42345",
+            "author": "John Smith",
+            "text": "There is a problem with data security in our storage system. Coordination with management is required to take measures to eliminate risks and ensure information security.",
+            "date": "24.04.2024",
+            "priority": "Default",
+            "status": "Open",
+            "responsible_person": "William Erickson"
+          },
+          {
+            "number": "1/42316",
+            "author": "Emily Davis",
+            "text": "It is necessary to update and modernize the company's existing IT infrastructure in order to meet modern requirements and ensure global competitiveness. Management coordination is required to allocate the necessary resources and carry out updates.",
+            "date": "23.04.2024",
+            "priority": "Default",
             "status": "Open",
             "responsible_person": "Mark Ward"
           },
           {
-            "number": "1/42655",
-            "author": "Salvador Montgomery",
-            "text": "Test",
-            "date": "25.04.2024",
+            "number": "1/42295",
+            "author": "Michael Thompson",
+            "text": "The problem is with insufficient cybersecurity in the company, which poses a threat to our information and customers. The guidelines need to be agreed upon in order to take measures to strengthen data protection and prevent potential cyber attacks.",
+            "date": "23.04.2024",
+            "priority": "Important",
+            "status": "Open",
+            "responsible_person": "Max Parks"
+          },
+          {
+            "number": "1/42241",
+            "author": "David Johnson",
+            "text": "Software updates and upgrades are required to improve the efficiency and productivity of the company.",
+            "date": "22.04.2024",
             "priority": "Default",
             "status": "Open",
             "responsible_person": "Joshua Lane"
+          },
+          {
+            "number": "1/42209",
+            "author": "Tommy Hudson",
+            "text": "The server hardware should be updated and the network infrastructure improved to ensure higher performance and stability of the system. Discussions with management are required to allocate funds and plan updates.",
+            "date": "21.04.2024",
+            "priority": "Important",
+            "status": "Open",
+            "responsible_person": "Max Parks"
+          },
+          {
+            "number": "1/42182",
+            "author": "Michael Anderson",
+            "text": "It is necessary to train information security staff to raise awareness and reduce the risk of data leakage.",
+            "date": "20.04.2024",
+            "priority": "Default",
+            "status": "Open",
+            "responsible_person": "William Erickson"
+          },
+          {
+            "number": "1/42181",
+            "author": "Salvador Montgomery",
+            "text": "It is necessary to develop and implement a new project management system that will optimize processes and increase the efficiency of work within the IT department.",
+            "date": "20.04.2024",
+            "priority": "Default",
+            "status": "Open",
+            "responsible_person": "Joshua Lane"
+          },
+          {
+            "number": "1/42155",
+            "author": "Margaret Pearson",
+            "text": "The data backup process needs to be reviewed and improved to ensure its reliability and recovery in case of failures. Discussion with management is required to plan and implement a new backup system.",
+            "date": "17.04.2024",
+            "priority": "Default",
+            "status": "Open",
+            "responsible_person": "Mark Ward"
+          },
+          {
+            "number": "1/42153",
+            "author": "Melissa Hall",
+            "text": "It is necessary to improve the system for processing user requests and speed up the response time to problems.",
+            "date": "16.04.2024",
+            "priority": "Default",
+            "status": "Open",
+            "responsible_person": "Mark Ward"
+          },
+          {
+            "number": "1/42142",
+            "author": "Frederick Price",
+            "text": "I propose to implement a voice control system to improve the convenience of working with the software.",
+            "date": "14.04.2024",
+            "priority": "Default",
+            "status": "Open",
+            "responsible_person": "Joshua Lane"
+          },
+          {
+            "number": "1/42135",
+            "author": "Bonnie Greer",
+            "text": "I propose to develop and implement a mobile application for internal communication in the company, which will simplify the exchange of information and increase the efficiency of employees.",
+            "date": "12.04.2024",
+            "priority": "Default",
+            "status": "Open",
+            "responsible_person": "Max Parks"
           }
         ],
         "incoming_tasks": {
@@ -796,6 +877,62 @@
         }
       ],
       "tasks": {
+        "awaiting_approval": [
+          {
+            "number": "2/42323",
+            "author": "Barbara Clark",
+            "text": "It is required to install a new cooler system",
+            "date": "20.04.2024",
+            "priority": "Default",
+            "status": "Open",
+            "responsible_person": "John Smith"
+          },
+          {
+            "number": "2/42287",
+            "author": "Brandy Blair",
+            "text": "The existing curtains are old, worn and unaesthetic. I ask you to install new curtains",
+            "date": "18.04.2024",
+            "priority": "Default",
+            "status": "Open",
+            "responsible_person": "Bill Duncan"
+          },
+          {
+            "number": "2/42204",
+            "author": "Virginia Lopez",
+            "text": "Better lighting is needed in the office.",
+            "date": "16.04.2024",
+            "priority": "Default",
+            "status": "Open",
+            "responsible_person": "Francis Norton"
+          },
+          {
+            "number": "2/42199",
+            "author": "Sylvia Carr",
+            "text": "The old coffee machine no longer provides high-quality coffee preparation and needs to be replaced.",
+            "date": "14.04.2024",
+            "priority": "Default",
+            "status": "Open",
+            "responsible_person": "Brandon Wade"
+          },
+          {
+            "number": "2/42110",
+            "author": "Nancy Pearson",
+            "text": "There is a problem with the faucet in the toilet on the 3rd floor.",
+            "date": "12.04.2024",
+            "priority": "Default",
+            "status": "Open",
+            "responsible_person": "John Smith"
+          },
+          {
+            "number": "2/42106",
+            "author": "Nina Brown",
+            "text": "It is required to install a new office desk for an employee.",
+            "date": "12.04.2024",
+            "priority": "Default",
+            "status": "Open",
+            "responsible_person": "Francis Norton"
+          }
+        ],
         "incoming_tasks": {
           "open": [
             {
