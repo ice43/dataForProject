@@ -2512,124 +2512,448 @@
         "incoming_tasks": {
           "open": [
             {
-              "number": "5/39432",
+              "number": "5/42245",
               "author": "Oscar Lee",
               "text": "I ask you to arrange transportation of employees from the company's office to the depot by motor transport.",
-              "date": "Not set",
+              "date": "25.04.2024",
               "priority": "Default",
               "status": "Open",
               "responsible_person": "Bernard Robinson"
             },
             {
-              "number": "5/43636",
+              "number": "5/42220",
               "author": "Salvador Montgomery",
               "text": "I ask you to arrange the transportation of correspondence and documents to the territory of the company.",
-              "date": "20.01.2024",
+              "date": "25.04.2024",
               "priority": "Default",
               "status": "Open",
               "responsible_person": "Willard Bennett"
+            },
+            {
+              "number": "5/42156",
+              "author": "Diane Gordon",
+              "text": "Please take/pick up the documents to the following addresses on 05/02/2024: 1) 2333 3/4 EAST LAKE AVE 90031-2933 (pre-pick up documents for signature at the personnel department); 2) 7701 HENEFER AVE 90045-1140 (pick up documents).",
+              "date": "25.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Willard Bennett"
+            },
+            {
+              "number": "5/42142",
+              "author": "Ann Hill",
+              "text": "To load scrap metal, please arrange the delivery of cargo buckets. Please schedule the work for May 2-3 and inform us in advance to get a pass.",
+              "date": "25.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Bernard Robinson"
+            },
+            {
+              "number": "5/42124",
+              "author": "Nora Coleman",
+              "text": "Transportation is required for electrical work at the northern branch. Route: pick up the electrician in the morning and take him to the northern branch, bring him back in the evening. Preferably on May 2 or 3.",
+              "date": "25.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Bernard Robinson"
             }
           ],
           "closed": [
             {
-              "number": "5/39486",
+              "number": "5/42199",
               "author": "Tommy Hudson",
               "text": "I ask you to arrange transportation of employees to meet clients in another city.",
-              "date": "10.04.2024",
+              "date": "22.04.2024",
               "priority": "Default",
               "status": "Closed",
               "responsible_person": "Bernard Robinson"
             },
             {
-              "number": "5/41789",
+              "number": "5/42101",
               "author": "Lois Phillips",
               "text": "It is required to export special equipment from our warehouse to the client's territory. We ask you to arrange transportation.",
+              "date": "17.04.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Bernard Robinson"
+            },
+            {
+              "number": "5/41931",
+              "author": "Gertrude Brown",
+              "text": "Please provide a company car on 04/27/2024 at 14.00 for the trip (without waiting)",
+              "date": "13.04.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Willard Bennett"
+            },
+            {
+              "number": "5/41844",
+              "author": "Rick Christensen",
+              "text": "Please provide it on April 26, 2024. (Friday) the ZiL Ilosos car for the continuation of work from April 25, 2024 - pumping meltwater from the berth No. 1 sites, the cargo terminal and the checkpoint building.",
+              "date": "11.04.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Willard Bennett"
+            },
+            {
+              "number": "5/41812",
+              "author": "Gladys Turner",
+              "text": "Colleagues, good afternoon. Please pick up correspondence from the secretary on 04/22/2024 (Mon) and take it to the Main Post Office.",
+              "date": "06.04.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Bernard Robinson"
+            },
+            {
+              "number": "5/41786",
+              "author": "Rick Brooks",
+              "text": "Good afternoon! Please take the documents",
+              "date": "22.03.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Willard Bennett"
+            },
+            {
+              "number": "5/41138",
+              "author": "Henry Martin",
+              "text": "Good afternoon. It is necessary to take the documents to the insurance company for signature",
+              "date": "13.03.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Willard Bennett"
+            },
+            {
+              "number": "5/41104",
+              "author": "Cynthia Roberts",
+              "text": "For cleaning the territory from snow and pumping out meltwater. I ask on 04/12/2024 to provide the household area with the following equipment: 1) Front loader 1 unit; 2) Dump truck 1 unit; 3) Brush 1 unit; 4) Ilosos 1 unit.",
               "date": "05.03.2024",
               "priority": "Default",
               "status": "Closed",
               "responsible_person": "Bernard Robinson"
+            },
+            {
+              "number": "5/40935",
+              "author": "Aaron Wallace",
+              "text": "Good morning! Please pump out the water at the gas station. The approach is impossible.",
+              "date": "17.02.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Willard Bennett"
+            },
+            {
+              "number": "5/40665",
+              "author": "Anthony Paul",
+              "text": "Good morning, please provide special equipment for snow removal in a grid with lumber. urgently!!!",
+              "date": "06.02.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Bernard Robinson"
+            },
+            {
+              "number": "5/40270",
+              "author": "Johnny Graves",
+              "text": "Good afternoon. Please take the toner cartridge to the northern branch",
+              "date": "05.02.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Willard Bennett"
+            },
+            {
+              "number": "5/39878",
+              "author": "Bonnie Parker",
+              "text": "I ask you to replace the wiper blades on Nissan No. 584 and top up the windshield washer fluid.",
+              "date": "21.01.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Bernard Robinson"
+            },
+            {
+              "number": "5/39752",
+              "author": "Virginia Ross",
+              "text": "I ask you to provide vehicles for the delivery of flagpoles",
+              "date": "14.01.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Bernard Robinson"
+            },
+            {
+              "number": "5/39670",
+              "author": "Paul Sanders",
+              "text": "Pick up measuring instruments (periodically checked) at 4823 W SLAUSON AVE APT 1",
+              "date": "03.01.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Willard Bennett"
             }
           ],
           "motivated_refusals": [
             {
-              "number": "5/43491",
+              "number": "5/41834",
               "author": "Sandra Johnson",
               "text": "Good afternoon! We need to arrange transportation of employees to a corporate event in another city. Please provide a comfortable bus for a certain date. Thanks!",
-              "date": "10.05.2024",
+              "date": "13.04.2024",
               "priority": "Default",
               "status": "Refused",
               "responsible_person": "Willard Bennett"
             },
             {
-              "number": "5/43538",
+              "number": "5/40546",
               "author": "Marie Thompson",
               "text": "Good afternoon! Please arrange transportation of employees from the airport to our head office building. We ask you to provide comfortable cars. Thanks!",
-              "date": "01.06.2024",
+              "date": "04.03.2024",
               "priority": "Default",
               "status": "Refused",
               "responsible_person": "Willard Bennett"
+            },
+            {
+              "number": "5/40381",
+              "author": "Jacob Warner",
+              "text": "Please provide a company car on 04/25/2024 at 13.00 for the trip",
+              "date": "28.02.2024",
+              "priority": "Default",
+              "status": "Refused",
+              "responsible_person": "Bernard Robinson"
+            },
+            {
+              "number": "5/40302",
+              "author": "Frank James",
+              "text": "Good afternoon, around 10-00 (by additional agreement) it is necessary to deliver 3 people (representatives of the cargo owner) from the hotel to the site",
+              "date": "21.02.2024",
+              "priority": "Default",
+              "status": "Refused",
+              "responsible_person": "Bernard Robinson"
+            },
+            {
+              "number": "5/40249",
+              "author": "Regina Roberts",
+              "text": "Good afternoon! I ask you to provide me with a vehicle on 04/11/2024 at 13.00 for an on-site inspection of compliance with the requirements for labor protection of the site",
+              "date": "12.01.2024",
+              "priority": "Default",
+              "status": "Refused",
+              "responsible_person": "Bernard Robinson"
             }
           ]
         },
         "outgoing_tasks": {
           "open": [
             {
-              "number": "5/39432",
+              "number": "5/42245",
               "author": "Oscar Lee",
               "text": "I ask you to arrange transportation of employees from the company's office to the depot by motor transport.",
-              "date": "Not set",
+              "date": "25.04.2024",
               "priority": "Default",
               "status": "Open",
               "responsible_person": "Bernard Robinson"
             },
             {
-              "number": "5/43636",
+              "number": "5/42220",
               "author": "Salvador Montgomery",
               "text": "I ask you to arrange the transportation of correspondence and documents to the territory of the company.",
-              "date": "20.01.2024",
+              "date": "25.04.2024",
               "priority": "Default",
               "status": "Open",
               "responsible_person": "Willard Bennett"
+            },
+            {
+              "number": "5/42156",
+              "author": "Diane Gordon",
+              "text": "Please take/pick up the documents to the following addresses on 05/02/2024: 1) 2333 3/4 EAST LAKE AVE 90031-2933 (pre-pick up documents for signature at the personnel department); 2) 7701 HENEFER AVE 90045-1140 (pick up documents).",
+              "date": "25.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Willard Bennett"
+            },
+            {
+              "number": "5/42142",
+              "author": "Ann Hill",
+              "text": "To load scrap metal, please arrange the delivery of cargo buckets. Please schedule the work for May 2-3 and inform us in advance to get a pass.",
+              "date": "25.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Bernard Robinson"
+            },
+            {
+              "number": "5/42124",
+              "author": "Nora Coleman",
+              "text": "Transportation is required for electrical work at the northern branch. Route: pick up the electrician in the morning and take him to the northern branch, bring him back in the evening. Preferably on May 2 or 3.",
+              "date": "25.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Bernard Robinson"
             }
           ],
           "closed": [
             {
-              "number": "5/39486",
+              "number": "5/42199",
               "author": "Tommy Hudson",
               "text": "I ask you to arrange transportation of employees to meet clients in another city.",
-              "date": "10.04.2024",
+              "date": "22.04.2024",
               "priority": "Default",
               "status": "Closed",
               "responsible_person": "Bernard Robinson"
             },
             {
-              "number": "5/41789",
+              "number": "5/42101",
               "author": "Lois Phillips",
               "text": "It is required to export special equipment from our warehouse to the client's territory. We ask you to arrange transportation.",
+              "date": "17.04.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Bernard Robinson"
+            },
+            {
+              "number": "5/41931",
+              "author": "Gertrude Brown",
+              "text": "Please provide a company car on 04/27/2024 at 14.00 for the trip (without waiting)",
+              "date": "13.04.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Willard Bennett"
+            },
+            {
+              "number": "5/41844",
+              "author": "Rick Christensen",
+              "text": "Please provide it on April 26, 2024. (Friday) the ZiL Ilosos car for the continuation of work from April 25, 2024 - pumping meltwater from the berth No. 1 sites, the cargo terminal and the checkpoint building.",
+              "date": "11.04.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Willard Bennett"
+            },
+            {
+              "number": "5/41812",
+              "author": "Gladys Turner",
+              "text": "Colleagues, good afternoon. Please pick up correspondence from the secretary on 04/22/2024 (Mon) and take it to the Main Post Office.",
+              "date": "06.04.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Bernard Robinson"
+            },
+            {
+              "number": "5/41786",
+              "author": "Rick Brooks",
+              "text": "Good afternoon! Please take the documents",
+              "date": "22.03.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Willard Bennett"
+            },
+            {
+              "number": "5/41138",
+              "author": "Henry Martin",
+              "text": "Good afternoon. It is necessary to take the documents to the insurance company for signature",
+              "date": "13.03.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Willard Bennett"
+            },
+            {
+              "number": "5/41104",
+              "author": "Cynthia Roberts",
+              "text": "For cleaning the territory from snow and pumping out meltwater. I ask on 04/12/2024 to provide the household area with the following equipment: 1) Front loader 1 unit; 2) Dump truck 1 unit; 3) Brush 1 unit; 4) Ilosos 1 unit.",
               "date": "05.03.2024",
               "priority": "Default",
               "status": "Closed",
               "responsible_person": "Bernard Robinson"
+            },
+            {
+              "number": "5/40935",
+              "author": "Aaron Wallace",
+              "text": "Good morning! Please pump out the water at the gas station. The approach is impossible.",
+              "date": "17.02.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Willard Bennett"
+            },
+            {
+              "number": "5/40665",
+              "author": "Anthony Paul",
+              "text": "Good morning, please provide special equipment for snow removal in a grid with lumber. urgently!!!",
+              "date": "06.02.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Bernard Robinson"
+            },
+            {
+              "number": "5/40270",
+              "author": "Johnny Graves",
+              "text": "Good afternoon. Please take the toner cartridge to the northern branch",
+              "date": "05.02.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Willard Bennett"
+            },
+            {
+              "number": "5/39878",
+              "author": "Bonnie Parker",
+              "text": "I ask you to replace the wiper blades on Nissan No. 584 and top up the windshield washer fluid.",
+              "date": "21.01.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Bernard Robinson"
+            },
+            {
+              "number": "5/39752",
+              "author": "Virginia Ross",
+              "text": "I ask you to provide vehicles for the delivery of flagpoles",
+              "date": "14.01.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Bernard Robinson"
+            },
+            {
+              "number": "5/39670",
+              "author": "Paul Sanders",
+              "text": "Pick up measuring instruments (periodically checked) at 4823 W SLAUSON AVE APT 1",
+              "date": "03.01.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Willard Bennett"
             }
           ],
           "motivated_refusals": [
             {
-              "number": "5/43491",
+              "number": "5/41834",
               "author": "Sandra Johnson",
               "text": "Good afternoon! We need to arrange transportation of employees to a corporate event in another city. Please provide a comfortable bus for a certain date. Thanks!",
-              "date": "10.05.2024",
+              "date": "13.04.2024",
               "priority": "Default",
               "status": "Refused",
               "responsible_person": "Willard Bennett"
             },
             {
-              "number": "5/43538",
+              "number": "5/40546",
               "author": "Marie Thompson",
               "text": "Good afternoon! Please arrange transportation of employees from the airport to our head office building. We ask you to provide comfortable cars. Thanks!",
-              "date": "01.06.2024",
+              "date": "04.03.2024",
               "priority": "Default",
               "status": "Refused",
               "responsible_person": "Willard Bennett"
+            },
+            {
+              "number": "5/40381",
+              "author": "Jacob Warner",
+              "text": "Please provide a company car on 04/25/2024 at 13.00 for the trip",
+              "date": "28.02.2024",
+              "priority": "Default",
+              "status": "Refused",
+              "responsible_person": "Bernard Robinson"
+            },
+            {
+              "number": "5/40302",
+              "author": "Frank James",
+              "text": "Good afternoon, around 10-00 (by additional agreement) it is necessary to deliver 3 people (representatives of the cargo owner) from the hotel to the site",
+              "date": "21.02.2024",
+              "priority": "Default",
+              "status": "Refused",
+              "responsible_person": "Bernard Robinson"
+            },
+            {
+              "number": "5/40249",
+              "author": "Regina Roberts",
+              "text": "Good afternoon! I ask you to provide me with a vehicle on 04/11/2024 at 13.00 for an on-site inspection of compliance with the requirements for labor protection of the site",
+              "date": "12.01.2024",
+              "priority": "Default",
+              "status": "Refused",
+              "responsible_person": "Bernard Robinson"
             }
           ]
         }
