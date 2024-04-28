@@ -1966,19 +1966,118 @@
         "incoming_tasks": {
           "open": [
             {
-              "number": "4/39737",
+              "number": "4/42363",
               "author": "Marie Thompson",
               "text": "There are problems with electricity in the warehouse. Please check and fix the problems.",
-              "date": "23.03.2024",
+              "date": "25.04.2024",
               "priority": "Default",
               "status": "Open",
               "responsible_person": "Karl Robertson"
             },
             {
-              "number": "4/40567",
+              "number": "4/42338",
               "author": "Kim Clark",
               "text": "The generator needs to be repaired in the warehouse. It turns off periodically and does not provide reliable power.",
-              "date": "28.02.2024",
+              "date": "25.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Joshua Williams"
+            },
+            {
+              "number": "4/42321",
+              "author": "Bonnie Moody",
+              "text": "Hello, we have a problem with the electricity in our office. Some outlets have stopped working, and we can't connect computers and other equipment. We ask for help in solving this problem.",
+              "date": "25.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Karl Robertson"
+            },
+            {
+              "number": "4/42288",
+              "author": "Violet Jenkins",
+              "text": "We lost electricity in the office. All the lights are off and we can't continue working. Please send a specialist to restore the power supply.",
+              "date": "25.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Joshua Williams"
+            },
+            {
+              "number": "4/42286",
+              "author": "Scott Adams",
+              "text": "We have a problem with the electrical wiring in the office. We noticed that some sockets are heated and emit a burning smell. Please send a specialist immediately to check and fix the problem.",
+              "date": "25.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Kevin Collins"
+            },
+            {
+              "number": "4/42270",
+              "author": "Mary Dixon",
+              "text": "Hello, we have a problem with the electrical wires in our warehouse. Some of the fixtures are not working, and we are having difficulty finding the right products. We ask for help in solving this problem.",
+              "date": "25.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Karl Robertson"
+            },
+            {
+              "number": "4/42265",
+              "author": "Marion Smith",
+              "text": "There is a problem with the power supply of our server room. We noticed that some servers are periodically shut down, which can lead to data loss. Please send a specialist immediately to check and fix the problem.",
+              "date": "25.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Joshua Williams"
+            },
+            {
+              "number": "4/42249",
+              "author": "Edith Wright",
+              "text": "Hello, we have an electrical problem in our sales department. Some employees have noticed that their computers are periodically shut down, which prevents them from working. We ask for help in solving this problem",
+              "date": "25.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Kevin Collins"
+            },
+            {
+              "number": "4/42224",
+              "author": "Anthony Paul",
+              "text": "There is a problem with the electrical wiring in our conference room. Some outlets are not working, and we cannot hold important meetings and presentations. Please send a specialist to check and fix the problem.",
+              "date": "25.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Karl Robertson"
+            },
+            {
+              "number": "4/42204",
+              "author": "Sara Rivera",
+              "text": "Hello, we have a problem with the electrical wiring on the second floor of our building. There is no electricity in some rooms and we cannot continue working. Please send a specialist to check and fix the problem.",
+              "date": "25.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Joshua Williams"
+            },
+            {
+              "number": "4/42186",
+              "author": "James Garcia",
+              "text": "We noticed that some sockets are not working and we cannot use computers and other equipment. We ask for help in solving this problem",
+              "date": "25.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Kevin Collins"
+            },
+            {
+              "number": "4/42172",
+              "author": "Jacob Warner",
+              "text": "Some machines are periodically shut down, which leads to downtime and reduced productivity.",
+              "date": "24.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Karl Robertson"
+            },
+            {
+              "number": "4/42161",
+              "author": "Valerie Curry",
+              "text": "There was a problem with the electric lighting in the company's parking lot. Some lights do not work, which creates a danger for employees when returning home at night.",
+              "date": "24.04.2024",
               "priority": "Default",
               "status": "Open",
               "responsible_person": "Joshua Williams"
@@ -1986,22 +2085,121 @@
           ],
           "closed": [
             {
-              "number": "4/41789",
+              "number": "4/42100",
               "author": "Donna Baker",
               "text": "There are periodic failures in the operation of the electrical network in the warehouse. This leads to delays in cargo handling. Please take action.",
-              "date": "10.04.2024",
+              "date": "25.04.2024",
               "priority": "Default",
               "status": "Closed",
               "responsible_person": "Kevin Collins"
             },
             {
-              "number": "4/42901",
+              "number": "4/42016",
               "author": "Janice Cunningham",
               "text": "It is necessary to check and fix the lighting problem in the warehouse. Some of the lights are not working.",
-              "date": "06.06.2024",
+              "date": "14.04.2024",
               "priority": "Default",
               "status": "Closed",
               "responsible_person": "Karl Robertson"
+            },
+            {
+              "number": "4/41997",
+              "author": "Kelly Miller",
+              "text": "Hello, we have a problem with electrical outlets in our development department. We noticed that some outlets are not working and we cannot connect our equipment.",
+              "date": "05.04.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Kevin Collins"
+            },
+            {
+              "number": "4/41928",
+              "author": "Catherine Bennett",
+              "text": "We noticed that some electric gates do not open, and this makes it difficult to load and unload goods. Please send a specialist immediately to check and fix the problem.",
+              "date": "02.04.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Kevin Collins"
+            },
+            {
+              "number": "4/41698",
+              "author": "Ken Rodriguez",
+              "text": "Some wires have been exposed, which poses a danger to our employees. Please send a specialist immediately to check and fix the problem.",
+              "date": "27.03.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Joshua Williams"
+            },
+            {
+              "number": "4/41693",
+              "author": "Willie Cruz",
+              "text": "Medical devices do not work stably, which may affect the quality of our medical care",
+              "date": "05.03.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Joshua Williams"
+            },
+            {
+              "number": "4/41015",
+              "author": "Edgar Brown",
+              "text": "Some outlets do not work, and this makes it difficult for us to charge and use our devices. We ask for help in solving this problem.",
+              "date": "01.03.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Karl Robertson"
+            },
+            {
+              "number": "4/40737",
+              "author": "Esther Black",
+              "text": "There is a problem with the power supply of our production line.",
+              "date": "24.02.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Karl Robertson"
+            },
+            {
+              "number": "4/40202",
+              "author": "Peter Hopkins",
+              "text": "Greetings! We have an unpleasant situation with electricity in our coworking. All of a sudden, all the outlets stopped working, and we can't charge our laptops and gadgets. This creates great inconvenience for our customers and disrupts the workflow.",
+              "date": "16.02.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Joshua Williams"
+            },
+            {
+              "number": "4/39970",
+              "author": "Mark Shaw",
+              "text": "Our refrigerator has stopped working, and we risk losing all the products. In addition, the electrical outlets in the kitchen are not functioning, which prevents us from cooking.",
+              "date": "09.02.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Kevin Collins"
+            },
+            {
+              "number": "4/39837",
+              "author": "Richard Smith",
+              "text": "Some cranes are periodically shut down, which leads to downtime and delays in loading and unloading operations. We ask you to send specialists promptly to check and troubleshoot the power supply of the cranes.",
+              "date": "01.02.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Kevin Collins"
+            },
+            {
+              "number": "4/39705",
+              "author": "Barbara Clark",
+              "text": "We have found that some electrical panels are overloaded and heating up to dangerous limits. This poses a serious threat to the safety of our staff and may lead to a fire.",
+              "date": "23.01.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Karl Robertson"
+            },
+            {
+              "number": "4/39619",
+              "author": "Mary Dixon",
+              "text": "Some conveyors are not working or are working intermittently, which seriously complicates the process of moving goods and leads to delays in deliveries.",
+              "date": "12.01.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Joshua Williams"
             }
           ],
           "motivated_refusals": [
@@ -2009,7 +2207,7 @@
               "number": "4/42901",
               "author": "Ashley White",
               "text": "Please check and fix the air conditioning problems in one of the warehouses. It is too hot there, which may affect the safety of goods.",
-              "date": "25.05.2024",
+              "date": "25.03.2024",
               "priority": "Default",
               "status": "Refused",
               "responsible_person": "Joshua Williams"
@@ -2018,7 +2216,7 @@
               "number": "4/40876",
               "author": "Jennifer Dean",
               "text": "There was a need to install additional sockets in the warehouse to connect additional equipment. Please take action.",
-              "date": "12.07.2024",
+              "date": "12.03.2024",
               "priority": "Default",
               "status": "Refused",
               "responsible_person": "Kevin Collins"
@@ -2028,19 +2226,118 @@
         "outgoing_tasks": {
           "open": [
             {
-              "number": "4/39737",
+              "number": "4/42363",
               "author": "Marie Thompson",
               "text": "There are problems with electricity in the warehouse. Please check and fix the problems.",
-              "date": "23.03.2024",
+              "date": "25.04.2024",
               "priority": "Default",
               "status": "Open",
               "responsible_person": "Karl Robertson"
             },
             {
-              "number": "4/40567",
+              "number": "4/42338",
               "author": "Kim Clark",
               "text": "The generator needs to be repaired in the warehouse. It turns off periodically and does not provide reliable power.",
-              "date": "28.02.2024",
+              "date": "25.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Joshua Williams"
+            },
+            {
+              "number": "4/42321",
+              "author": "Bonnie Moody",
+              "text": "Hello, we have a problem with the electricity in our office. Some outlets have stopped working, and we can't connect computers and other equipment. We ask for help in solving this problem.",
+              "date": "25.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Karl Robertson"
+            },
+            {
+              "number": "4/42288",
+              "author": "Violet Jenkins",
+              "text": "We lost electricity in the office. All the lights are off and we can't continue working. Please send a specialist to restore the power supply.",
+              "date": "25.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Joshua Williams"
+            },
+            {
+              "number": "4/42286",
+              "author": "Scott Adams",
+              "text": "We have a problem with the electrical wiring in the office. We noticed that some sockets are heated and emit a burning smell. Please send a specialist immediately to check and fix the problem.",
+              "date": "25.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Kevin Collins"
+            },
+            {
+              "number": "4/42270",
+              "author": "Mary Dixon",
+              "text": "Hello, we have a problem with the electrical wires in our warehouse. Some of the fixtures are not working, and we are having difficulty finding the right products. We ask for help in solving this problem.",
+              "date": "25.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Karl Robertson"
+            },
+            {
+              "number": "4/42265",
+              "author": "Marion Smith",
+              "text": "There is a problem with the power supply of our server room. We noticed that some servers are periodically shut down, which can lead to data loss. Please send a specialist immediately to check and fix the problem.",
+              "date": "25.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Joshua Williams"
+            },
+            {
+              "number": "4/42249",
+              "author": "Edith Wright",
+              "text": "Hello, we have an electrical problem in our sales department. Some employees have noticed that their computers are periodically shut down, which prevents them from working. We ask for help in solving this problem",
+              "date": "25.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Kevin Collins"
+            },
+            {
+              "number": "4/42224",
+              "author": "Anthony Paul",
+              "text": "There is a problem with the electrical wiring in our conference room. Some outlets are not working, and we cannot hold important meetings and presentations. Please send a specialist to check and fix the problem.",
+              "date": "25.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Karl Robertson"
+            },
+            {
+              "number": "4/42204",
+              "author": "Sara Rivera",
+              "text": "Hello, we have a problem with the electrical wiring on the second floor of our building. There is no electricity in some rooms and we cannot continue working. Please send a specialist to check and fix the problem.",
+              "date": "25.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Joshua Williams"
+            },
+            {
+              "number": "4/42186",
+              "author": "James Garcia",
+              "text": "We noticed that some sockets are not working and we cannot use computers and other equipment. We ask for help in solving this problem",
+              "date": "25.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Kevin Collins"
+            },
+            {
+              "number": "4/42172",
+              "author": "Jacob Warner",
+              "text": "Some machines are periodically shut down, which leads to downtime and reduced productivity.",
+              "date": "24.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Karl Robertson"
+            },
+            {
+              "number": "4/42161",
+              "author": "Valerie Curry",
+              "text": "There was a problem with the electric lighting in the company's parking lot. Some lights do not work, which creates a danger for employees when returning home at night.",
+              "date": "24.04.2024",
               "priority": "Default",
               "status": "Open",
               "responsible_person": "Joshua Williams"
@@ -2048,22 +2345,121 @@
           ],
           "closed": [
             {
-              "number": "4/41789",
+              "number": "4/42100",
               "author": "Donna Baker",
               "text": "There are periodic failures in the operation of the electrical network in the warehouse. This leads to delays in cargo handling. Please take action.",
-              "date": "10.04.2024",
+              "date": "25.04.2024",
               "priority": "Default",
               "status": "Closed",
               "responsible_person": "Kevin Collins"
             },
             {
-              "number": "4/42901",
+              "number": "4/42016",
               "author": "Janice Cunningham",
               "text": "It is necessary to check and fix the lighting problem in the warehouse. Some of the lights are not working.",
-              "date": "06.06.2024",
+              "date": "14.04.2024",
               "priority": "Default",
               "status": "Closed",
               "responsible_person": "Karl Robertson"
+            },
+            {
+              "number": "4/41997",
+              "author": "Kelly Miller",
+              "text": "Hello, we have a problem with electrical outlets in our development department. We noticed that some outlets are not working and we cannot connect our equipment.",
+              "date": "05.04.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Kevin Collins"
+            },
+            {
+              "number": "4/41928",
+              "author": "Catherine Bennett",
+              "text": "We noticed that some electric gates do not open, and this makes it difficult to load and unload goods. Please send a specialist immediately to check and fix the problem.",
+              "date": "02.04.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Kevin Collins"
+            },
+            {
+              "number": "4/41698",
+              "author": "Ken Rodriguez",
+              "text": "Some wires have been exposed, which poses a danger to our employees. Please send a specialist immediately to check and fix the problem.",
+              "date": "27.03.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Joshua Williams"
+            },
+            {
+              "number": "4/41693",
+              "author": "Willie Cruz",
+              "text": "Medical devices do not work stably, which may affect the quality of our medical care",
+              "date": "05.03.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Joshua Williams"
+            },
+            {
+              "number": "4/41015",
+              "author": "Edgar Brown",
+              "text": "Some outlets do not work, and this makes it difficult for us to charge and use our devices. We ask for help in solving this problem.",
+              "date": "01.03.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Karl Robertson"
+            },
+            {
+              "number": "4/40737",
+              "author": "Esther Black",
+              "text": "There is a problem with the power supply of our production line.",
+              "date": "24.02.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Karl Robertson"
+            },
+            {
+              "number": "4/40202",
+              "author": "Peter Hopkins",
+              "text": "Greetings! We have an unpleasant situation with electricity in our coworking. All of a sudden, all the outlets stopped working, and we can't charge our laptops and gadgets. This creates great inconvenience for our customers and disrupts the workflow.",
+              "date": "16.02.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Joshua Williams"
+            },
+            {
+              "number": "4/39970",
+              "author": "Mark Shaw",
+              "text": "Our refrigerator has stopped working, and we risk losing all the products. In addition, the electrical outlets in the kitchen are not functioning, which prevents us from cooking.",
+              "date": "09.02.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Kevin Collins"
+            },
+            {
+              "number": "4/39837",
+              "author": "Richard Smith",
+              "text": "Some cranes are periodically shut down, which leads to downtime and delays in loading and unloading operations. We ask you to send specialists promptly to check and troubleshoot the power supply of the cranes.",
+              "date": "01.02.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Kevin Collins"
+            },
+            {
+              "number": "4/39705",
+              "author": "Barbara Clark",
+              "text": "We have found that some electrical panels are overloaded and heating up to dangerous limits. This poses a serious threat to the safety of our staff and may lead to a fire.",
+              "date": "23.01.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Karl Robertson"
+            },
+            {
+              "number": "4/39619",
+              "author": "Mary Dixon",
+              "text": "Some conveyors are not working or are working intermittently, which seriously complicates the process of moving goods and leads to delays in deliveries.",
+              "date": "12.01.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Joshua Williams"
             }
           ],
           "motivated_refusals": [
@@ -2071,7 +2467,7 @@
               "number": "4/42901",
               "author": "Ashley White",
               "text": "Please check and fix the air conditioning problems in one of the warehouses. It is too hot there, which may affect the safety of goods.",
-              "date": "25.05.2024",
+              "date": "25.03.2024",
               "priority": "Default",
               "status": "Refused",
               "responsible_person": "Joshua Williams"
@@ -2080,7 +2476,7 @@
               "number": "4/40876",
               "author": "Jennifer Dean",
               "text": "There was a need to install additional sockets in the warehouse to connect additional equipment. Please take action.",
-              "date": "12.07.2024",
+              "date": "12.03.2024",
               "priority": "Default",
               "status": "Refused",
               "responsible_person": "Kevin Collins"
