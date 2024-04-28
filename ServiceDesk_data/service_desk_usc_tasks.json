@@ -3439,124 +3439,358 @@
         "incoming_tasks": {
           "open": [
             {
-              "number": "7/39493",
+              "number": "7/42285",
               "author": "Lisa Dean",
               "text": "Hello! We require the services of a carpenter for the manufacture of wooden structures in the warehouse. Please appoint a responsible specialist. Thanks!",
-              "date": "15.01.2024",
+              "date": "25.04.2024",
               "priority": "Default",
               "status": "Open",
               "responsible_person": "Jacob Warner"
             },
             {
-              "number": "7/39436",
+              "number": "7/42174",
               "author": "Amy Roberts",
               "text": "Good afternoon! We need the services of a carpenter to repair wooden furniture in the office. I ask you to appoint a specialist to perform the work. Thanks!",
-              "date": "05.02.2024",
+              "date": "25.04.2024",
               "priority": "Default",
               "status": "Open",
               "responsible_person": "Justin Newman"
+            },
+            {
+              "number": "7/42162",
+              "author": "Timothy Castillo",
+              "text": "Good morning! We need to make a corner table in our office",
+              "date": "25.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Jacob Warner"
+            },
+            {
+              "number": "7/42160",
+              "author": "Grace Underwood",
+              "text": "For warehouses, make a suitable wooden platform for new cargo",
+              "date": "25.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Jason Hill"
             }
           ],
           "closed": [
             {
-              "number": "7/39970",
+              "number": "7/42193",
               "author": "Bonnie Greer",
               "text": "Hello! We need the help of a carpenter to install wooden partitions in the warehouse. Please appoint a responsible specialist. Thanks!",
-              "date": "25.02.2024",
+              "date": "19.04.2024",
               "priority": "Default",
               "status": "Closed",
               "responsible_person": "Jason Hill"
             },
             {
-              "number": "7/39084",
+              "number": "7/41607",
               "author": "Helen Higgins",
               "text": "Greetings! We need the services of a carpenter to build wooden shelves in the warehouse. Please appoint a specialist for this task. Thanks!",
-              "date": "10.04.2024",
+              "date": "11.04.2024",
               "priority": "Default",
               "status": "Closed",
               "responsible_person": "Lawrence Morgan"
+            },
+            {
+              "number": "7/41349",
+              "author": "John Miller",
+              "text": "I am asking you to help me create a wooden presentation stand.",
+              "date": "20.03.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Jason Hill"
+            },
+            {
+              "number": "7/41272",
+              "author": "Dennis Osborne",
+              "text": "We have an expansion going on in our office, and we will need wooden partitions.",
+              "date": "03.03.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Jacob Warner"
+            },
+            {
+              "number": "7/41124",
+              "author": "Justin Swanson",
+              "text": "In our department, there is a need for wooden filing cabinets.",
+              "date": "28.02.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Justin Newman"
+            },
+            {
+              "number": "7/40809",
+              "author": "William Erickson",
+              "text": "Hey, guys! We need wooden tables and chairs for our dining room.",
+              "date": "23.02.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Rodney Carpenter"
+            },
+            {
+              "number": "7/40471",
+              "author": "Anthony Paul",
+              "text": "Hello, colleagues! Our company requires wooden shelves to organize the storage of documentation",
+              "date": "15.02.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Rodney Carpenter"
+            },
+            {
+              "number": "7/40175",
+              "author": "Pamela Terry",
+              "text": "I am writing to you with a request for help in creating a wooden table for meetings in our office",
+              "date": "07.02.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Gerald White"
+            },
+            {
+              "number": "7/39921",
+              "author": "Gwendolyn Gomez",
+              "text": "We have a need to manufacture wooden cabinets for storing tools in our workshop",
+              "date": "28.01.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Frank Wells"
+            },
+            {
+              "number": "7/39618",
+              "author": "Gladys Turner",
+              "text": "Hey, guys! In our office, the manufacture of a wooden bookshelf is required.",
+              "date": "23.01.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Jason Hill"
             }
           ],
           "motivated_refusals": [
             {
-              "number": "7/39052",
+              "number": "7/42262",
               "author": "Erica Rodriguez",
               "text": "Hello! We require the services of a carpenter to replace wooden doors in the office. Please appoint a responsible specialist. Thanks!",
-              "date": "05.05.2024",
+              "date": "21.04.2024",
               "priority": "Default",
               "status": "Refused",
               "responsible_person": "Gerald White"
             },
             {
-              "number": "7/39439",
+              "number": "7/42143",
               "author": "Sharon Ford",
               "text": "Hi! We need to fix the wooden floors in the warehouse. Please assign a carpenter to do this job. Thanks!",
-              "date": "15.12.2023",
+              "date": "28.03.2024",
               "priority": "Default",
               "status": "Refused",
               "responsible_person": "Frank James"
+            },
+            {
+              "number": "7/41348",
+              "author": "Ken Rodriguez",
+              "text": "Hello, colleagues! There are several old wooden tables in our office that require restoration.",
+              "date": "21.03.2024",
+              "priority": "Default",
+              "status": "Refused",
+              "responsible_person": "Jacob Warner"
+            },
+            {
+              "number": "7/40852",
+              "author": "Jenny Boyd",
+              "text": "We would like to order the manufacture of a wooden ottoman for our office recreation area.",
+              "date": "16.02.2024",
+              "priority": "Default",
+              "status": "Refused",
+              "responsible_person": "Justin Newman"
+            },
+            {
+              "number": "7/39913",
+              "author": "Ivan Lynch",
+              "text": "In our office, the manufacture of wooden stands for our monitors is required.",
+              "date": "03.02.2024",
+              "priority": "Default",
+              "status": "Refused",
+              "responsible_person": "Jason Hill"
             }
           ]
         },
         "outgoing_tasks": {
           "open": [
             {
-              "number": "7/39493",
+              "number": "7/42285",
               "author": "Lisa Dean",
               "text": "Hello! We require the services of a carpenter for the manufacture of wooden structures in the warehouse. Please appoint a responsible specialist. Thanks!",
-              "date": "15.01.2024",
+              "date": "25.04.2024",
               "priority": "Default",
               "status": "Open",
               "responsible_person": "Jacob Warner"
             },
             {
-              "number": "7/39436",
+              "number": "7/42174",
               "author": "Amy Roberts",
               "text": "Good afternoon! We need the services of a carpenter to repair wooden furniture in the office. I ask you to appoint a specialist to perform the work. Thanks!",
-              "date": "05.02.2024",
+              "date": "25.04.2024",
               "priority": "Default",
               "status": "Open",
               "responsible_person": "Justin Newman"
+            },
+            {
+              "number": "7/42162",
+              "author": "Timothy Castillo",
+              "text": "Good morning! We need to make a corner table in our office",
+              "date": "25.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Jacob Warner"
+            },
+            {
+              "number": "7/42160",
+              "author": "Grace Underwood",
+              "text": "For warehouses, make a suitable wooden platform for new cargo",
+              "date": "25.04.2024",
+              "priority": "Default",
+              "status": "Open",
+              "responsible_person": "Jason Hill"
             }
           ],
           "closed": [
             {
-              "number": "7/39970",
+              "number": "7/42193",
               "author": "Bonnie Greer",
               "text": "Hello! We need the help of a carpenter to install wooden partitions in the warehouse. Please appoint a responsible specialist. Thanks!",
-              "date": "25.02.2024",
+              "date": "19.04.2024",
               "priority": "Default",
               "status": "Closed",
               "responsible_person": "Jason Hill"
             },
             {
-              "number": "7/39084",
+              "number": "7/41607",
               "author": "Helen Higgins",
               "text": "Greetings! We need the services of a carpenter to build wooden shelves in the warehouse. Please appoint a specialist for this task. Thanks!",
-              "date": "10.04.2024",
+              "date": "11.04.2024",
               "priority": "Default",
               "status": "Closed",
               "responsible_person": "Lawrence Morgan"
+            },
+            {
+              "number": "7/41349",
+              "author": "John Miller",
+              "text": "I am asking you to help me create a wooden presentation stand.",
+              "date": "20.03.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Jason Hill"
+            },
+            {
+              "number": "7/41272",
+              "author": "Dennis Osborne",
+              "text": "We have an expansion going on in our office, and we will need wooden partitions.",
+              "date": "03.03.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Jacob Warner"
+            },
+            {
+              "number": "7/41124",
+              "author": "Justin Swanson",
+              "text": "In our department, there is a need for wooden filing cabinets.",
+              "date": "28.02.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Justin Newman"
+            },
+            {
+              "number": "7/40809",
+              "author": "William Erickson",
+              "text": "Hey, guys! We need wooden tables and chairs for our dining room.",
+              "date": "23.02.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Rodney Carpenter"
+            },
+            {
+              "number": "7/40471",
+              "author": "Anthony Paul",
+              "text": "Hello, colleagues! Our company requires wooden shelves to organize the storage of documentation",
+              "date": "15.02.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Rodney Carpenter"
+            },
+            {
+              "number": "7/40175",
+              "author": "Pamela Terry",
+              "text": "I am writing to you with a request for help in creating a wooden table for meetings in our office",
+              "date": "07.02.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Gerald White"
+            },
+            {
+              "number": "7/39921",
+              "author": "Gwendolyn Gomez",
+              "text": "We have a need to manufacture wooden cabinets for storing tools in our workshop",
+              "date": "28.01.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Frank Wells"
+            },
+            {
+              "number": "7/39618",
+              "author": "Gladys Turner",
+              "text": "Hey, guys! In our office, the manufacture of a wooden bookshelf is required.",
+              "date": "23.01.2024",
+              "priority": "Default",
+              "status": "Closed",
+              "responsible_person": "Jason Hill"
             }
           ],
           "motivated_refusals": [
             {
-              "number": "7/39052",
+              "number": "7/42262",
               "author": "Erica Rodriguez",
               "text": "Hello! We require the services of a carpenter to replace wooden doors in the office. Please appoint a responsible specialist. Thanks!",
-              "date": "05.05.2024",
+              "date": "21.04.2024",
               "priority": "Default",
               "status": "Refused",
               "responsible_person": "Gerald White"
             },
             {
-              "number": "7/39439",
+              "number": "7/42143",
               "author": "Sharon Ford",
               "text": "Hi! We need to fix the wooden floors in the warehouse. Please assign a carpenter to do this job. Thanks!",
-              "date": "15.12.2023",
+              "date": "28.03.2024",
               "priority": "Default",
               "status": "Refused",
               "responsible_person": "Frank James"
+            },
+            {
+              "number": "7/41348",
+              "author": "Ken Rodriguez",
+              "text": "Hello, colleagues! There are several old wooden tables in our office that require restoration.",
+              "date": "21.03.2024",
+              "priority": "Default",
+              "status": "Refused",
+              "responsible_person": "Jacob Warner"
+            },
+            {
+              "number": "7/40852",
+              "author": "Jenny Boyd",
+              "text": "We would like to order the manufacture of a wooden ottoman for our office recreation area.",
+              "date": "16.02.2024",
+              "priority": "Default",
+              "status": "Refused",
+              "responsible_person": "Justin Newman"
+            },
+            {
+              "number": "7/39913",
+              "author": "Ivan Lynch",
+              "text": "In our office, the manufacture of wooden stands for our monitors is required.",
+              "date": "03.02.2024",
+              "priority": "Default",
+              "status": "Refused",
+              "responsible_person": "Jason Hill"
             }
           ]
         }
