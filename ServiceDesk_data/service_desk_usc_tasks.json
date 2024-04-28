@@ -163,7 +163,7 @@
             "text": "There is a problem with data security in our storage system. Coordination with management is required to take measures to eliminate risks and ensure information security.",
             "date": "24.04.2024",
             "priority": "Default",
-            "status": "Open",
+            "status": "Awaiting approval",
             "responsible_person": "William Erickson"
           },
           {
@@ -172,7 +172,7 @@
             "text": "It is necessary to update and modernize the company's existing IT infrastructure in order to meet modern requirements and ensure global competitiveness. Management coordination is required to allocate the necessary resources and carry out updates.",
             "date": "23.04.2024",
             "priority": "Default",
-            "status": "Open",
+            "status": "Awaiting approval",
             "responsible_person": "Mark Ward"
           },
           {
@@ -181,7 +181,7 @@
             "text": "The problem is with insufficient cybersecurity in the company, which poses a threat to our information and customers. The guidelines need to be agreed upon in order to take measures to strengthen data protection and prevent potential cyber attacks.",
             "date": "23.04.2024",
             "priority": "Important",
-            "status": "Open",
+            "status": "Awaiting approval",
             "responsible_person": "Max Parks"
           },
           {
@@ -190,7 +190,7 @@
             "text": "Software updates and upgrades are required to improve the efficiency and productivity of the company.",
             "date": "22.04.2024",
             "priority": "Default",
-            "status": "Open",
+            "status": "Awaiting approval",
             "responsible_person": "Joshua Lane"
           },
           {
@@ -199,7 +199,7 @@
             "text": "The server hardware should be updated and the network infrastructure improved to ensure higher performance and stability of the system. Discussions with management are required to allocate funds and plan updates.",
             "date": "21.04.2024",
             "priority": "Important",
-            "status": "Open",
+            "status": "Awaiting approval",
             "responsible_person": "Max Parks"
           },
           {
@@ -208,7 +208,7 @@
             "text": "It is necessary to train information security staff to raise awareness and reduce the risk of data leakage.",
             "date": "20.04.2024",
             "priority": "Default",
-            "status": "Open",
+            "status": "Awaiting approval",
             "responsible_person": "William Erickson"
           },
           {
@@ -217,7 +217,7 @@
             "text": "It is necessary to develop and implement a new project management system that will optimize processes and increase the efficiency of work within the IT department.",
             "date": "20.04.2024",
             "priority": "Default",
-            "status": "Open",
+            "status": "Awaiting approval",
             "responsible_person": "Joshua Lane"
           },
           {
@@ -226,7 +226,7 @@
             "text": "The data backup process needs to be reviewed and improved to ensure its reliability and recovery in case of failures. Discussion with management is required to plan and implement a new backup system.",
             "date": "17.04.2024",
             "priority": "Default",
-            "status": "Open",
+            "status": "Awaiting approval",
             "responsible_person": "Mark Ward"
           },
           {
@@ -235,7 +235,7 @@
             "text": "It is necessary to improve the system for processing user requests and speed up the response time to problems.",
             "date": "16.04.2024",
             "priority": "Default",
-            "status": "Open",
+            "status": "Awaiting approval",
             "responsible_person": "Mark Ward"
           },
           {
@@ -244,7 +244,7 @@
             "text": "I propose to implement a voice control system to improve the convenience of working with the software.",
             "date": "14.04.2024",
             "priority": "Default",
-            "status": "Open",
+            "status": "Awaiting approval",
             "responsible_person": "Joshua Lane"
           },
           {
@@ -253,7 +253,7 @@
             "text": "I propose to develop and implement a mobile application for internal communication in the company, which will simplify the exchange of information and increase the efficiency of employees.",
             "date": "12.04.2024",
             "priority": "Default",
-            "status": "Open",
+            "status": "Awaiting approval",
             "responsible_person": "Max Parks"
           }
         ],
@@ -884,7 +884,7 @@
             "text": "It is required to install a new cooler system",
             "date": "20.04.2024",
             "priority": "Default",
-            "status": "Open",
+            "status": "Awaiting approval",
             "responsible_person": "John Smith"
           },
           {
@@ -893,7 +893,7 @@
             "text": "The existing curtains are old, worn and unaesthetic. I ask you to install new curtains",
             "date": "18.04.2024",
             "priority": "Default",
-            "status": "Open",
+            "status": "Awaiting approval",
             "responsible_person": "Bill Duncan"
           },
           {
@@ -902,7 +902,7 @@
             "text": "Better lighting is needed in the office.",
             "date": "16.04.2024",
             "priority": "Default",
-            "status": "Open",
+            "status": "Awaiting approval",
             "responsible_person": "Francis Norton"
           },
           {
@@ -911,7 +911,7 @@
             "text": "The old coffee machine no longer provides high-quality coffee preparation and needs to be replaced.",
             "date": "14.04.2024",
             "priority": "Default",
-            "status": "Open",
+            "status": "Awaiting approval",
             "responsible_person": "Brandon Wade"
           },
           {
@@ -920,7 +920,7 @@
             "text": "There is a problem with the faucet in the toilet on the 3rd floor.",
             "date": "12.04.2024",
             "priority": "Default",
-            "status": "Open",
+            "status": "Awaiting approval",
             "responsible_person": "John Smith"
           },
           {
@@ -929,7 +929,7 @@
             "text": "It is required to install a new office desk for an employee.",
             "date": "12.04.2024",
             "priority": "Default",
-            "status": "Open",
+            "status": "Awaiting approval",
             "responsible_person": "Francis Norton"
           }
         ],
@@ -1527,7 +1527,7 @@
             "text": "We need tables, chairs, cabinets and other furniture to update our office space",
             "date": "20.04.2024",
             "priority": "Default",
-            "status": "Open",
+            "status": "Awaiting approval",
             "responsible_person": "Shirley Simpson"
           },
           {
@@ -1536,7 +1536,7 @@
             "text": "We need to purchase a new crane to perform lifting operations in our warehouse.",
             "date": "15.04.2024",
             "priority": "Default",
-            "status": "Open",
+            "status": "Awaiting approval",
             "responsible_person": "Carolyn Webb"
           },
           {
@@ -1545,7 +1545,7 @@
             "text": "We would like to order scanners",
             "date": "12.04.2024",
             "priority": "Default",
-            "status": "Open",
+            "status": "Awaiting approval",
             "responsible_person": "Carolyn Webb"
           },
           {
@@ -1554,7 +1554,7 @@
             "text": "Need to order new trucks to expand our fleet",
             "date": "08.04.2024",
             "priority": "Default",
-            "status": "Open",
+            "status": "Awaiting approval",
             "responsible_person": "Bertha Jimenez"
           },
           {
@@ -1563,7 +1563,7 @@
             "text": "Hello, we need to purchase new forklifts for warehouse work.",
             "date": "05.04.2024",
             "priority": "Default",
-            "status": "Open",
+            "status": "Awaiting approval",
             "responsible_person": "Shirley Simpson"
           },
           {
@@ -1572,7 +1572,7 @@
             "text": "We would like to order a new printer for our department.",
             "date": "02.04.2024",
             "priority": "Default",
-            "status": "Open",
+            "status": "Awaiting approval",
             "responsible_person": "Bertha Jimenez"
           }
         ],
@@ -2176,6 +2176,35 @@
         }
       ],
       "tasks": {
+        "awaiting_approval": [
+          {
+            "number": "4/42341",
+            "author": "David Chavez",
+            "text": "We have a problem with the electrical wiring in the office.",
+            "date": "20.04.2024",
+            "priority": "Default",
+            "status": "Awaiting approval",
+            "responsible_person": "Joshua Williams"
+          },
+          {
+            "number": "4/42286",
+            "author": "Lois Phillips",
+            "text": "We noticed that some servers are periodically shut down, which can lead to data loss.",
+            "date": "18.04.2024",
+            "priority": "Default",
+            "status": "Awaiting approval",
+            "responsible_person": "Kevin Collins"
+          },
+          {
+            "number": "4/42260",
+            "author": "Willie Cruz",
+            "text": "There are periodic failures in the operation of the electrical network in the warehouse.",
+            "date": "15.04.2024",
+            "priority": "Default",
+            "status": "Awaiting approval",
+            "responsible_person": "Karl Robertson"
+          }
+        ],
         "incoming_tasks": {
           "open": [
             {
@@ -2722,6 +2751,35 @@
         }
       ],
       "tasks": {
+        "awaiting_approval": [
+          {
+            "number": "5/42105",
+            "author": "Oscar Lee",
+            "text": "Please provide a company car on 04/29/2024 for the trip (without waiting)",
+            "date": "20.04.2024",
+            "priority": "Default",
+            "status": "Awaiting approval",
+            "responsible_person": "Willard Bennett"
+          },
+          {
+            "number": "5/42141",
+            "author": "Henry Martin",
+            "text": "Please provide a company car on 04/28/2024 for the trip (without waiting)",
+            "date": "18.04.2024",
+            "priority": "Default",
+            "status": "Awaiting approval",
+            "responsible_person": "Bernard Robinson"
+          },
+          {
+            "number": "5/42145",
+            "author": "Michele Kelley",
+            "text": "Please provide a company car on 04/28/2024 for the trip (without waiting)",
+            "date": "18.04.2024",
+            "priority": "Default",
+            "status": "Awaiting approval",
+            "responsible_person": "Bernard Robinson"
+          }
+        ],
         "incoming_tasks": {
           "open": [
             {
@@ -2792,7 +2850,7 @@
             {
               "number": "5/41931",
               "author": "Gertrude Brown",
-              "text": "Please provide a company car on 04/27/2024 at 14.00 for the trip (without waiting)",
+              "text": "Please provide a company car on 04/12/2024 at 14.00 for the trip (without waiting)",
               "date": "13.04.2024",
               "priority": "Default",
               "status": "Closed",
@@ -3202,6 +3260,35 @@
         }
       ],
       "tasks": {
+        "awaiting_approval": [
+          {
+            "number": "6/42356",
+            "author": "Maureen Miller",
+            "text": "Please provide a welder in the morning..",
+            "date": "20.04.2024",
+            "priority": "Default",
+            "status": "Awaiting approval",
+            "responsible_person": "Lawrence Morgan"
+          },
+          {
+            "number": "6/42296",
+            "author": "Peter King",
+            "text": "Ask you to organize welding work at the morning!",
+            "date": "20.04.2024",
+            "priority": "Default",
+            "status": "Awaiting approval",
+            "responsible_person": "Gerald White"
+          },
+          {
+            "number": "6/42274",
+            "author": "Sarah Jensen",
+            "text": "We are having problems with the operation of the conveyor in the warehouse.",
+            "date": "20.04.2024",
+            "priority": "Default",
+            "status": "Awaiting approval",
+            "responsible_person": "Frank Wells"
+          }
+        ],
         "incoming_tasks": {
           "open": [
             {
@@ -3649,6 +3736,35 @@
         }
       ],
       "tasks": {
+        "awaiting_approval": [
+          {
+            "number": "7/",
+            "author": "Edgar Brown",
+            "text": "We need to make a corner table in our office, thanks!",
+            "date": "20.04.2024",
+            "priority": "Default",
+            "status": "Awaiting approval",
+            "responsible_person": "Gerald White"
+          },
+          {
+            "number": "7/",
+            "author": "Vera Young",
+            "text": "We have a need to manufacture wooden cabinets",
+            "date": "20.04.2024",
+            "priority": "Default",
+            "status": "Awaiting approval",
+            "responsible_person": "Frank James"
+          },
+          {
+            "number": "7/",
+            "author": "Margaret Pierce",
+            "text": "We need wooden tables and chairs",
+            "date": "20.04.2024",
+            "priority": "Default",
+            "status": "Awaiting approval",
+            "responsible_person": "Scott Adams"
+          }
+        ],
         "incoming_tasks": {
           "open": [
             {
